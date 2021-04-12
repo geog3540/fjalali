@@ -1,2 +1,2 @@
 # fjalali
-geog3540/fjalali - Jalali Falak
+geog3540/Repository for my Geovisualisation portfolio
