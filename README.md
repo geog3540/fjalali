@@ -1,2 +1,2 @@
 # fjalali
-geog3540/fjalali - Jalali Falak
+I think there ae multiple read me files. 
