@@ -53,7 +53,7 @@
 	<div class="container">
 		<div class="content">
 			<div class="row">
-					<h1>Social Characteristics in Champaign County, Illinois.</h1>
+					<h1>Social Characteristics of Champaign County, Illinois.</h1>
 			</div>
 			<hr />
 			<div class="row">
@@ -95,12 +95,12 @@
 
 			<div class="row">
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Language spoken at home is english</h3><p>Percentage population of household where english is the first language.</p>
+					<h3 class='mapTitle'>Primary language is english.</h3><p>Percentage population of household where english is spoken at home.</p>
 					<div id="divMap3"></div>
 					<div id="divHist3"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Language spoken at home is not english</h3><p>Percentage population of household where english is the second language.</p>
+					<h3 class='mapTitle'>Primary language is not english.</h3><p>Percentage population of household where english is not spoken at home.</p>
 					<div id="divMap4"></div>
 					<div id="divHist4"></div>
 				</div>
@@ -116,7 +116,7 @@
 
 	/////////////////////////////////////////////////////////////////////////////////////////////////
 	// TODO: Change the variables below to customize the small multiples interface for your data
-	var polygonJSONFile = 'smallmultiples/data/champaigncounty.geojson'
+	var polygonJSONFile = 'data/champaigncounty.geojson'
 	// change the projection if needed *d3.geoAlbers()*
 	var projection = d3.geoAlbers();
 	var widthheightRatio = 0.4;
@@ -141,8 +141,8 @@
 	// https://observablehq.com/@d3/d3-format
 	var att1 = 'pop_graduate', att1alias = 'Population with a graduate degree', att1format = '.0f',
 	att2 = 'pop_nodegree', att2alias =  'Population of college drop-outs', att2format = '.0f',
-	att3 = 'total_only_eng', att3alias = 'Language spoken at home is English', att3format = '.0f',
-	att4 = 'lang_else_eng', att4alias = 'Language spoken at home is not English', att4format = '.0f';
+	att3 = 'total_only_eng', att3alias = 'Primary language is english', att3format = '.0f',
+	att4 = 'lang_else_eng', att4alias = 'Primary language is not english', att4format = '.0f';
 
   // enter below all variables that should be normalized. If you would like to multiple the variables
 	// with a constant value enter them in multiplyBy array. If there is no need for multiplication,
