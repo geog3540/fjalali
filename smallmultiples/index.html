@@ -53,12 +53,12 @@
 	<div class="container">
 		<div class="content">
 			<div class="row">
-					<h1>Cancer in Iowa</h1>
+					<h1>Social Characteristics in Champaign County, Illinois.</h1>
 			</div>
 			<hr />
 			<div class="row">
 				<div class="col-sm-4">
-					<p>Data from <a href="data.iowa.gov">Data.Iowa.gov</a>, maps by Ryan Larson & Caglar Koylu.</p>
+					<p>Data from <a href="https://www.census.gov/en.html">Censusdata.gov</a>, maps by Falak Jalali.</p>
 				</div>
 				<div class='col-sm-8 mapButtons'>
 					<span class="pull-right">
@@ -82,12 +82,12 @@
 			<br />
 			<div class="row">
 				<div class="col-sm-6">
-					<span><p><h3 class='mapTitle'>Population of Children</h3>Yearly average number of deaths from lung cancer per 10,000.</p></span>
+					<span><p><h3 class='mapTitle'>Population of college-dropout.</h3>Percentage population of 25 and above with no-degree.</p></span>
 					<div id="divMap1"></div>
 					<div id="divHist1"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Population of Adults</h3><p>Percentage of adult population who smoke.</p>
+					<h3 class='mapTitle'>Population of graduates.</h3><p>Percentage population of 25 and above with a graduate degree.</p>
 					<div id="divMap2"></div>
 					<div id="divHist2"></div>
 				</div>
@@ -95,12 +95,12 @@
 
 			<div class="row">
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Total male voters</h3><p>Average cost of healthcare.</p>
+					<h3 class='mapTitle'>Language spoken at home is english</h3><p>Percentage population of household where english is the first language.</p>
 					<div id="divMap3"></div>
 					<div id="divHist3"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Total female voters</h3><p>Percentage of population above 65 years old.</p>
+					<h3 class='mapTitle'>Language spoken at home is not english</h3><p>Percentage population of household where english is the second language.</p>
 					<div id="divMap4"></div>
 					<div id="divHist4"></div>
 				</div>
@@ -127,7 +127,7 @@
 	var legendX = 0.84, legendY = 0.5
 
 	// id attribute and the name attribute to be used in the tooltip
-	var idAttribute = 'AFFGEOID', nameAttribute = 'Name';
+	var idAttribute = 'AFFGEOID', nameAttribute = 'name';
 
 	// Find the abbreviations of color names from https://colorbrewer2.org/
 	var colors =  colorbrewer.YlGn;
@@ -139,17 +139,17 @@
 	// att1format: enter the d3.format string to display the variables in the format you like
 	// Check this link on how to specify the desired format:
 	// https://observablehq.com/@d3/d3-format
-	var att1 = 'totalpop_below18', att1alias = 'Population of children', att1format = '.0f',
-	att2 = 'totalpop_above18', att2alias =  'Population of adults', att2format = '.0f',
-	att3 = 'voters_male', att3alias = 'Voters male', att3format = '.0f',
-	att4 = 'voters_females', att4alias = 'Voters female', att4format = '.0f';
+	var att1 = 'pop_graduate', att1alias = 'Population with a graduate degree', att1format = '.0f',
+	att2 = 'pop_nodegree', att2alias =  'Population of college drop-outs', att2format = '.0f',
+	att3 = 'total_only_eng', att3alias = 'Language spoken at home is English', att3format = '.0f',
+	att4 = 'lang_else_eng', att4alias = 'Language spoken at home is not English', att4format = '.0f';
 
   // enter below all variables that should be normalized. If you would like to multiple the variables
 	// with a constant value enter them in multiplyBy array. If there is no need for multiplication,
 	// simply enter 1 for each value in multiplyBy.
   var attributesToBeNormalized = [att1, att2, att3, att4];
-	var multiplyBy = [10000, 100];
-	var divideBy = ['total_population', 'total_population', 'voter_above18'];
+	var multiplyBy = [100, 100, 100, 100];
+	var divideBy = ['pop_above25', 'pop_above25', 'total_lang_home', 'total_lang_home'];
 	// if your variables are not raw counts and they are already normalized, comment out above, and
 	//uncomment below:
 	// var attributesToBeNormalized = [];
