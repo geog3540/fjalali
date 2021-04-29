@@ -100,7 +100,7 @@
 					<div id="divHist3"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Primary language is not english.</h3><p>Percentage population of household where english is not spoken at home.</p>
+					<h3 class='mapTitle'>Differently able population.</h3><p>Percentage population of differently able civilians.</p>
 					<div id="divMap4"></div>
 					<div id="divHist4"></div>
 				</div>
@@ -118,7 +118,7 @@
 	// TODO: Change the variables below to customize the small multiples interface for your data
 	var polygonJSONFile = 'data/champaigncounty.geojson'
 	// change the projection if needed *d3.geoAlbers()*
-	var projection = d3.geoAlbers();
+	var projection = d3.geoMercator();
 	var widthheightRatio = 0.4;
 	// Relative placement of legend that ranges between 0 and 1.
 	// 0 is the start, whereas 1 i the end of each panel.
@@ -127,10 +127,10 @@
 	var legendX = 0.84, legendY = 0.5
 
 	// id attribute and the name attribute to be used in the tooltip
-	var idAttribute = 'AFFGEOID', nameAttribute = 'name';
+	var idAttribute = 'AFFGEOID', nameAttribute = 'id';
 
 	// Find the abbreviations of color names from https://colorbrewer2.org/
-	var colors =  colorbrewer.YlGn;
+	var colors =  colorbrewer.Reds;
 
 	// Chart/map attributes (variables) and formats based on the divs defined above
 	// For attribute 1 (the same for all others), see the description of the parameters below.
@@ -139,17 +139,17 @@
 	// att1format: enter the d3.format string to display the variables in the format you like
 	// Check this link on how to specify the desired format:
 	// https://observablehq.com/@d3/d3-format
-	var att1 = 'champaign_socials_pct_pop_graduate', att1alias = 'Population with a graduate degree', att1format = '.0f',
-	att2 = 'champaign_socials_pct_pop_nodegree', att2alias =  'Population of college drop-outs', att2format = '.0f',
+	var att1 = 'champaign_socials_pop_graduate', att1alias = 'Population with a graduate degree', att1format = '.0f',
+	att2 = 'champaign_socials_pop_nodegree', att2alias =  'Population of college drop-outs', att2format = '.0f',
 	att3 = 'champaign_socials_total_only_eng', att3alias = 'Primary language is english', att3format = '.0f',
-	att4 = 'champaign_socials_lang_else_eng', att4alias = 'Primary language is not english', att4format = '.0f';
+	att4 = 'champaign_socials_total_civialian_disability', att4alias = 'Differently able population', att4format = '.0f';
 
   // enter below all variables that should be normalized. If you would like to multiple the variables
 	// with a constant value enter them in multiplyBy array. If there is no need for multiplication,
 	// simply enter 1 for each value in multiplyBy.
   var attributesToBeNormalized = [att1, att2, att3, att4];
 	var multiplyBy = [100, 100, 100, 100];
-	var divideBy = ['champaign_socials_pop_above25', 'champaign_socials_pop_above25', 'champaign_socials_total_lang_home', 'champaign_socials_total_lang_home'];
+	var divideBy = ['champaign_socials_pop_above25', 'champaign_socials_pop_above25', 'champaign_socials_total_lang_home', 'champaign_socials_total_civilian_pop'];
 	// if your variables are not raw counts and they are already normalized, comment out above, and
 	//uncomment below:
 	// var attributesToBeNormalized = [];
@@ -413,7 +413,7 @@
 						// select the polygon by its id attribute
 						map.select('.polygon'+id)
 						.moveToFront()
-						.style('stroke', 'black')
+						.style('stroke', 'grey')
 						.style('opacity', '1');
 
 						// map tooltip
@@ -452,7 +452,7 @@
 						var tip = d.map + '-tooltip';
 
 						map.select(('.polygon'+id))
-						.style('stroke', "#dadada")
+						.style('stroke', "grey")
 						.style('opacity', '0.85');
 						// map tooltip
 						d3.select(tip)
