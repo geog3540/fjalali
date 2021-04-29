@@ -139,17 +139,17 @@
 	// att1format: enter the d3.format string to display the variables in the format you like
 	// Check this link on how to specify the desired format:
 	// https://observablehq.com/@d3/d3-format
-	var att1 = 'pop_graduate', att1alias = 'Population with a graduate degree', att1format = '.0f',
-	att2 = 'pop_nodegree', att2alias =  'Population of college drop-outs', att2format = '.0f',
-	att3 = 'total_only_eng', att3alias = 'Primary language is english', att3format = '.0f',
-	att4 = 'lang_else_eng', att4alias = 'Primary language is not english', att4format = '.0f';
+	var att1 = 'champaign_socials_pct_pop_graduate', att1alias = 'Population with a graduate degree', att1format = '.0f',
+	att2 = 'champaign_socials_pct_pop_nodegree', att2alias =  'Population of college drop-outs', att2format = '.0f',
+	att3 = 'champaign_socials_total_only_eng', att3alias = 'Primary language is english', att3format = '.0f',
+	att4 = 'champaign_socials_lang_else_eng', att4alias = 'Primary language is not english', att4format = '.0f';
 
   // enter below all variables that should be normalized. If you would like to multiple the variables
 	// with a constant value enter them in multiplyBy array. If there is no need for multiplication,
 	// simply enter 1 for each value in multiplyBy.
   var attributesToBeNormalized = [att1, att2, att3, att4];
 	var multiplyBy = [100, 100, 100, 100];
-	var divideBy = ['pop_above25', 'pop_above25', 'total_lang_home', 'total_lang_home'];
+	var divideBy = ['champaign_socials_pop_above25', 'champaign_socials_pop_above25', 'champaign_socials_total_lang_home', 'champaign_socials_total_lang_home'];
 	// if your variables are not raw counts and they are already normalized, comment out above, and
 	//uncomment below:
 	// var attributesToBeNormalized = [];
