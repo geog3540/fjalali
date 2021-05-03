@@ -1,0 +1,181 @@
+ID_0,ID_1,ISO,NAME_0,NAME_1,FID,year,rate
+105,1,IND,India,Andaman and Nicobar,0,2011,0
+105,36,IND,India,Telangana,0,2011,0
+105,2,IND,India,Andhra Pradesh,0,2011,67.7
+105,3,IND,India,Arunachal Pradesh,0,2011,0
+105,4,IND,India,Assam,0,2011,73.2
+105,5,IND,India,Bihar,0,2011,63.8
+105,6,IND,India,Chandigarh,0,2011,0
+105,7,IND,India,Chhattisgarh,0,2011,71
+105,8,IND,India,Dadra and Nagar Haveli,0,2011,0
+105,9,IND,India,Daman and Diu,0,2011,0
+105,10,IND,India,Delhi,0,2011,0
+105,11,IND,India,Goa,0,2011,0
+105,12,IND,India,Gujarat,0,2011,79.3
+105,13,IND,India,Haryana,0,2011,76.6
+105,14,IND,India,Himachal Pradesh,0,2011,83.8
+105,16,IND,India,Jharkhand,0,2011,67.6
+105,17,IND,India,Karnataka,0,2011,75.6
+105,18,IND,India,Kerala,0,2011,93.9
+105,19,IND,India,Lakshadweep,0,2011,0
+105,20,IND,India,Madhya Pradesh,0,2011,70.6
+105,21,IND,India,Maharashtra,0,2011,82.9
+105,22,IND,India,Manipur,0,2011,0
+105,23,IND,India,Meghalaya,0,2011,0
+105,24,IND,India,Mizoram,0,2011,0
+105,25,IND,India,Nagaland,0,2011,0
+105,26,IND,India,Orissa,0,2011,73.5
+105,27,IND,India,Puducherry,0,2011,0
+105,28,IND,India,Punjab,0,2011,76.7
+105,29,IND,India,Rajasthan,0,2011,67.1
+105,30,IND,India,Sikkim,0,2011,0
+105,31,IND,India,Tamil Nadu,0,2011,80.3
+105,32,IND,India,Tripura,0,2011,0
+105,33,IND,India,Uttar Pradesh,0,2011,69.7
+105,34,IND,India,Uttaranchal,0,2011,79.6
+105,35,IND,India,West Bengal,0,2011,77.1
+105,36,IND,India,Jammu and Kashmir,13,2011,68.7
+105,1,IND,India,Andaman and Nicobar,0,2001,0
+105,36,IND,India,Telangana,0,2001,0
+105,2,IND,India,Andhra Pradesh,0,2001,60.6
+105,3,IND,India,Arunachal Pradesh,0,2001,0
+105,4,IND,India,Assam,0,2001,63.3
+105,5,IND,India,Bihar,0,2001,47
+105,6,IND,India,Chandigarh,0,2001,0
+105,7,IND,India,Chhattisgarh,0,2001,64.7
+105,8,IND,India,Dadra and Nagar Haveli,0,2001,0
+105,9,IND,India,Daman and Diu,0,2001,0
+105,10,IND,India,Delhi,0,2001,0
+105,11,IND,India,Goa,0,2001,0
+105,12,IND,India,Gujarat,0,2001,69.1
+105,13,IND,India,Haryana,0,2001,67.9
+105,14,IND,India,Himachal Pradesh,0,2001,76.5
+105,16,IND,India,Jharkhand,0,2001,53.6
+105,17,IND,India,Karnataka,0,2001,66.6
+105,18,IND,India,Kerala,0,2001,90.9
+105,19,IND,India,Lakshadweep,0,2001,0
+105,20,IND,India,Madhya Pradesh,0,2001,63.7
+105,21,IND,India,Maharashtra,0,2001,76.9
+105,22,IND,India,Manipur,0,2001,0
+105,23,IND,India,Meghalaya,0,2001,0
+105,24,IND,India,Mizoram,0,2001,0
+105,25,IND,India,Nagaland,0,2001,0
+105,26,IND,India,Orissa,0,2001,63.1
+105,27,IND,India,Puducherry,0,2001,0
+105,28,IND,India,Punjab,0,2001,69.7
+105,29,IND,India,Rajasthan,0,2001,60.4
+105,30,IND,India,Sikkim,0,2001,0
+105,31,IND,India,Tamil Nadu,0,2001,73.5
+105,32,IND,India,Tripura,0,2001,0
+105,33,IND,India,Uttar Pradesh,0,2001,56.3
+105,34,IND,India,Uttaranchal,0,2001,71.6
+105,35,IND,India,West Bengal,0,2001,68.6
+105,36,IND,India,Jammu and Kashmir,13,2001,55.5
+105,1,IND,India,Andaman and Nicobar,0,1991,0
+105,36,IND,India,Telangana,0,1991,0
+105,2,IND,India,Andhra Pradesh,0,1991,44.1
+105,3,IND,India,Arunachal Pradesh,0,1991,0
+105,4,IND,India,Assam,0,1991,52.9
+105,5,IND,India,Bihar,0,1991,37.5
+105,6,IND,India,Chandigarh,0,1991,0
+105,7,IND,India,Chhattisgarh,0,1991,42.9
+105,8,IND,India,Dadra and Nagar Haveli,0,1991,0
+105,9,IND,India,Daman and Diu,0,1991,0
+105,10,IND,India,Delhi,0,1991,0
+105,11,IND,India,Goa,0,1991,0
+105,12,IND,India,Gujarat,0,1991,61.3
+105,13,IND,India,Haryana,0,1991,55.9
+105,14,IND,India,Himachal Pradesh,0,1991,63.9
+105,16,IND,India,Jharkhand,0,1991,41.4
+105,17,IND,India,Karnataka,0,1991,56
+105,18,IND,India,Kerala,0,1991,89.8
+105,19,IND,India,Lakshadweep,0,1991,0
+105,20,IND,India,Madhya Pradesh,0,1991,44.7
+105,21,IND,India,Maharashtra,0,1991,64.9
+105,22,IND,India,Manipur,0,1991,0
+105,23,IND,India,Meghalaya,0,1991,0
+105,24,IND,India,Mizoram,0,1991,0
+105,25,IND,India,Nagaland,0,1991,0
+105,26,IND,India,Orissa,0,1991,49.1
+105,27,IND,India,Puducherry,0,1991,0
+105,28,IND,India,Punjab,0,1991,58.5
+105,29,IND,India,Rajasthan,0,1991,38.6
+105,30,IND,India,Sikkim,0,1991,0
+105,31,IND,India,Tamil Nadu,0,1991,62.7
+105,32,IND,India,Tripura,0,1991,0
+105,33,IND,India,Uttar Pradesh,0,1991,40.7
+105,34,IND,India,Uttaranchal,0,1991,57.8
+105,35,IND,India,West Bengal,0,1991,57.7
+105,36,IND,India,Jammu and Kashmir,13,1991,0
+105,1,IND,India,Andaman and Nicobar,0,1981,0
+105,36,IND,India,Telangana,0,1981,0
+105,2,IND,India,Andhra Pradesh,0,1981,35.7
+105,3,IND,India,Arunachal Pradesh,0,1981,0
+105,4,IND,India,Assam,0,1981,0
+105,5,IND,India,Bihar,0,1981,32.3
+105,6,IND,India,Chandigarh,0,1981,0
+105,7,IND,India,Chhattisgarh,0,1981,32.6
+105,8,IND,India,Dadra and Nagar Haveli,0,1981,0
+105,9,IND,India,Daman and Diu,0,1981,0
+105,10,IND,India,Delhi,0,1981,0
+105,11,IND,India,Goa,0,1981,0
+105,12,IND,India,Gujarat,0,1981,44.9
+105,13,IND,India,Haryana,0,1981,37.1
+105,14,IND,India,Himachal Pradesh,0,1981,0
+105,16,IND,India,Jharkhand,0,1981,35
+105,17,IND,India,Karnataka,0,1981,46.2
+105,18,IND,India,Kerala,0,1981,78.9
+105,19,IND,India,Lakshadweep,0,1981,0
+105,20,IND,India,Madhya Pradesh,0,1981,38.6
+105,21,IND,India,Maharashtra,0,1981,57.2
+105,22,IND,India,Manipur,0,1981,0
+105,23,IND,India,Meghalaya,0,1981,0
+105,24,IND,India,Mizoram,0,1981,0
+105,25,IND,India,Nagaland,0,1981,0
+105,26,IND,India,Orissa,0,1981,33.6
+105,27,IND,India,Puducherry,0,1981,0
+105,28,IND,India,Punjab,0,1981,43.4
+105,29,IND,India,Rajasthan,0,1981,30.1
+105,30,IND,India,Sikkim,0,1981,0
+105,31,IND,India,Tamil Nadu,0,1981,54.4
+105,32,IND,India,Tripura,0,1981,0
+105,33,IND,India,Uttar Pradesh,0,1981,32.7
+105,34,IND,India,Uttaranchal,0,1981,46.1
+105,35,IND,India,West Bengal,0,1981,48.7
+105,36,IND,India,Jammu and Kashmir,13,1981,30.6
+105,1,IND,India,Andaman and Nicobar,0,1971,0
+105,36,IND,India,Telangana,0,1971,0
+105,2,IND,India,Andhra Pradesh,0,1971,24.6
+105,3,IND,India,Arunachal Pradesh,0,1971,0
+105,4,IND,India,Assam,0,1971,33.9
+105,5,IND,India,Bihar,0,1971,23.2
+105,6,IND,India,Chandigarh,0,1971,0
+105,7,IND,India,Chhattisgarh,0,1971,24.1
+105,8,IND,India,Dadra and Nagar Haveli,0,1971,0
+105,9,IND,India,Daman and Diu,0,1971,0
+105,10,IND,India,Delhi,0,1971,0
+105,11,IND,India,Goa,0,1971,0
+105,12,IND,India,Gujarat,0,1971,37
+105,13,IND,India,Haryana,0,1971,25.7
+105,14,IND,India,Himachal Pradesh,0,1971,0
+105,16,IND,India,Jharkhand,0,1971,23.9
+105,17,IND,India,Karnataka,0,1971,36.8
+105,18,IND,India,Kerala,0,1971,69.8
+105,19,IND,India,Lakshadweep,0,1971,0
+105,20,IND,India,Madhya Pradesh,0,1971,27.3
+105,21,IND,India,Maharashtra,0,1971,45.8
+105,22,IND,India,Manipur,0,1971,0
+105,23,IND,India,Meghalaya,0,1971,0
+105,24,IND,India,Mizoram,0,1971,0
+105,25,IND,India,Nagaland,0,1971,0
+105,26,IND,India,Orissa,0,1971,26.2
+105,27,IND,India,Puducherry,0,1971,0
+105,28,IND,India,Punjab,0,1971,34.1
+105,29,IND,India,Rajasthan,0,1971,22.6
+105,30,IND,India,Sikkim,0,1971,0
+105,31,IND,India,Tamil Nadu,0,1971,45.4
+105,32,IND,India,Tripura,0,1971,0
+105,33,IND,India,Uttar Pradesh,0,1971,24
+105,34,IND,India,Uttaranchal,0,1971,33.3
+105,35,IND,India,West Bengal,0,1971,38.9
+105,36,IND,India,Jammu and Kashmir,13,1971,21.7
