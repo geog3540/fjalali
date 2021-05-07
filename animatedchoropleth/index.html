@@ -10,13 +10,16 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
   <script src="https://d3js.org/topojson.v1.min.js"></script>
   <script src="https://d3js.org/queue.v1.min.js"></script>
   <script src="https://d3js.org/colorbrewer.v1.min.js"></script>
 
-  <title>An Animated Choropleth Map of Liracy rate in Indian states, 1951 - 2011.</title>
+  <title>An Animated Choropleth Map of India Literacy and Poverty rate.</title>
 </head>
 
 <body>
@@ -34,9 +37,9 @@
           <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
             <ul class="dropdown-menu" role="menu">
               <li><a href="../shortbio.html">About</a></li>
-							<li><a href="../Resume-ZhuoTang.pdf">Resume</a></li>
-							<li class="divider"></li>
-							<li><a href="mailto:zhuotang@uiowa.edu">Contact</a></li>
+              <li><a href="../files/koylu_cv_23.pdf">Resume</a></li>
+              <li class="divider"></li>
+              <li><a href="caglar-koylu@uiowa.edu">Contact</a></li>
             </ul>
           </li>
         </ul>
@@ -55,7 +58,7 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
-              <h1>Percent of literate population in India by state from 1951 - 2011.</h1>
+              <h1>Literacy rate 1951 - 2011 all states, India.</h1>
               <span class="post-meta">Posted on May 7, 2021</span>
             </div>
           </div>
@@ -71,34 +74,29 @@
         <svg width="960" height="600"></svg>
         <h3 id="using-the-map">Using the Map</h3>
         <ol>
-          <li>The map will animate automatically to show literacy rate from 1951 - 2011. The source is Census data, which is collected once in ten years.</li>
+          <li>The map will animate automatically to show literacy rates by county from 1951 to 2011.</li>
           <li>At any point, you can hover over the year label (on the right side) to stop the animation.  Moving your cursor horizontally over the year label will automatically update the year that is shown on the choropleth (move left to decrease the year, right to increase the year).</li>
-          <li>Hover over a county to see a tooltip providing the state name and the literacy rate in that year.</li>
+          <li>Hover over a state to see a tooltip providing the state name and the literacy rate in that year.</li>
         </ol>
         <script>
 
-        // var topoJSONFile = "data/contour.json";
-        var topoJSONFile = "data/india_litrate.geojson";
-        // enter the desired projection - note that input geojson has to be in WGS84 GCS
-        var projection = d3.geoMercator();
+        var topoJSONFile = "data/India_finalproject.json";
         //enter the name of the feature or geometry collection within the topoJSONFile
-        // for example, for the default dataset us.objects.polygons, enter polygons
-        var featureCollection = "india_litrate";
-        // id field in the topojson file
-        var idfield = "ID_1"
-        var csvFile = "data/india.csv";
-        var attributeAlias = "Literacy rate (%)";
+        // for example, for the default dataset us.objects.counties, enter counties
+        var featureCollection = "states";
+        var csvFile = "data/India.csv";
+        var attributeAlias = "literacy Rate (%)";
 
         // enter the minimum and maximum values of the attribute over years
         // one legend is created based on equal interval classification for all years.
-        var min = 0, max = 94;
+        var min = 0, max = 20;
 
         //enter the beginning year or date/time of animation.
         var beginTime = 1951, endTime = 2011;
 
         // width and height of map frame
-        var height = 600;
-        var width = 960;
+        var height = 900;
+        var width = 660;
 
         // Find the abbreviations of color names from https://colorbrewer2.org/
         var colors =  colorbrewer.Reds;
@@ -109,9 +107,11 @@
         ///////////////////////////////////////////////////////////////////////////////////////////////
 
         var svg = d3.select("svg");
-        var format = d3.format(".1f");
+        var path = d3.geoPath();
+        var format = d3.format(".2f");
 
-        var colorScheme = colors[numOfClasses];
+        var colorScheme = colors[9];
+        colorScheme.unshift("#eee");
 
         var color = d3.scaleQuantize()
         .domain([min, max])
@@ -167,9 +167,9 @@
         .defer(d3.csv, csvFile)
         .await(ready);
 
-        function ready(error, feature_col, csvdata) {
+        function ready(error, us, unemployment) {
           if (error) throw error;
-
+          console.log(topojson.feature(us, us.objects[featureCollection]).features);
           // Initialize data to beginning year
           var currentYear = beginTime;
 
@@ -191,37 +191,32 @@
           .tween("year", tweenYear)
           //.each();
 
-          var features = feature_col.features;
-          features.forEach((item) => {
-            item.id = +item.properties[idfield]
-          });
-          var path = d3.geoPath();
-          path.projection(projection.fitSize([width, height], feature_col));
-
-          var polygons = svg.append("g")
-          .attr("class", "polygons")
+          counties = svg.append("g")
+          .attr("class", "counties")
           .selectAll("path")
-          .data(features)
+          .data(topojson.feature(us, us.objects[featureCollection]).features)
           .enter()
           .append("path")
           .attr("d", path)
-          .call(style,currentYear);
+          .call(style,currentYear)
 
-          function style(polygons, year){
-            // console.log(polygons);
+          function style(counties, year){
             newunemployment = interpolateData(year);
 
             var rateById = {};
             var nameById = {};
 
             newunemployment.forEach(function(d) {
+              var newcode = '';
+              if (d.code.length < 5) {
+                newcode = '0' + d.code;
+                d.code = newcode;
+              }
               rateById[d.code] = +d.rate;
               nameById[d.code] = d.name;
             });
 
-            polygons.style("fill", function(d){
-              return color(rateById[d.id]);
-            })
+            counties.style("fill", function(d) { return color(rateById[d.id]); })
             .on("mouseover", function(d) {
               div.transition()
               .duration(200)
@@ -235,6 +230,13 @@
                 .duration(500)
                 .style("opacity", 0);});
               }
+
+              svg.append("path")
+              .datum(topojson.mesh(us, us.objects.states, (a, b) => a !== b))
+              .attr("fill", "none")
+              .attr("stroke", "white")
+              .attr("stroke-linejoin", "round")
+              .attr("d", path);
 
               // After the transition finishes, you can mouseover to change the year.
               function enableInteraction() {
@@ -267,13 +269,13 @@
               // Updates the display to show the specified year.
               function displayYear(year) {
                 currentYear = year;
-                polygons.call(style,year)
+                counties.call(style,year)
                 label.text(Math.round(year));
               }
 
               // Interpolates the dataset for the given (fractional) year.
               function interpolateData(year) {
-                return csvdata.filter(function(row) {
+                return unemployment.filter(function(row) {
                   return row['year'] == Math.round(year);
                 });
               }
