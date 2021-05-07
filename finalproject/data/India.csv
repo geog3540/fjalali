@@ -1,0 +1,253 @@
+name,year,rate,code
+Andaman and Nicobar,2011,86.63,1
+Telangana,2011,0,36
+Andhra Pradesh,2011,67.7,2
+Arunachal Pradesh,2011,65.39,3
+Assam,2011,72.19,4
+Bihar,2011,61.8,5
+Chandigarh,2011,86.05,6
+Chhattisgarh,2011,70.28,7
+Dadra and Nagar Haveli,2011,76.28,8
+Daman and Diu,2011,87.1,9
+Delhi,2011,86.21,10
+Goa,2011,88.7,11
+Gujarat,2011,78.03,12
+Haryana,2011,75.55,13
+Himachal Pradesh,2011,82.2,14
+Jharkhand,2011,66.41,16
+Karnataka,2011,75.37,17
+Kerala,2011,94,18
+Lakshadweep,2011,91.85,19
+Madhya Pradesh,2011,69.32,20
+Maharashtra,2011,82.34,21
+Manipur,2011,89.22,22
+Meghalaya,2011,74.43,23
+Mizoram,2011,91.33,24
+Nagaland,2011,89.56,25
+Orissa,2011,72.89,26
+Puducherry,2011,85.85,27
+Punjab,2011,75.84,28
+Rajasthan,2011,66.11,29
+Sikkim,2011,81.42,30
+Tamil Nadu,2011,80.09,31
+Tripura,2011,87.22,32
+Uttar Pradesh,2011,67.68,33
+Uttaranchal,2011,78.82,34
+West Bengal,2011,76.26,35
+Jammu and Kashmir,2011,67.16,15
+Andaman and Nicobar,2001,81.3,1
+Telangana,2001,0,36
+Andhra Pradesh,2001,60.47,2
+Arunachal Pradesh,2001,54.34,3
+Assam,2001,63.25,4
+Bihar,2001,47,5
+Chandigarh,2001,81.94,6
+Chhattisgarh,2001,64.66,7
+Dadra and Nagar Haveli,2001,57.63,8
+Daman and Diu,2001,78.18,9
+Delhi,2001,81.67,10
+Goa,2001,82.01,11
+Gujarat,2001,69.1,12
+Haryana,2001,67.9,13
+Himachal Pradesh,2001,76.5,14
+Jharkhand,2001,53.6,16
+Karnataka,2001,60.47,17
+Kerala,2001,90.9,18
+Lakshadweep,2001,86.66,19
+Madhya Pradesh,2001,63.7,20
+Maharashtra,2001,76.9,21
+Manipur,2001,69.93,22
+Meghalaya,2001,62.56,23
+Mizoram,2001,88.8,24
+Nagaland,2001,66.59,25
+Orissa,2001,63.1,26
+Puducherry,2001,81.24,27
+Punjab,2001,69.7,28
+Rajasthan,2001,60.4,29
+Sikkim,2001,68.81,30
+Tamil Nadu,2001,73.5,31
+Tripura,2001,73.19,32
+Uttar Pradesh,2001,56.3,33
+Uttaranchal,2001,71.6,34
+West Bengal,2001,68.6,35
+Jammu and Kashmir,2001,55.5,15
+Andaman and Nicobar,1991,73.02,1
+Telangana,1991,0,36
+Andhra Pradesh,1991,44.1,2
+Arunachal Pradesh,1991,41.59,3
+Assam,1991,52.9,4
+Bihar,1991,37.5,5
+Chandigarh,1991,77.81,6
+Chhattisgarh,1991,42.9,7
+Dadra and Nagar Haveli,1991,40.71,8
+Daman and Diu,1991,71.2,9
+Delhi,1991,75.29,10
+Goa,1991,75.51,11
+Gujarat,1991,61.3,12
+Haryana,1991,55.9,13
+Himachal Pradesh,1991,63.9,14
+Jharkhand,1991,41.4,16
+Karnataka,1991,56,17
+Kerala,1991,89.8,18
+Lakshadweep,1991,81.78,19
+Madhya Pradesh,1991,44.7,20
+Maharashtra,1991,64.9,21
+Manipur,1991,59.89,22
+Meghalaya,1991,49.1,23
+Mizoram,1991,82.26,24
+Nagaland,1991,61.65,25
+Orissa,1991,49.1,26
+Puducherry,1991,74.74,27
+Punjab,1991,58.51,28
+Rajasthan,1991,38.55,29
+Sikkim,1991,56.94,30
+Tamil Nadu,1991,62.66,31
+Tripura,1991,60.44,32
+Uttar Pradesh,1991,40.71,33
+Uttaranchal,1991,57.75,34
+West Bengal,1991,57.7,35
+Jammu and Kashmir,1991,63.86,15
+Andaman and Nicobar,1981,63.19,1
+Telangana,1981,0,36
+Andhra Pradesh,1981,35.7,2
+Arunachal Pradesh,1981,25.55,3
+Assam,1981,0,4
+Bihar,1981,32.3,5
+Chandigarh,1981,74.8,6
+Chhattisgarh,1981,32.63,7
+Dadra and Nagar Haveli,1981,32.9,8
+Daman and Diu,1981,0,9
+Delhi,1981,71.94,10
+Goa,1981,65.71,11
+Gujarat,1981,44.92,12
+Haryana,1981,37.13,13
+Himachal Pradesh,1981,0,14
+Jharkhand,1981,35.03,16
+Karnataka,1981,46.21,17
+Kerala,1981,78.85,18
+Lakshadweep,1981,68.42,19
+Madhya Pradesh,1981,38.63,20
+Maharashtra,1981,57.24,21
+Manipur,1981,49.66,22
+Meghalaya,1981,42.05,23
+Mizoram,1981,59.88,24
+Nagaland,1981,50.28,25
+Orissa,1981,33.62,26
+Puducherry,1981,65.14,27
+Punjab,1981,43.37,28
+Rajasthan,1981,30.11,29
+Sikkim,1981,34.05,30
+Tamil Nadu,1981,54.39,31
+Tripura,1981,50.1,32
+Uttar Pradesh,1981,32.65,33
+Uttaranchal,1981,46.06,34
+West Bengal,1981,48.65,35
+Jammu and Kashmir,1981,30.64,15
+Andaman and Nicobar,1971,51.15,1
+Telangana,1971,0,36
+Andhra Pradesh,1971,24.57,2
+Arunachal Pradesh,1971,11.29,3
+Assam,1971,33.94,4
+Bihar,1971,23.17,5
+Chandigarh,1971,70.43,6
+Chhattisgarh,1971,24.08,7
+Dadra and Nagar Haveli,1971,18.13,8
+Daman and Diu,1971,0,9
+Delhi,1971,65.08,10
+Goa,1971,51.96,11
+Gujarat,1971,36.95,12
+Haryana,1971,25.71,13
+Himachal Pradesh,1971,0,14
+Jharkhand,1971,23.87,16
+Karnataka,1971,36.83,17
+Kerala,1971,69.75,18
+Lakshadweep,1971,51.76,19
+Madhya Pradesh,1971,27.27,20
+Maharashtra,1971,45.77,21
+Manipur,1971,38.47,22
+Meghalaya,1971,29.49,23
+Mizoram,1971,53.8,24
+Nagaland,1971,33.78,25
+Orissa,1971,26.18,26
+Puducherry,1971,53.38,27
+Punjab,1971,34.12,28
+Rajasthan,1971,22.57,29
+Sikkim,1971,17.74,30
+Tamil Nadu,1971,45.4,31
+Tripura,1971,30.98,32
+Uttar Pradesh,1971,23.99,33
+Uttaranchal,1971,33.26,34
+West Bengal,1971,38.86,35
+Jammu and Kashmir,1971,21.71,15
+Andaman and Nicobar,1961,40.07,1
+Telangana,1961,0,36
+Andhra Pradesh,1961,21.19,2
+Arunachal Pradesh,1961,7.13,3
+Assam,1961,32.95,4
+Bihar,1961,21.95,5
+Chandigarh,1961,0,6
+Chhattisgarh,1961,18.14,7
+Dadra and Nagar Haveli,1961,0,8
+Daman and Diu,1961,0,9
+Delhi,1961,61.95,10
+Goa,1961,35.41,11
+Gujarat,1961,31.47,12
+Haryana,1961,0,13
+Himachal Pradesh,1961,0,14
+Jharkhand,1961,21.14,16
+Karnataka,1961,29.8,17
+Kerala,1961,55.08,18
+Lakshadweep,1961,27.15,19
+Madhya Pradesh,1961,21.41,20
+Maharashtra,1961,35.08,21
+Manipur,1961,36.04,22
+Meghalaya,1961,26.92,23
+Mizoram,1961,44.01,24
+Nagaland,1961,21.95,25
+Orissa,1961,21.66,26
+Puducherry,1961,43.65,27
+Punjab,1961,0,28
+Rajasthan,1961,18.12,29
+Sikkim,1961,0,30
+Tamil Nadu,1961,36.39,31
+Tripura,1961,20.24,32
+Uttar Pradesh,1961,20.87,33
+Uttaranchal,1961,18.05,34
+West Bengal,1961,34.46,35
+Jammu and Kashmir,1961,12.95,15
+Andaman and Nicobar,1951,30.3,1
+Telangana,1951,0,36
+Andhra Pradesh,1951,0,2
+Arunachal Pradesh,1951,0,3
+Assam,1951,18.53,4
+Bihar,1951,13.49,5
+Chandigarh,1951,0,6
+Chhattisgarh,1951,9.41,7
+Dadra and Nagar Haveli,1951,0,8
+Daman and Diu,1951,0,9
+Delhi,1951,0,10
+Goa,1951,23.48,11
+Gujarat,1951,21.82,12
+Haryana,1951,0,13
+Himachal Pradesh,1951,0,14
+Jharkhand,1951,12.93,16
+Karnataka,1951,0,17
+Kerala,1951,47.18,18
+Lakshadweep,1951,15.23,19
+Madhya Pradesh,1951,13.16,20
+Maharashtra,1951,27.91,21
+Manipur,1951,12.57,22
+Meghalaya,1951,0,23
+Mizoram,1951,31.14,24
+Nagaland,1951,10.52,25
+Orissa,1951,15.8,26
+Puducherry,1951,0,27
+Punjab,1951,0,28
+Rajasthan,1951,8.5,29
+Sikkim,1951,0,30
+Tamil Nadu,1951,0,31
+Tripura,1951,0,32
+Uttar Pradesh,1951,12.02,33
+Uttaranchal,1951,18.93,34
+West Bengal,1951,24.61,35
+Jammu and Kashmir,1951,0,15
