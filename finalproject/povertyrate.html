@@ -55,7 +55,7 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
-              <h1>Percent of literate population in India by state from 1951 - 2011.</h1>
+              <h1>Poverty rate of India by state from 1993 - 2011.</h1>
               <span class="post-meta">Posted on May 7, 2021</span>
             </div>
           </div>
@@ -69,11 +69,11 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <svg width="960" height="600"></svg>
-        <h3 id="using-the-map">Using the Map</h3>
+        <h3 id="using-the-map">About the Map</h3>
         <ol>
-          <li>The map will animate automatically to show literacy rate from 1951 - 2011. The source is Census data, which is collected once in ten years.</li>
-          <li>At any point, you can hover over the year label (on the right side) to stop the animation.  Moving your cursor horizontally over the year label will automatically update the year that is shown on the choropleth (move left to decrease the year, right to increase the year).</li>
-          <li>Hover over a county to see a tooltip providing the state name and the literacy rate in that year.</li>
+          <li>The map will animate automatically to show poverty rate from 1993 - 2011.</li>
+          <li>As you move the poverty rate should decrease.</li>
+          <li>Hover over a state to see a tooltip providing the state name and the poverty rate in that year.</li>
         </ol>
         <script>
 
@@ -86,15 +86,15 @@
         var featureCollection = "india_litrate";
         // id field in the topojson file
         var idfield = "ID_1"
-        var csvFile = "data/india.csv";
-        var attributeAlias = "Literacy rate (%)";
+        var csvFile = "data/povertyrate.csv";
+        var attributeAlias = "Poverty rate (%)";
 
         // enter the minimum and maximum values of the attribute over years
         // one legend is created based on equal interval classification for all years.
-        var min = 0, max = 94;
+        var min = 0, max = 57.2;
 
         //enter the beginning year or date/time of animation.
-        var beginTime = 1951, endTime = 2011;
+        var beginTime = 1993, endTime = 2011;
 
         // width and height of map frame
         var height = 600;
