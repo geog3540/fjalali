@@ -10,16 +10,13 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
   <script src="https://d3js.org/topojson.v1.min.js"></script>
   <script src="https://d3js.org/queue.v1.min.js"></script>
   <script src="https://d3js.org/colorbrewer.v1.min.js"></script>
 
-  <title>An Animated Choropleth Map of U.S. Unemployment by County</title>
+  <title>An Animated Choropleth Map of Blood Lead Poisoning in Chicago Community Areas</title>
 </head>
 
 <body>
@@ -37,9 +34,9 @@
           <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
             <ul class="dropdown-menu" role="menu">
               <li><a href="../shortbio.html">About</a></li>
-              <li><a href="../files/koylu_cv_23.pdf">Resume</a></li>
-              <li class="divider"></li>
-              <li><a href="caglar-koylu@uiowa.edu">Contact</a></li>
+							<li><a href="../Resume-ZhuoTang.pdf">Resume</a></li>
+							<li class="divider"></li>
+							<li><a href="mailto:zhuotang@uiowa.edu">Contact</a></li>
             </ul>
           </li>
         </ul>
@@ -58,8 +55,8 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
-              <h1>U.S. Unemployment 1990 - 2017 by County</h1>
-              <span class="post-meta">Posted on October 27, 2018</span>
+              <h1>Percent Children Screened With Elevated Blood Lead Level in Chicago 1999 - 2013 by Community Area</h1>
+              <span class="post-meta">Posted on May 15, 2020</span>
             </div>
           </div>
         </div>
@@ -80,19 +77,24 @@
         </ol>
         <script>
 
-        var topoJSONFile = "data/us-10m.v1.json";
+        // var topoJSONFile = "data/contour.json";
+        var topoJSONFile = "data/india_litrate.geojson";
+        // enter the desired projection - note that input geojson has to be in WGS84 GCS
+        var projection = d3.geoMercator();
         //enter the name of the feature or geometry collection within the topoJSONFile
-        // for example, for the default dataset us.objects.counties, enter counties
-        var featureCollection = "counties";
-        var csvFile = "data/unemployment_by_county_year.csv";
-        var attributeAlias = "Unemployment Rate (%)";
+        // for example, for the default dataset us.objects.polygons, enter polygons
+        var featureCollection = "india_litrate";
+        // id field in the topojson file
+        var idfield = "ID_1"
+        var csvFile = "data/India.csv";
+        var attributeAlias = "Lead poisoning rate (%)";
 
         // enter the minimum and maximum values of the attribute over years
         // one legend is created based on equal interval classification for all years.
-        var min = 0, max = 20;
+        var min = 0, max = 94;
 
         //enter the beginning year or date/time of animation.
-        var beginTime = 1990, endTime = 2017;
+        var beginTime = 1971, endTime = 2011;
 
         // width and height of map frame
         var height = 600;
@@ -107,11 +109,9 @@
         ///////////////////////////////////////////////////////////////////////////////////////////////
 
         var svg = d3.select("svg");
-        var path = d3.geoPath();
-        var format = d3.format("");
+        var format = d3.format(".1f");
 
-        var colorScheme = colors[9];
-        colorScheme.unshift("#eee");
+        var colorScheme = colors[numOfClasses];
 
         var color = d3.scaleQuantize()
         .domain([min, max])
@@ -167,9 +167,9 @@
         .defer(d3.csv, csvFile)
         .await(ready);
 
-        function ready(error, us, unemployment) {
+        function ready(error, feature_col, csvdata) {
           if (error) throw error;
-          console.log(topojson.feature(us, us.objects[featureCollection]).features);
+
           // Initialize data to beginning year
           var currentYear = beginTime;
 
@@ -191,32 +191,37 @@
           .tween("year", tweenYear)
           //.each();
 
-          counties = svg.append("g")
-          .attr("class", "counties")
+          var features = feature_col.features;
+          features.forEach((item) => {
+            item.id = +item.properties[idfield]
+          });
+          var path = d3.geoPath();
+          path.projection(projection.fitSize([width, height], feature_col));
+
+          var polygons = svg.append("g")
+          .attr("class", "polygons")
           .selectAll("path")
-          .data(topojson.feature(us, us.objects[featureCollection]).features)
+          .data(features)
           .enter()
           .append("path")
           .attr("d", path)
-          .call(style,currentYear)
+          .call(style,currentYear);
 
-          function style(counties, year){
+          function style(polygons, year){
+            // console.log(polygons);
             newunemployment = interpolateData(year);
 
             var rateById = {};
             var nameById = {};
 
             newunemployment.forEach(function(d) {
-              var newcode = '';
-              if (d.code.length < 5) {
-                newcode = '0' + d.code;
-                d.code = newcode;
-              }
               rateById[d.code] = +d.rate;
               nameById[d.code] = d.name;
             });
 
-            counties.style("fill", function(d) { return color(rateById[d.id]); })
+            polygons.style("fill", function(d){
+              return color(rateById[d.id]);
+            })
             .on("mouseover", function(d) {
               div.transition()
               .duration(200)
@@ -230,13 +235,6 @@
                 .duration(500)
                 .style("opacity", 0);});
               }
-
-              svg.append("path")
-              .datum(topojson.mesh(us, us.objects.states, (a, b) => a !== b))
-              .attr("fill", "none")
-              .attr("stroke", "white")
-              .attr("stroke-linejoin", "round")
-              .attr("d", path);
 
               // After the transition finishes, you can mouseover to change the year.
               function enableInteraction() {
@@ -269,13 +267,13 @@
               // Updates the display to show the specified year.
               function displayYear(year) {
                 currentYear = year;
-                counties.call(style,year)
+                polygons.call(style,year)
                 label.text(Math.round(year));
               }
 
               // Interpolates the dataset for the given (fractional) year.
               function interpolateData(year) {
-                return unemployment.filter(function(row) {
+                return csvdata.filter(function(row) {
                   return row['year'] == Math.round(year);
                 });
               }
