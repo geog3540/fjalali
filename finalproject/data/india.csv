@@ -1,2197 +1,2197 @@
-name,year,rate,code
-Andaman and Nicobar,2011,86.63,1
-Telangana,2011,0,36
-Andhra Pradesh,2011,67.7,2
-Arunachal Pradesh,2011,65.39,3
-Assam,2011,72.19,4
-Bihar,2011,61.8,5
-Chandigarh,2011,86.05,6
-Chhattisgarh,2011,70.28,7
-Dadra and Nagar Haveli,2011,76.28,8
-Daman and Diu,2011,87.1,9
-Delhi,2011,86.21,10
-Goa,2011,88.7,11
-Gujarat,2011,78.03,12
-Haryana,2011,75.55,13
-Himachal Pradesh,2011,82.2,14
-Jharkhand,2011,66.41,16
-Karnataka,2011,75.37,17
-Kerala,2011,94,18
-Lakshadweep,2011,91.85,19
-Madhya Pradesh,2011,69.32,20
-Maharashtra,2011,82.34,21
-Manipur,2011,89.22,22
-Meghalaya,2011,74.43,23
-Mizoram,2011,91.33,24
-Nagaland,2011,89.56,25
-Orissa,2011,72.89,26
-Puducherry,2011,85.85,27
-Punjab,2011,75.84,28
-Rajasthan,2011,66.11,29
-Sikkim,2011,81.42,30
-Tamil Nadu,2011,80.09,31
-Tripura,2011,87.22,32
-Uttar Pradesh,2011,67.68,33
-Uttaranchal,2011,78.82,34
-West Bengal,2011,76.26,35
-Jammu and Kashmir,2011,67.16,15
-Andaman and Nicobar,2010,86.63,1
-Telangana,2010,0,36
-Andhra Pradesh,2010,67.7,2
-Arunachal Pradesh,2010,65.39,3
-Assam,2010,72.19,4
-Bihar,2010,61.8,5
-Chandigarh,2010,86.05,6
-Chhattisgarh,2010,70.28,7
-Dadra and Nagar Haveli,2010,76.28,8
-Daman and Diu,2010,87.1,9
-Delhi,2010,86.21,10
-Goa,2010,88.7,11
-Gujarat,2010,78.03,12
-Haryana,2010,75.55,13
-Himachal Pradesh,2010,82.2,14
-Jharkhand,2010,66.41,16
-Karnataka,2010,75.37,17
-Kerala,2010,94,18
-Lakshadweep,2010,91.85,19
-Madhya Pradesh,2010,69.32,20
-Maharashtra,2010,82.34,21
-Manipur,2010,89.22,22
-Meghalaya,2010,74.43,23
-Mizoram,2010,91.33,24
-Nagaland,2010,89.56,25
-Orissa,2010,72.89,26
-Puducherry,2010,85.85,27
-Punjab,2010,75.84,28
-Rajasthan,2010,66.11,29
-Sikkim,2010,81.42,30
-Tamil Nadu,2010,80.09,31
-Tripura,2010,87.22,32
-Uttar Pradesh,2010,67.68,33
-Uttaranchal,2010,78.82,34
-West Bengal,2010,76.26,35
-Jammu and Kashmir,2010,67.16,15
-Andaman and Nicobar,2009,86.63,1
-Telangana,2009,0,36
-Andhra Pradesh,2009,67.7,2
-Arunachal Pradesh,2009,65.39,3
-Assam,2009,72.19,4
-Bihar,2009,61.8,5
-Chandigarh,2009,86.05,6
-Chhattisgarh,2009,70.28,7
-Dadra and Nagar Haveli,2009,76.28,8
-Daman and Diu,2009,87.1,9
-Delhi,2009,86.21,10
-Goa,2009,88.7,11
-Gujarat,2009,78.03,12
-Haryana,2009,75.55,13
-Himachal Pradesh,2009,82.2,14
-Jharkhand,2009,66.41,16
-Karnataka,2009,75.37,17
-Kerala,2009,94,18
-Lakshadweep,2009,91.85,19
-Madhya Pradesh,2009,69.32,20
-Maharashtra,2009,82.34,21
-Manipur,2009,89.22,22
-Meghalaya,2009,74.43,23
-Mizoram,2009,91.33,24
-Nagaland,2009,89.56,25
-Orissa,2009,72.89,26
-Puducherry,2009,85.85,27
-Punjab,2009,75.84,28
-Rajasthan,2009,66.11,29
-Sikkim,2009,81.42,30
-Tamil Nadu,2009,80.09,31
-Tripura,2009,87.22,32
-Uttar Pradesh,2009,67.68,33
-Uttaranchal,2009,78.82,34
-West Bengal,2009,76.26,35
-Jammu and Kashmir,2009,67.16,15
-Andaman and Nicobar,2008,86.63,1
-Telangana,2008,0,36
-Andhra Pradesh,2008,67.7,2
-Arunachal Pradesh,2008,65.39,3
-Assam,2008,72.19,4
-Bihar,2008,61.8,5
-Chandigarh,2008,86.05,6
-Chhattisgarh,2008,70.28,7
-Dadra and Nagar Haveli,2008,76.28,8
-Daman and Diu,2008,87.1,9
-Delhi,2008,86.21,10
-Goa,2008,88.7,11
-Gujarat,2008,78.03,12
-Haryana,2008,75.55,13
-Himachal Pradesh,2008,82.2,14
-Jharkhand,2008,66.41,16
-Karnataka,2008,75.37,17
-Kerala,2008,94,18
-Lakshadweep,2008,91.85,19
-Madhya Pradesh,2008,69.32,20
-Maharashtra,2008,82.34,21
-Manipur,2008,89.22,22
-Meghalaya,2008,74.43,23
-Mizoram,2008,91.33,24
-Nagaland,2008,89.56,25
-Orissa,2008,72.89,26
-Puducherry,2008,85.85,27
-Punjab,2008,75.84,28
-Rajasthan,2008,66.11,29
-Sikkim,2008,81.42,30
-Tamil Nadu,2008,80.09,31
-Tripura,2008,87.22,32
-Uttar Pradesh,2008,67.68,33
-Uttaranchal,2008,78.82,34
-West Bengal,2008,76.26,35
-Jammu and Kashmir,2008,67.16,15
-Andaman and Nicobar,2007,86.63,1
-Telangana,2007,0,36
-Andhra Pradesh,2007,67.7,2
-Arunachal Pradesh,2007,65.39,3
-Assam,2007,72.19,4
-Bihar,2007,61.8,5
-Chandigarh,2007,86.05,6
-Chhattisgarh,2007,70.28,7
-Dadra and Nagar Haveli,2007,76.28,8
-Daman and Diu,2007,87.1,9
-Delhi,2007,86.21,10
-Goa,2007,88.7,11
-Gujarat,2007,78.03,12
-Haryana,2007,75.55,13
-Himachal Pradesh,2007,82.2,14
-Jharkhand,2007,66.41,16
-Karnataka,2007,75.37,17
-Kerala,2007,94,18
-Lakshadweep,2007,91.85,19
-Madhya Pradesh,2007,69.32,20
-Maharashtra,2007,82.34,21
-Manipur,2007,89.22,22
-Meghalaya,2007,74.43,23
-Mizoram,2007,91.33,24
-Nagaland,2007,89.56,25
-Orissa,2007,72.89,26
-Puducherry,2007,85.85,27
-Punjab,2007,75.84,28
-Rajasthan,2007,66.11,29
-Sikkim,2007,81.42,30
-Tamil Nadu,2007,80.09,31
-Tripura,2007,87.22,32
-Uttar Pradesh,2007,67.68,33
-Uttaranchal,2007,78.82,34
-West Bengal,2007,76.26,35
-Jammu and Kashmir,2007,67.16,15
-Andaman and Nicobar,2006,86.63,1
-Telangana,2006,0,36
-Andhra Pradesh,2006,67.7,2
-Arunachal Pradesh,2006,65.39,3
-Assam,2006,72.19,4
-Bihar,2006,61.8,5
-Chandigarh,2006,86.05,6
-Chhattisgarh,2006,70.28,7
-Dadra and Nagar Haveli,2006,76.28,8
-Daman and Diu,2006,87.1,9
-Delhi,2006,86.21,10
-Goa,2006,88.7,11
-Gujarat,2006,78.03,12
-Haryana,2006,75.55,13
-Himachal Pradesh,2006,82.2,14
-Jharkhand,2006,66.41,16
-Karnataka,2006,75.37,17
-Kerala,2006,94,18
-Lakshadweep,2006,91.85,19
-Madhya Pradesh,2006,69.32,20
-Maharashtra,2006,82.34,21
-Manipur,2006,89.22,22
-Meghalaya,2006,74.43,23
-Mizoram,2006,91.33,24
-Nagaland,2006,89.56,25
-Orissa,2006,72.89,26
-Puducherry,2006,85.85,27
-Punjab,2006,75.84,28
-Rajasthan,2006,66.11,29
-Sikkim,2006,81.42,30
-Tamil Nadu,2006,80.09,31
-Tripura,2006,87.22,32
-Uttar Pradesh,2006,67.68,33
-Uttaranchal,2006,78.82,34
-West Bengal,2006,76.26,35
-Jammu and Kashmir,2006,67.16,15
-Andaman and Nicobar,2005,86.63,1
-Telangana,2005,0,36
-Andhra Pradesh,2005,67.7,2
-Arunachal Pradesh,2005,65.39,3
-Assam,2005,72.19,4
-Bihar,2005,61.8,5
-Chandigarh,2005,86.05,6
-Chhattisgarh,2005,70.28,7
-Dadra and Nagar Haveli,2005,76.28,8
-Daman and Diu,2005,87.1,9
-Delhi,2005,86.21,10
-Goa,2005,88.7,11
-Gujarat,2005,78.03,12
-Haryana,2005,75.55,13
-Himachal Pradesh,2005,82.2,14
-Jharkhand,2005,66.41,16
-Karnataka,2005,75.37,17
-Kerala,2005,94,18
-Lakshadweep,2005,91.85,19
-Madhya Pradesh,2005,69.32,20
-Maharashtra,2005,82.34,21
-Manipur,2005,89.22,22
-Meghalaya,2005,74.43,23
-Mizoram,2005,91.33,24
-Nagaland,2005,89.56,25
-Orissa,2005,72.89,26
-Puducherry,2005,85.85,27
-Punjab,2005,75.84,28
-Rajasthan,2005,66.11,29
-Sikkim,2005,81.42,30
-Tamil Nadu,2005,80.09,31
-Tripura,2005,87.22,32
-Uttar Pradesh,2005,67.68,33
-Uttaranchal,2005,78.82,34
-West Bengal,2005,76.26,35
-Jammu and Kashmir,2005,67.16,15
-Andaman and Nicobar,2004,86.63,1
-Telangana,2004,0,36
-Andhra Pradesh,2004,67.7,2
-Arunachal Pradesh,2004,65.39,3
-Assam,2004,72.19,4
-Bihar,2004,61.8,5
-Chandigarh,2004,86.05,6
-Chhattisgarh,2004,70.28,7
-Dadra and Nagar Haveli,2004,76.28,8
-Daman and Diu,2004,87.1,9
-Delhi,2004,86.21,10
-Goa,2004,88.7,11
-Gujarat,2004,78.03,12
-Haryana,2004,75.55,13
-Himachal Pradesh,2004,82.2,14
-Jharkhand,2004,66.41,16
-Karnataka,2004,75.37,17
-Kerala,2004,94,18
-Lakshadweep,2004,91.85,19
-Madhya Pradesh,2004,69.32,20
-Maharashtra,2004,82.34,21
-Manipur,2004,89.22,22
-Meghalaya,2004,74.43,23
-Mizoram,2004,91.33,24
-Nagaland,2004,89.56,25
-Orissa,2004,72.89,26
-Puducherry,2004,85.85,27
-Punjab,2004,75.84,28
-Rajasthan,2004,66.11,29
-Sikkim,2004,81.42,30
-Tamil Nadu,2004,80.09,31
-Tripura,2004,87.22,32
-Uttar Pradesh,2004,67.68,33
-Uttaranchal,2004,78.82,34
-West Bengal,2004,76.26,35
-Jammu and Kashmir,2004,67.16,15
-Andaman and Nicobar,2003,86.63,1
-Telangana,2003,0,36
-Andhra Pradesh,2003,67.7,2
-Arunachal Pradesh,2003,65.39,3
-Assam,2003,72.19,4
-Bihar,2003,61.8,5
-Chandigarh,2003,86.05,6
-Chhattisgarh,2003,70.28,7
-Dadra and Nagar Haveli,2003,76.28,8
-Daman and Diu,2003,87.1,9
-Delhi,2003,86.21,10
-Goa,2003,88.7,11
-Gujarat,2003,78.03,12
-Haryana,2003,75.55,13
-Himachal Pradesh,2003,82.2,14
-Jharkhand,2003,66.41,16
-Karnataka,2003,75.37,17
-Kerala,2003,94,18
-Lakshadweep,2003,91.85,19
-Madhya Pradesh,2003,69.32,20
-Maharashtra,2003,82.34,21
-Manipur,2003,89.22,22
-Meghalaya,2003,74.43,23
-Mizoram,2003,91.33,24
-Nagaland,2003,89.56,25
-Orissa,2003,72.89,26
-Puducherry,2003,85.85,27
-Punjab,2003,75.84,28
-Rajasthan,2003,66.11,29
-Sikkim,2003,81.42,30
-Tamil Nadu,2003,80.09,31
-Tripura,2003,87.22,32
-Uttar Pradesh,2003,67.68,33
-Uttaranchal,2003,78.82,34
-West Bengal,2003,76.26,35
-Jammu and Kashmir,2003,67.16,15
-Andaman and Nicobar,2002,86.63,1
-Telangana,2002,0,36
-Andhra Pradesh,2002,67.7,2
-Arunachal Pradesh,2002,65.39,3
-Assam,2002,72.19,4
-Bihar,2002,61.8,5
-Chandigarh,2002,86.05,6
-Chhattisgarh,2002,70.28,7
-Dadra and Nagar Haveli,2002,76.28,8
-Daman and Diu,2002,87.1,9
-Delhi,2002,86.21,10
-Goa,2002,88.7,11
-Gujarat,2002,78.03,12
-Haryana,2002,75.55,13
-Himachal Pradesh,2002,82.2,14
-Jharkhand,2002,66.41,16
-Karnataka,2002,75.37,17
-Kerala,2002,94,18
-Lakshadweep,2002,91.85,19
-Madhya Pradesh,2002,69.32,20
-Maharashtra,2002,82.34,21
-Manipur,2002,89.22,22
-Meghalaya,2002,74.43,23
-Mizoram,2002,91.33,24
-Nagaland,2002,89.56,25
-Orissa,2002,72.89,26
-Puducherry,2002,85.85,27
-Punjab,2002,75.84,28
-Rajasthan,2002,66.11,29
-Sikkim,2002,81.42,30
-Tamil Nadu,2002,80.09,31
-Tripura,2002,87.22,32
-Uttar Pradesh,2002,67.68,33
-Uttaranchal,2002,78.82,34
-West Bengal,2002,76.26,35
-Jammu and Kashmir,2002,67.16,15
-Andaman and Nicobar,2001,81.3,1
-Telangana,2001,0,36
-Andhra Pradesh,2001,60.47,2
-Arunachal Pradesh,2001,54.34,3
-Assam,2001,63.25,4
-Bihar,2001,47,5
-Chandigarh,2001,81.94,6
-Chhattisgarh,2001,64.66,7
-Dadra and Nagar Haveli,2001,57.63,8
-Daman and Diu,2001,78.18,9
-Delhi,2001,81.67,10
-Goa,2001,82.01,11
-Gujarat,2001,69.1,12
-Haryana,2001,67.9,13
-Himachal Pradesh,2001,76.5,14
-Jharkhand,2001,53.6,16
-Karnataka,2001,60.47,17
-Kerala,2001,90.9,18
-Lakshadweep,2001,86.66,19
-Madhya Pradesh,2001,63.7,20
-Maharashtra,2001,76.9,21
-Manipur,2001,69.93,22
-Meghalaya,2001,62.56,23
-Mizoram,2001,88.8,24
-Nagaland,2001,66.59,25
-Orissa,2001,63.1,26
-Puducherry,2001,81.24,27
-Punjab,2001,69.7,28
-Rajasthan,2001,60.4,29
-Sikkim,2001,68.81,30
-Tamil Nadu,2001,73.5,31
-Tripura,2001,73.19,32
-Uttar Pradesh,2001,56.3,33
-Uttaranchal,2001,71.6,34
-West Bengal,2001,68.6,35
-Jammu and Kashmir,2001,55.5,15
-Andaman and Nicobar,2000,81.3,1
-Telangana,2000,0,36
-Andhra Pradesh,2000,60.47,2
-Arunachal Pradesh,2000,54.34,3
-Assam,2000,63.25,4
-Bihar,2000,47,5
-Chandigarh,2000,81.94,6
-Chhattisgarh,2000,64.66,7
-Dadra and Nagar Haveli,2000,57.63,8
-Daman and Diu,2000,78.18,9
-Delhi,2000,81.67,10
-Goa,2000,82.01,11
-Gujarat,2000,69.1,12
-Haryana,2000,67.9,13
-Himachal Pradesh,2000,76.5,14
-Jharkhand,2000,53.6,16
-Karnataka,2000,60.47,17
-Kerala,2000,90.9,18
-Lakshadweep,2000,86.66,19
-Madhya Pradesh,2000,63.7,20
-Maharashtra,2000,76.9,21
-Manipur,2000,69.93,22
-Meghalaya,2000,62.56,23
-Mizoram,2000,88.8,24
-Nagaland,2000,66.59,25
-Orissa,2000,63.1,26
-Puducherry,2000,81.24,27
-Punjab,2000,69.7,28
-Rajasthan,2000,60.4,29
-Sikkim,2000,68.81,30
-Tamil Nadu,2000,73.5,31
-Tripura,2000,73.19,32
-Uttar Pradesh,2000,56.3,33
-Uttaranchal,2000,71.6,34
-West Bengal,2000,68.6,35
-Jammu and Kashmir,2000,55.5,15
-Andaman and Nicobar,1999,81.3,1
-Telangana,1999,0,36
-Andhra Pradesh,1999,60.47,2
-Arunachal Pradesh,1999,54.34,3
-Assam,1999,63.25,4
-Bihar,1999,47,5
-Chandigarh,1999,81.94,6
-Chhattisgarh,1999,64.66,7
-Dadra and Nagar Haveli,1999,57.63,8
-Daman and Diu,1999,78.18,9
-Delhi,1999,81.67,10
-Goa,1999,82.01,11
-Gujarat,1999,69.1,12
-Haryana,1999,67.9,13
-Himachal Pradesh,1999,76.5,14
-Jharkhand,1999,53.6,16
-Karnataka,1999,60.47,17
-Kerala,1999,90.9,18
-Lakshadweep,1999,86.66,19
-Madhya Pradesh,1999,63.7,20
-Maharashtra,1999,76.9,21
-Manipur,1999,69.93,22
-Meghalaya,1999,62.56,23
-Mizoram,1999,88.8,24
-Nagaland,1999,66.59,25
-Orissa,1999,63.1,26
-Puducherry,1999,81.24,27
-Punjab,1999,69.7,28
-Rajasthan,1999,60.4,29
-Sikkim,1999,68.81,30
-Tamil Nadu,1999,73.5,31
-Tripura,1999,73.19,32
-Uttar Pradesh,1999,56.3,33
-Uttaranchal,1999,71.6,34
-West Bengal,1999,68.6,35
-Jammu and Kashmir,1999,55.5,15
-Andaman and Nicobar,1998,81.3,1
-Telangana,1998,0,36
-Andhra Pradesh,1998,60.47,2
-Arunachal Pradesh,1998,54.34,3
-Assam,1998,63.25,4
-Bihar,1998,47,5
-Chandigarh,1998,81.94,6
-Chhattisgarh,1998,64.66,7
-Dadra and Nagar Haveli,1998,57.63,8
-Daman and Diu,1998,78.18,9
-Delhi,1998,81.67,10
-Goa,1998,82.01,11
-Gujarat,1998,69.1,12
-Haryana,1998,67.9,13
-Himachal Pradesh,1998,76.5,14
-Jharkhand,1998,53.6,16
-Karnataka,1998,60.47,17
-Kerala,1998,90.9,18
-Lakshadweep,1998,86.66,19
-Madhya Pradesh,1998,63.7,20
-Maharashtra,1998,76.9,21
-Manipur,1998,69.93,22
-Meghalaya,1998,62.56,23
-Mizoram,1998,88.8,24
-Nagaland,1998,66.59,25
-Orissa,1998,63.1,26
-Puducherry,1998,81.24,27
-Punjab,1998,69.7,28
-Rajasthan,1998,60.4,29
-Sikkim,1998,68.81,30
-Tamil Nadu,1998,73.5,31
-Tripura,1998,73.19,32
-Uttar Pradesh,1998,56.3,33
-Uttaranchal,1998,71.6,34
-West Bengal,1998,68.6,35
-Jammu and Kashmir,1998,55.5,15
-Andaman and Nicobar,1997,81.3,1
-Telangana,1997,0,36
-Andhra Pradesh,1997,60.47,2
-Arunachal Pradesh,1997,54.34,3
-Assam,1997,63.25,4
-Bihar,1997,47,5
-Chandigarh,1997,81.94,6
-Chhattisgarh,1997,64.66,7
-Dadra and Nagar Haveli,1997,57.63,8
-Daman and Diu,1997,78.18,9
-Delhi,1997,81.67,10
-Goa,1997,82.01,11
-Gujarat,1997,69.1,12
-Haryana,1997,67.9,13
-Himachal Pradesh,1997,76.5,14
-Jharkhand,1997,53.6,16
-Karnataka,1997,60.47,17
-Kerala,1997,90.9,18
-Lakshadweep,1997,86.66,19
-Madhya Pradesh,1997,63.7,20
-Maharashtra,1997,76.9,21
-Manipur,1997,69.93,22
-Meghalaya,1997,62.56,23
-Mizoram,1997,88.8,24
-Nagaland,1997,66.59,25
-Orissa,1997,63.1,26
-Puducherry,1997,81.24,27
-Punjab,1997,69.7,28
-Rajasthan,1997,60.4,29
-Sikkim,1997,68.81,30
-Tamil Nadu,1997,73.5,31
-Tripura,1997,73.19,32
-Uttar Pradesh,1997,56.3,33
-Uttaranchal,1997,71.6,34
-West Bengal,1997,68.6,35
-Jammu and Kashmir,1997,55.5,15
-Andaman and Nicobar,1996,81.3,1
-Telangana,1996,0,36
-Andhra Pradesh,1996,60.47,2
-Arunachal Pradesh,1996,54.34,3
-Assam,1996,63.25,4
-Bihar,1996,47,5
-Chandigarh,1996,81.94,6
-Chhattisgarh,1996,64.66,7
-Dadra and Nagar Haveli,1996,57.63,8
-Daman and Diu,1996,78.18,9
-Delhi,1996,81.67,10
-Goa,1996,82.01,11
-Gujarat,1996,69.1,12
-Haryana,1996,67.9,13
-Himachal Pradesh,1996,76.5,14
-Jharkhand,1996,53.6,16
-Karnataka,1996,60.47,17
-Kerala,1996,90.9,18
-Lakshadweep,1996,86.66,19
-Madhya Pradesh,1996,63.7,20
-Maharashtra,1996,76.9,21
-Manipur,1996,69.93,22
-Meghalaya,1996,62.56,23
-Mizoram,1996,88.8,24
-Nagaland,1996,66.59,25
-Orissa,1996,63.1,26
-Puducherry,1996,81.24,27
-Punjab,1996,69.7,28
-Rajasthan,1996,60.4,29
-Sikkim,1996,68.81,30
-Tamil Nadu,1996,73.5,31
-Tripura,1996,73.19,32
-Uttar Pradesh,1996,56.3,33
-Uttaranchal,1996,71.6,34
-West Bengal,1996,68.6,35
-Jammu and Kashmir,1996,55.5,15
-Andaman and Nicobar,1995,81.3,1
-Telangana,1995,0,36
-Andhra Pradesh,1995,60.47,2
-Arunachal Pradesh,1995,54.34,3
-Assam,1995,63.25,4
-Bihar,1995,47,5
-Chandigarh,1995,81.94,6
-Chhattisgarh,1995,64.66,7
-Dadra and Nagar Haveli,1995,57.63,8
-Daman and Diu,1995,78.18,9
-Delhi,1995,81.67,10
-Goa,1995,82.01,11
-Gujarat,1995,69.1,12
-Haryana,1995,67.9,13
-Himachal Pradesh,1995,76.5,14
-Jharkhand,1995,53.6,16
-Karnataka,1995,60.47,17
-Kerala,1995,90.9,18
-Lakshadweep,1995,86.66,19
-Madhya Pradesh,1995,63.7,20
-Maharashtra,1995,76.9,21
-Manipur,1995,69.93,22
-Meghalaya,1995,62.56,23
-Mizoram,1995,88.8,24
-Nagaland,1995,66.59,25
-Orissa,1995,63.1,26
-Puducherry,1995,81.24,27
-Punjab,1995,69.7,28
-Rajasthan,1995,60.4,29
-Sikkim,1995,68.81,30
-Tamil Nadu,1995,73.5,31
-Tripura,1995,73.19,32
-Uttar Pradesh,1995,56.3,33
-Uttaranchal,1995,71.6,34
-West Bengal,1995,68.6,35
-Jammu and Kashmir,1995,55.5,15
-Andaman and Nicobar,1994,81.3,1
-Telangana,1994,0,36
-Andhra Pradesh,1994,60.47,2
-Arunachal Pradesh,1994,54.34,3
-Assam,1994,63.25,4
-Bihar,1994,47,5
-Chandigarh,1994,81.94,6
-Chhattisgarh,1994,64.66,7
-Dadra and Nagar Haveli,1994,57.63,8
-Daman and Diu,1994,78.18,9
-Delhi,1994,81.67,10
-Goa,1994,82.01,11
-Gujarat,1994,69.1,12
-Haryana,1994,67.9,13
-Himachal Pradesh,1994,76.5,14
-Jharkhand,1994,53.6,16
-Karnataka,1994,60.47,17
-Kerala,1994,90.9,18
-Lakshadweep,1994,86.66,19
-Madhya Pradesh,1994,63.7,20
-Maharashtra,1994,76.9,21
-Manipur,1994,69.93,22
-Meghalaya,1994,62.56,23
-Mizoram,1994,88.8,24
-Nagaland,1994,66.59,25
-Orissa,1994,63.1,26
-Puducherry,1994,81.24,27
-Punjab,1994,69.7,28
-Rajasthan,1994,60.4,29
-Sikkim,1994,68.81,30
-Tamil Nadu,1994,73.5,31
-Tripura,1994,73.19,32
-Uttar Pradesh,1994,56.3,33
-Uttaranchal,1994,71.6,34
-West Bengal,1994,68.6,35
-Jammu and Kashmir,1994,55.5,15
-Andaman and Nicobar,1993,81.3,1
-Telangana,1993,0,36
-Andhra Pradesh,1993,60.47,2
-Arunachal Pradesh,1993,54.34,3
-Assam,1993,63.25,4
-Bihar,1993,47,5
-Chandigarh,1993,81.94,6
-Chhattisgarh,1993,64.66,7
-Dadra and Nagar Haveli,1993,57.63,8
-Daman and Diu,1993,78.18,9
-Delhi,1993,81.67,10
-Goa,1993,82.01,11
-Gujarat,1993,69.1,12
-Haryana,1993,67.9,13
-Himachal Pradesh,1993,76.5,14
-Jharkhand,1993,53.6,16
-Karnataka,1993,60.47,17
-Kerala,1993,90.9,18
-Lakshadweep,1993,86.66,19
-Madhya Pradesh,1993,63.7,20
-Maharashtra,1993,76.9,21
-Manipur,1993,69.93,22
-Meghalaya,1993,62.56,23
-Mizoram,1993,88.8,24
-Nagaland,1993,66.59,25
-Orissa,1993,63.1,26
-Puducherry,1993,81.24,27
-Punjab,1993,69.7,28
-Rajasthan,1993,60.4,29
-Sikkim,1993,68.81,30
-Tamil Nadu,1993,73.5,31
-Tripura,1993,73.19,32
-Uttar Pradesh,1993,56.3,33
-Uttaranchal,1993,71.6,34
-West Bengal,1993,68.6,35
-Jammu and Kashmir,1993,55.5,15
-Andaman and Nicobar,1992,81.3,1
-Telangana,1992,0,36
-Andhra Pradesh,1992,60.47,2
-Arunachal Pradesh,1992,54.34,3
-Assam,1992,63.25,4
-Bihar,1992,47,5
-Chandigarh,1992,81.94,6
-Chhattisgarh,1992,64.66,7
-Dadra and Nagar Haveli,1992,57.63,8
-Daman and Diu,1992,78.18,9
-Delhi,1992,81.67,10
-Goa,1992,82.01,11
-Gujarat,1992,69.1,12
-Haryana,1992,67.9,13
-Himachal Pradesh,1992,76.5,14
-Jharkhand,1992,53.6,16
-Karnataka,1992,60.47,17
-Kerala,1992,90.9,18
-Lakshadweep,1992,86.66,19
-Madhya Pradesh,1992,63.7,20
-Maharashtra,1992,76.9,21
-Manipur,1992,69.93,22
-Meghalaya,1992,62.56,23
-Mizoram,1992,88.8,24
-Nagaland,1992,66.59,25
-Orissa,1992,63.1,26
-Puducherry,1992,81.24,27
-Punjab,1992,69.7,28
-Rajasthan,1992,60.4,29
-Sikkim,1992,68.81,30
-Tamil Nadu,1992,73.5,31
-Tripura,1992,73.19,32
-Uttar Pradesh,1992,56.3,33
-Uttaranchal,1992,71.6,34
-West Bengal,1992,68.6,35
-Jammu and Kashmir,1992,55.5,15
-Andaman and Nicobar,1991,73.02,1
-Telangana,1991,0,36
-Andhra Pradesh,1991,44.1,2
-Arunachal Pradesh,1991,41.59,3
-Assam,1991,52.9,4
-Bihar,1991,37.5,5
-Chandigarh,1991,77.81,6
-Chhattisgarh,1991,42.9,7
-Dadra and Nagar Haveli,1991,40.71,8
-Daman and Diu,1991,71.2,9
-Delhi,1991,75.29,10
-Goa,1991,75.51,11
-Gujarat,1991,61.3,12
-Haryana,1991,55.9,13
-Himachal Pradesh,1991,63.9,14
-Jharkhand,1991,41.4,16
-Karnataka,1991,56,17
-Kerala,1991,89.8,18
-Lakshadweep,1991,81.78,19
-Madhya Pradesh,1991,44.7,20
-Maharashtra,1991,64.9,21
-Manipur,1991,59.89,22
-Meghalaya,1991,49.1,23
-Mizoram,1991,82.26,24
-Nagaland,1991,61.65,25
-Orissa,1991,49.1,26
-Puducherry,1991,74.74,27
-Punjab,1991,58.51,28
-Rajasthan,1991,38.55,29
-Sikkim,1991,56.94,30
-Tamil Nadu,1991,62.66,31
-Tripura,1991,60.44,32
-Uttar Pradesh,1991,40.71,33
-Uttaranchal,1991,57.75,34
-West Bengal,1991,57.7,35
-Jammu and Kashmir,1991,63.86,15
-Andaman and Nicobar,1990,73.02,1
-Telangana,1990,0,36
-Andhra Pradesh,1990,44.1,2
-Arunachal Pradesh,1990,41.59,3
-Assam,1990,52.9,4
-Bihar,1990,37.5,5
-Chandigarh,1990,77.81,6
-Chhattisgarh,1990,42.9,7
-Dadra and Nagar Haveli,1990,40.71,8
-Daman and Diu,1990,71.2,9
-Delhi,1990,75.29,10
-Goa,1990,75.51,11
-Gujarat,1990,61.3,12
-Haryana,1990,55.9,13
-Himachal Pradesh,1990,63.9,14
-Jharkhand,1990,41.4,16
-Karnataka,1990,56,17
-Kerala,1990,89.8,18
-Lakshadweep,1990,81.78,19
-Madhya Pradesh,1990,44.7,20
-Maharashtra,1990,64.9,21
-Manipur,1990,59.89,22
-Meghalaya,1990,49.1,23
-Mizoram,1990,82.26,24
-Nagaland,1990,61.65,25
-Orissa,1990,49.1,26
-Puducherry,1990,74.74,27
-Punjab,1990,58.51,28
-Rajasthan,1990,38.55,29
-Sikkim,1990,56.94,30
-Tamil Nadu,1990,62.66,31
-Tripura,1990,60.44,32
-Uttar Pradesh,1990,40.71,33
-Uttaranchal,1990,57.75,34
-West Bengal,1990,57.7,35
-Jammu and Kashmir,1990,63.86,15
-Andaman and Nicobar,1989,73.02,1
-Telangana,1989,0,36
-Andhra Pradesh,1989,44.1,2
-Arunachal Pradesh,1989,41.59,3
-Assam,1989,52.9,4
-Bihar,1989,37.5,5
-Chandigarh,1989,77.81,6
-Chhattisgarh,1989,42.9,7
-Dadra and Nagar Haveli,1989,40.71,8
-Daman and Diu,1989,71.2,9
-Delhi,1989,75.29,10
-Goa,1989,75.51,11
-Gujarat,1989,61.3,12
-Haryana,1989,55.9,13
-Himachal Pradesh,1989,63.9,14
-Jharkhand,1989,41.4,16
-Karnataka,1989,56,17
-Kerala,1989,89.8,18
-Lakshadweep,1989,81.78,19
-Madhya Pradesh,1989,44.7,20
-Maharashtra,1989,64.9,21
-Manipur,1989,59.89,22
-Meghalaya,1989,49.1,23
-Mizoram,1989,82.26,24
-Nagaland,1989,61.65,25
-Orissa,1989,49.1,26
-Puducherry,1989,74.74,27
-Punjab,1989,58.51,28
-Rajasthan,1989,38.55,29
-Sikkim,1989,56.94,30
-Tamil Nadu,1989,62.66,31
-Tripura,1989,60.44,32
-Uttar Pradesh,1989,40.71,33
-Uttaranchal,1989,57.75,34
-West Bengal,1989,57.7,35
-Jammu and Kashmir,1989,63.86,15
-Andaman and Nicobar,1988,73.02,1
-Telangana,1988,0,36
-Andhra Pradesh,1988,44.1,2
-Arunachal Pradesh,1988,41.59,3
-Assam,1988,52.9,4
-Bihar,1988,37.5,5
-Chandigarh,1988,77.81,6
-Chhattisgarh,1988,42.9,7
-Dadra and Nagar Haveli,1988,40.71,8
-Daman and Diu,1988,71.2,9
-Delhi,1988,75.29,10
-Goa,1988,75.51,11
-Gujarat,1988,61.3,12
-Haryana,1988,55.9,13
-Himachal Pradesh,1988,63.9,14
-Jharkhand,1988,41.4,16
-Karnataka,1988,56,17
-Kerala,1988,89.8,18
-Lakshadweep,1988,81.78,19
-Madhya Pradesh,1988,44.7,20
-Maharashtra,1988,64.9,21
-Manipur,1988,59.89,22
-Meghalaya,1988,49.1,23
-Mizoram,1988,82.26,24
-Nagaland,1988,61.65,25
-Orissa,1988,49.1,26
-Puducherry,1988,74.74,27
-Punjab,1988,58.51,28
-Rajasthan,1988,38.55,29
-Sikkim,1988,56.94,30
-Tamil Nadu,1988,62.66,31
-Tripura,1988,60.44,32
-Uttar Pradesh,1988,40.71,33
-Uttaranchal,1988,57.75,34
-West Bengal,1988,57.7,35
-Jammu and Kashmir,1988,63.86,15
-Andaman and Nicobar,1987,73.02,1
-Telangana,1987,0,36
-Andhra Pradesh,1987,44.1,2
-Arunachal Pradesh,1987,41.59,3
-Assam,1987,52.9,4
-Bihar,1987,37.5,5
-Chandigarh,1987,77.81,6
-Chhattisgarh,1987,42.9,7
-Dadra and Nagar Haveli,1987,40.71,8
-Daman and Diu,1987,71.2,9
-Delhi,1987,75.29,10
-Goa,1987,75.51,11
-Gujarat,1987,61.3,12
-Haryana,1987,55.9,13
-Himachal Pradesh,1987,63.9,14
-Jharkhand,1987,41.4,16
-Karnataka,1987,56,17
-Kerala,1987,89.8,18
-Lakshadweep,1987,81.78,19
-Madhya Pradesh,1987,44.7,20
-Maharashtra,1987,64.9,21
-Manipur,1987,59.89,22
-Meghalaya,1987,49.1,23
-Mizoram,1987,82.26,24
-Nagaland,1987,61.65,25
-Orissa,1987,49.1,26
-Puducherry,1987,74.74,27
-Punjab,1987,58.51,28
-Rajasthan,1987,38.55,29
-Sikkim,1987,56.94,30
-Tamil Nadu,1987,62.66,31
-Tripura,1987,60.44,32
-Uttar Pradesh,1987,40.71,33
-Uttaranchal,1987,57.75,34
-West Bengal,1987,57.7,35
-Jammu and Kashmir,1987,63.86,15
-Andaman and Nicobar,1986,73.02,1
-Telangana,1986,0,36
-Andhra Pradesh,1986,44.1,2
-Arunachal Pradesh,1986,41.59,3
-Assam,1986,52.9,4
-Bihar,1986,37.5,5
-Chandigarh,1986,77.81,6
-Chhattisgarh,1986,42.9,7
-Dadra and Nagar Haveli,1986,40.71,8
-Daman and Diu,1986,71.2,9
-Delhi,1986,75.29,10
-Goa,1986,75.51,11
-Gujarat,1986,61.3,12
-Haryana,1986,55.9,13
-Himachal Pradesh,1986,63.9,14
-Jharkhand,1986,41.4,16
-Karnataka,1986,56,17
-Kerala,1986,89.8,18
-Lakshadweep,1986,81.78,19
-Madhya Pradesh,1986,44.7,20
-Maharashtra,1986,64.9,21
-Manipur,1986,59.89,22
-Meghalaya,1986,49.1,23
-Mizoram,1986,82.26,24
-Nagaland,1986,61.65,25
-Orissa,1986,49.1,26
-Puducherry,1986,74.74,27
-Punjab,1986,58.51,28
-Rajasthan,1986,38.55,29
-Sikkim,1986,56.94,30
-Tamil Nadu,1986,62.66,31
-Tripura,1986,60.44,32
-Uttar Pradesh,1986,40.71,33
-Uttaranchal,1986,57.75,34
-West Bengal,1986,57.7,35
-Jammu and Kashmir,1986,63.86,15
-Andaman and Nicobar,1985,73.02,1
-Telangana,1985,0,36
-Andhra Pradesh,1985,44.1,2
-Arunachal Pradesh,1985,41.59,3
-Assam,1985,52.9,4
-Bihar,1985,37.5,5
-Chandigarh,1985,77.81,6
-Chhattisgarh,1985,42.9,7
-Dadra and Nagar Haveli,1985,40.71,8
-Daman and Diu,1985,71.2,9
-Delhi,1985,75.29,10
-Goa,1985,75.51,11
-Gujarat,1985,61.3,12
-Haryana,1985,55.9,13
-Himachal Pradesh,1985,63.9,14
-Jharkhand,1985,41.4,16
-Karnataka,1985,56,17
-Kerala,1985,89.8,18
-Lakshadweep,1985,81.78,19
-Madhya Pradesh,1985,44.7,20
-Maharashtra,1985,64.9,21
-Manipur,1985,59.89,22
-Meghalaya,1985,49.1,23
-Mizoram,1985,82.26,24
-Nagaland,1985,61.65,25
-Orissa,1985,49.1,26
-Puducherry,1985,74.74,27
-Punjab,1985,58.51,28
-Rajasthan,1985,38.55,29
-Sikkim,1985,56.94,30
-Tamil Nadu,1985,62.66,31
-Tripura,1985,60.44,32
-Uttar Pradesh,1985,40.71,33
-Uttaranchal,1985,57.75,34
-West Bengal,1985,57.7,35
-Jammu and Kashmir,1985,63.86,15
-Andaman and Nicobar,1984,73.02,1
-Telangana,1984,0,36
-Andhra Pradesh,1984,44.1,2
-Arunachal Pradesh,1984,41.59,3
-Assam,1984,52.9,4
-Bihar,1984,37.5,5
-Chandigarh,1984,77.81,6
-Chhattisgarh,1984,42.9,7
-Dadra and Nagar Haveli,1984,40.71,8
-Daman and Diu,1984,71.2,9
-Delhi,1984,75.29,10
-Goa,1984,75.51,11
-Gujarat,1984,61.3,12
-Haryana,1984,55.9,13
-Himachal Pradesh,1984,63.9,14
-Jharkhand,1984,41.4,16
-Karnataka,1984,56,17
-Kerala,1984,89.8,18
-Lakshadweep,1984,81.78,19
-Madhya Pradesh,1984,44.7,20
-Maharashtra,1984,64.9,21
-Manipur,1984,59.89,22
-Meghalaya,1984,49.1,23
-Mizoram,1984,82.26,24
-Nagaland,1984,61.65,25
-Orissa,1984,49.1,26
-Puducherry,1984,74.74,27
-Punjab,1984,58.51,28
-Rajasthan,1984,38.55,29
-Sikkim,1984,56.94,30
-Tamil Nadu,1984,62.66,31
-Tripura,1984,60.44,32
-Uttar Pradesh,1984,40.71,33
-Uttaranchal,1984,57.75,34
-West Bengal,1984,57.7,35
-Jammu and Kashmir,1984,63.86,15
-Andaman and Nicobar,1983,73.02,1
-Telangana,1983,0,36
-Andhra Pradesh,1983,44.1,2
-Arunachal Pradesh,1983,41.59,3
-Assam,1983,52.9,4
-Bihar,1983,37.5,5
-Chandigarh,1983,77.81,6
-Chhattisgarh,1983,42.9,7
-Dadra and Nagar Haveli,1983,40.71,8
-Daman and Diu,1983,71.2,9
-Delhi,1983,75.29,10
-Goa,1983,75.51,11
-Gujarat,1983,61.3,12
-Haryana,1983,55.9,13
-Himachal Pradesh,1983,63.9,14
-Jharkhand,1983,41.4,16
-Karnataka,1983,56,17
-Kerala,1983,89.8,18
-Lakshadweep,1983,81.78,19
-Madhya Pradesh,1983,44.7,20
-Maharashtra,1983,64.9,21
-Manipur,1983,59.89,22
-Meghalaya,1983,49.1,23
-Mizoram,1983,82.26,24
-Nagaland,1983,61.65,25
-Orissa,1983,49.1,26
-Puducherry,1983,74.74,27
-Punjab,1983,58.51,28
-Rajasthan,1983,38.55,29
-Sikkim,1983,56.94,30
-Tamil Nadu,1983,62.66,31
-Tripura,1983,60.44,32
-Uttar Pradesh,1983,40.71,33
-Uttaranchal,1983,57.75,34
-West Bengal,1983,57.7,35
-Jammu and Kashmir,1983,63.86,15
-Andaman and Nicobar,1982,73.02,1
-Telangana,1982,0,36
-Andhra Pradesh,1982,44.1,2
-Arunachal Pradesh,1982,41.59,3
-Assam,1982,52.9,4
-Bihar,1982,37.5,5
-Chandigarh,1982,77.81,6
-Chhattisgarh,1982,42.9,7
-Dadra and Nagar Haveli,1982,40.71,8
-Daman and Diu,1982,71.2,9
-Delhi,1982,75.29,10
-Goa,1982,75.51,11
-Gujarat,1982,61.3,12
-Haryana,1982,55.9,13
-Himachal Pradesh,1982,63.9,14
-Jharkhand,1982,41.4,16
-Karnataka,1982,56,17
-Kerala,1982,89.8,18
-Lakshadweep,1982,81.78,19
-Madhya Pradesh,1982,44.7,20
-Maharashtra,1982,64.9,21
-Manipur,1982,59.89,22
-Meghalaya,1982,49.1,23
-Mizoram,1982,82.26,24
-Nagaland,1982,61.65,25
-Orissa,1982,49.1,26
-Puducherry,1982,74.74,27
-Punjab,1982,58.51,28
-Rajasthan,1982,38.55,29
-Sikkim,1982,56.94,30
-Tamil Nadu,1982,62.66,31
-Tripura,1982,60.44,32
-Uttar Pradesh,1982,40.71,33
-Uttaranchal,1982,57.75,34
-West Bengal,1982,57.7,35
-Jammu and Kashmir,1982,63.86,15
-Andaman and Nicobar,1981,63.19,1
-Telangana,1981,0,36
-Andhra Pradesh,1981,35.7,2
-Arunachal Pradesh,1981,25.55,3
-Assam,1981,0,4
-Bihar,1981,32.3,5
-Chandigarh,1981,74.8,6
-Chhattisgarh,1981,32.63,7
-Dadra and Nagar Haveli,1981,32.9,8
-Daman and Diu,1981,0,9
-Delhi,1981,71.94,10
-Goa,1981,65.71,11
-Gujarat,1981,44.92,12
-Haryana,1981,37.13,13
-Himachal Pradesh,1981,0,14
-Jharkhand,1981,35.03,16
-Karnataka,1981,46.21,17
-Kerala,1981,78.85,18
-Lakshadweep,1981,68.42,19
-Madhya Pradesh,1981,38.63,20
-Maharashtra,1981,57.24,21
-Manipur,1981,49.66,22
-Meghalaya,1981,42.05,23
-Mizoram,1981,59.88,24
-Nagaland,1981,50.28,25
-Orissa,1981,33.62,26
-Puducherry,1981,65.14,27
-Punjab,1981,43.37,28
-Rajasthan,1981,30.11,29
-Sikkim,1981,34.05,30
-Tamil Nadu,1981,54.39,31
-Tripura,1981,50.1,32
-Uttar Pradesh,1981,32.65,33
-Uttaranchal,1981,46.06,34
-West Bengal,1981,48.65,35
-Jammu and Kashmir,1981,30.64,15
-Andaman and Nicobar,1980,63.19,1
-Telangana,1980,0,36
-Andhra Pradesh,1980,35.7,2
-Arunachal Pradesh,1980,25.55,3
-Assam,1980,0,4
-Bihar,1980,32.3,5
-Chandigarh,1980,74.8,6
-Chhattisgarh,1980,32.63,7
-Dadra and Nagar Haveli,1980,32.9,8
-Daman and Diu,1980,0,9
-Delhi,1980,71.94,10
-Goa,1980,65.71,11
-Gujarat,1980,44.92,12
-Haryana,1980,37.13,13
-Himachal Pradesh,1980,0,14
-Jharkhand,1980,35.03,16
-Karnataka,1980,46.21,17
-Kerala,1980,78.85,18
-Lakshadweep,1980,68.42,19
-Madhya Pradesh,1980,38.63,20
-Maharashtra,1980,57.24,21
-Manipur,1980,49.66,22
-Meghalaya,1980,42.05,23
-Mizoram,1980,59.88,24
-Nagaland,1980,50.28,25
-Orissa,1980,33.62,26
-Puducherry,1980,65.14,27
-Punjab,1980,43.37,28
-Rajasthan,1980,30.11,29
-Sikkim,1980,34.05,30
-Tamil Nadu,1980,54.39,31
-Tripura,1980,50.1,32
-Uttar Pradesh,1980,32.65,33
-Uttaranchal,1980,46.06,34
-West Bengal,1980,48.65,35
-Jammu and Kashmir,1980,30.64,15
-Andaman and Nicobar,1979,63.19,1
-Telangana,1979,0,36
-Andhra Pradesh,1979,35.7,2
-Arunachal Pradesh,1979,25.55,3
-Assam,1979,0,4
-Bihar,1979,32.3,5
-Chandigarh,1979,74.8,6
-Chhattisgarh,1979,32.63,7
-Dadra and Nagar Haveli,1979,32.9,8
-Daman and Diu,1979,0,9
-Delhi,1979,71.94,10
-Goa,1979,65.71,11
-Gujarat,1979,44.92,12
-Haryana,1979,37.13,13
-Himachal Pradesh,1979,0,14
-Jharkhand,1979,35.03,16
-Karnataka,1979,46.21,17
-Kerala,1979,78.85,18
-Lakshadweep,1979,68.42,19
-Madhya Pradesh,1979,38.63,20
-Maharashtra,1979,57.24,21
-Manipur,1979,49.66,22
-Meghalaya,1979,42.05,23
-Mizoram,1979,59.88,24
-Nagaland,1979,50.28,25
-Orissa,1979,33.62,26
-Puducherry,1979,65.14,27
-Punjab,1979,43.37,28
-Rajasthan,1979,30.11,29
-Sikkim,1979,34.05,30
-Tamil Nadu,1979,54.39,31
-Tripura,1979,50.1,32
-Uttar Pradesh,1979,32.65,33
-Uttaranchal,1979,46.06,34
-West Bengal,1979,48.65,35
-Jammu and Kashmir,1979,30.64,15
-Andaman and Nicobar,1978,63.19,1
-Telangana,1978,0,36
-Andhra Pradesh,1978,35.7,2
-Arunachal Pradesh,1978,25.55,3
-Assam,1978,0,4
-Bihar,1978,32.3,5
-Chandigarh,1978,74.8,6
-Chhattisgarh,1978,32.63,7
-Dadra and Nagar Haveli,1978,32.9,8
-Daman and Diu,1978,0,9
-Delhi,1978,71.94,10
-Goa,1978,65.71,11
-Gujarat,1978,44.92,12
-Haryana,1978,37.13,13
-Himachal Pradesh,1978,0,14
-Jharkhand,1978,35.03,16
-Karnataka,1978,46.21,17
-Kerala,1978,78.85,18
-Lakshadweep,1978,68.42,19
-Madhya Pradesh,1978,38.63,20
-Maharashtra,1978,57.24,21
-Manipur,1978,49.66,22
-Meghalaya,1978,42.05,23
-Mizoram,1978,59.88,24
-Nagaland,1978,50.28,25
-Orissa,1978,33.62,26
-Puducherry,1978,65.14,27
-Punjab,1978,43.37,28
-Rajasthan,1978,30.11,29
-Sikkim,1978,34.05,30
-Tamil Nadu,1978,54.39,31
-Tripura,1978,50.1,32
-Uttar Pradesh,1978,32.65,33
-Uttaranchal,1978,46.06,34
-West Bengal,1978,48.65,35
-Jammu and Kashmir,1978,30.64,15
-Andaman and Nicobar,1977,63.19,1
-Telangana,1977,0,36
-Andhra Pradesh,1977,35.7,2
-Arunachal Pradesh,1977,25.55,3
-Assam,1977,0,4
-Bihar,1977,32.3,5
-Chandigarh,1977,74.8,6
-Chhattisgarh,1977,32.63,7
-Dadra and Nagar Haveli,1977,32.9,8
-Daman and Diu,1977,0,9
-Delhi,1977,71.94,10
-Goa,1977,65.71,11
-Gujarat,1977,44.92,12
-Haryana,1977,37.13,13
-Himachal Pradesh,1977,0,14
-Jharkhand,1977,35.03,16
-Karnataka,1977,46.21,17
-Kerala,1977,78.85,18
-Lakshadweep,1977,68.42,19
-Madhya Pradesh,1977,38.63,20
-Maharashtra,1977,57.24,21
-Manipur,1977,49.66,22
-Meghalaya,1977,42.05,23
-Mizoram,1977,59.88,24
-Nagaland,1977,50.28,25
-Orissa,1977,33.62,26
-Puducherry,1977,65.14,27
-Punjab,1977,43.37,28
-Rajasthan,1977,30.11,29
-Sikkim,1977,34.05,30
-Tamil Nadu,1977,54.39,31
-Tripura,1977,50.1,32
-Uttar Pradesh,1977,32.65,33
-Uttaranchal,1977,46.06,34
-West Bengal,1977,48.65,35
-Jammu and Kashmir,1977,30.64,15
-Andaman and Nicobar,1976,63.19,1
-Telangana,1976,0,36
-Andhra Pradesh,1976,35.7,2
-Arunachal Pradesh,1976,25.55,3
-Assam,1976,0,4
-Bihar,1976,32.3,5
-Chandigarh,1976,74.8,6
-Chhattisgarh,1976,32.63,7
-Dadra and Nagar Haveli,1976,32.9,8
-Daman and Diu,1976,0,9
-Delhi,1976,71.94,10
-Goa,1976,65.71,11
-Gujarat,1976,44.92,12
-Haryana,1976,37.13,13
-Himachal Pradesh,1976,0,14
-Jharkhand,1976,35.03,16
-Karnataka,1976,46.21,17
-Kerala,1976,78.85,18
-Lakshadweep,1976,68.42,19
-Madhya Pradesh,1976,38.63,20
-Maharashtra,1976,57.24,21
-Manipur,1976,49.66,22
-Meghalaya,1976,42.05,23
-Mizoram,1976,59.88,24
-Nagaland,1976,50.28,25
-Orissa,1976,33.62,26
-Puducherry,1976,65.14,27
-Punjab,1976,43.37,28
-Rajasthan,1976,30.11,29
-Sikkim,1976,34.05,30
-Tamil Nadu,1976,54.39,31
-Tripura,1976,50.1,32
-Uttar Pradesh,1976,32.65,33
-Uttaranchal,1976,46.06,34
-West Bengal,1976,48.65,35
-Jammu and Kashmir,1976,30.64,15
-Andaman and Nicobar,1975,63.19,1
-Telangana,1975,0,36
-Andhra Pradesh,1975,35.7,2
-Arunachal Pradesh,1975,25.55,3
-Assam,1975,0,4
-Bihar,1975,32.3,5
-Chandigarh,1975,74.8,6
-Chhattisgarh,1975,32.63,7
-Dadra and Nagar Haveli,1975,32.9,8
-Daman and Diu,1975,0,9
-Delhi,1975,71.94,10
-Goa,1975,65.71,11
-Gujarat,1975,44.92,12
-Haryana,1975,37.13,13
-Himachal Pradesh,1975,0,14
-Jharkhand,1975,35.03,16
-Karnataka,1975,46.21,17
-Kerala,1975,78.85,18
-Lakshadweep,1975,68.42,19
-Madhya Pradesh,1975,38.63,20
-Maharashtra,1975,57.24,21
-Manipur,1975,49.66,22
-Meghalaya,1975,42.05,23
-Mizoram,1975,59.88,24
-Nagaland,1975,50.28,25
-Orissa,1975,33.62,26
-Puducherry,1975,65.14,27
-Punjab,1975,43.37,28
-Rajasthan,1975,30.11,29
-Sikkim,1975,34.05,30
-Tamil Nadu,1975,54.39,31
-Tripura,1975,50.1,32
-Uttar Pradesh,1975,32.65,33
-Uttaranchal,1975,46.06,34
-West Bengal,1975,48.65,35
-Jammu and Kashmir,1975,30.64,15
-Andaman and Nicobar,1974,63.19,1
-Telangana,1974,0,36
-Andhra Pradesh,1974,35.7,2
-Arunachal Pradesh,1974,25.55,3
-Assam,1974,0,4
-Bihar,1974,32.3,5
-Chandigarh,1974,74.8,6
-Chhattisgarh,1974,32.63,7
-Dadra and Nagar Haveli,1974,32.9,8
-Daman and Diu,1974,0,9
-Delhi,1974,71.94,10
-Goa,1974,65.71,11
-Gujarat,1974,44.92,12
-Haryana,1974,37.13,13
-Himachal Pradesh,1974,0,14
-Jharkhand,1974,35.03,16
-Karnataka,1974,46.21,17
-Kerala,1974,78.85,18
-Lakshadweep,1974,68.42,19
-Madhya Pradesh,1974,38.63,20
-Maharashtra,1974,57.24,21
-Manipur,1974,49.66,22
-Meghalaya,1974,42.05,23
-Mizoram,1974,59.88,24
-Nagaland,1974,50.28,25
-Orissa,1974,33.62,26
-Puducherry,1974,65.14,27
-Punjab,1974,43.37,28
-Rajasthan,1974,30.11,29
-Sikkim,1974,34.05,30
-Tamil Nadu,1974,54.39,31
-Tripura,1974,50.1,32
-Uttar Pradesh,1974,32.65,33
-Uttaranchal,1974,46.06,34
-West Bengal,1974,48.65,35
-Jammu and Kashmir,1974,30.64,15
-Andaman and Nicobar,1973,63.19,1
-Telangana,1973,0,36
-Andhra Pradesh,1973,35.7,2
-Arunachal Pradesh,1973,25.55,3
-Assam,1973,0,4
-Bihar,1973,32.3,5
-Chandigarh,1973,74.8,6
-Chhattisgarh,1973,32.63,7
-Dadra and Nagar Haveli,1973,32.9,8
-Daman and Diu,1973,0,9
-Delhi,1973,71.94,10
-Goa,1973,65.71,11
-Gujarat,1973,44.92,12
-Haryana,1973,37.13,13
-Himachal Pradesh,1973,0,14
-Jharkhand,1973,35.03,16
-Karnataka,1973,46.21,17
-Kerala,1973,78.85,18
-Lakshadweep,1973,68.42,19
-Madhya Pradesh,1973,38.63,20
-Maharashtra,1973,57.24,21
-Manipur,1973,49.66,22
-Meghalaya,1973,42.05,23
-Mizoram,1973,59.88,24
-Nagaland,1973,50.28,25
-Orissa,1973,33.62,26
-Puducherry,1973,65.14,27
-Punjab,1973,43.37,28
-Rajasthan,1973,30.11,29
-Sikkim,1973,34.05,30
-Tamil Nadu,1973,54.39,31
-Tripura,1973,50.1,32
-Uttar Pradesh,1973,32.65,33
-Uttaranchal,1973,46.06,34
-West Bengal,1973,48.65,35
-Jammu and Kashmir,1973,30.64,15
-Andaman and Nicobar,1972,63.19,1
-Telangana,1972,0,36
-Andhra Pradesh,1972,35.7,2
-Arunachal Pradesh,1972,25.55,3
-Assam,1972,0,4
-Bihar,1972,32.3,5
-Chandigarh,1972,74.8,6
-Chhattisgarh,1972,32.63,7
-Dadra and Nagar Haveli,1972,32.9,8
-Daman and Diu,1972,0,9
-Delhi,1972,71.94,10
-Goa,1972,65.71,11
-Gujarat,1972,44.92,12
-Haryana,1972,37.13,13
-Himachal Pradesh,1972,0,14
-Jharkhand,1972,35.03,16
-Karnataka,1972,46.21,17
-Kerala,1972,78.85,18
-Lakshadweep,1972,68.42,19
-Madhya Pradesh,1972,38.63,20
-Maharashtra,1972,57.24,21
-Manipur,1972,49.66,22
-Meghalaya,1972,42.05,23
-Mizoram,1972,59.88,24
-Nagaland,1972,50.28,25
-Orissa,1972,33.62,26
-Puducherry,1972,65.14,27
-Punjab,1972,43.37,28
-Rajasthan,1972,30.11,29
-Sikkim,1972,34.05,30
-Tamil Nadu,1972,54.39,31
-Tripura,1972,50.1,32
-Uttar Pradesh,1972,32.65,33
-Uttaranchal,1972,46.06,34
-West Bengal,1972,48.65,35
-Jammu and Kashmir,1972,30.64,15
-Andaman and Nicobar,1971,51.15,1
-Telangana,1971,0,36
-Andhra Pradesh,1971,24.57,2
-Arunachal Pradesh,1971,11.29,3
-Assam,1971,33.94,4
-Bihar,1971,23.17,5
-Chandigarh,1971,70.43,6
-Chhattisgarh,1971,24.08,7
-Dadra and Nagar Haveli,1971,18.13,8
-Daman and Diu,1971,0,9
-Delhi,1971,65.08,10
-Goa,1971,51.96,11
-Gujarat,1971,36.95,12
-Haryana,1971,25.71,13
-Himachal Pradesh,1971,0,14
-Jharkhand,1971,23.87,16
-Karnataka,1971,36.83,17
-Kerala,1971,69.75,18
-Lakshadweep,1971,51.76,19
-Madhya Pradesh,1971,27.27,20
-Maharashtra,1971,45.77,21
-Manipur,1971,38.47,22
-Meghalaya,1971,29.49,23
-Mizoram,1971,53.8,24
-Nagaland,1971,33.78,25
-Orissa,1971,26.18,26
-Puducherry,1971,53.38,27
-Punjab,1971,34.12,28
-Rajasthan,1971,22.57,29
-Sikkim,1971,17.74,30
-Tamil Nadu,1971,45.4,31
-Tripura,1971,30.98,32
-Uttar Pradesh,1971,23.99,33
-Uttaranchal,1971,33.26,34
-West Bengal,1971,38.86,35
-Jammu and Kashmir,1971,21.71,15
-Andaman and Nicobar,1970,51.15,1
-Telangana,1970,0,36
-Andhra Pradesh,1970,24.57,2
-Arunachal Pradesh,1970,11.29,3
-Assam,1970,33.94,4
-Bihar,1970,23.17,5
-Chandigarh,1970,70.43,6
-Chhattisgarh,1970,24.08,7
-Dadra and Nagar Haveli,1970,18.13,8
-Daman and Diu,1970,0,9
-Delhi,1970,65.08,10
-Goa,1970,51.96,11
-Gujarat,1970,36.95,12
-Haryana,1970,25.71,13
-Himachal Pradesh,1970,0,14
-Jharkhand,1970,23.87,16
-Karnataka,1970,36.83,17
-Kerala,1970,69.75,18
-Lakshadweep,1970,51.76,19
-Madhya Pradesh,1970,27.27,20
-Maharashtra,1970,45.77,21
-Manipur,1970,38.47,22
-Meghalaya,1970,29.49,23
-Mizoram,1970,53.8,24
-Nagaland,1970,33.78,25
-Orissa,1970,26.18,26
-Puducherry,1970,53.38,27
-Punjab,1970,34.12,28
-Rajasthan,1970,22.57,29
-Sikkim,1970,17.74,30
-Tamil Nadu,1970,45.4,31
-Tripura,1970,30.98,32
-Uttar Pradesh,1970,23.99,33
-Uttaranchal,1970,33.26,34
-West Bengal,1970,38.86,35
-Jammu and Kashmir,1970,21.71,15
-Andaman and Nicobar,1969,51.15,1
-Telangana,1969,0,36
-Andhra Pradesh,1969,24.57,2
-Arunachal Pradesh,1969,11.29,3
-Assam,1969,33.94,4
-Bihar,1969,23.17,5
-Chandigarh,1969,70.43,6
-Chhattisgarh,1969,24.08,7
-Dadra and Nagar Haveli,1969,18.13,8
-Daman and Diu,1969,0,9
-Delhi,1969,65.08,10
-Goa,1969,51.96,11
-Gujarat,1969,36.95,12
-Haryana,1969,25.71,13
-Himachal Pradesh,1969,0,14
-Jharkhand,1969,23.87,16
-Karnataka,1969,36.83,17
-Kerala,1969,69.75,18
-Lakshadweep,1969,51.76,19
-Madhya Pradesh,1969,27.27,20
-Maharashtra,1969,45.77,21
-Manipur,1969,38.47,22
-Meghalaya,1969,29.49,23
-Mizoram,1969,53.8,24
-Nagaland,1969,33.78,25
-Orissa,1969,26.18,26
-Puducherry,1969,53.38,27
-Punjab,1969,34.12,28
-Rajasthan,1969,22.57,29
-Sikkim,1969,17.74,30
-Tamil Nadu,1969,45.4,31
-Tripura,1969,30.98,32
-Uttar Pradesh,1969,23.99,33
-Uttaranchal,1969,33.26,34
-West Bengal,1969,38.86,35
-Jammu and Kashmir,1969,21.71,15
-Andaman and Nicobar,1968,51.15,1
-Telangana,1968,0,36
-Andhra Pradesh,1968,24.57,2
-Arunachal Pradesh,1968,11.29,3
-Assam,1968,33.94,4
-Bihar,1968,23.17,5
-Chandigarh,1968,70.43,6
-Chhattisgarh,1968,24.08,7
-Dadra and Nagar Haveli,1968,18.13,8
-Daman and Diu,1968,0,9
-Delhi,1968,65.08,10
-Goa,1968,51.96,11
-Gujarat,1968,36.95,12
-Haryana,1968,25.71,13
-Himachal Pradesh,1968,0,14
-Jharkhand,1968,23.87,16
-Karnataka,1968,36.83,17
-Kerala,1968,69.75,18
-Lakshadweep,1968,51.76,19
-Madhya Pradesh,1968,27.27,20
-Maharashtra,1968,45.77,21
-Manipur,1968,38.47,22
-Meghalaya,1968,29.49,23
-Mizoram,1968,53.8,24
-Nagaland,1968,33.78,25
-Orissa,1968,26.18,26
-Puducherry,1968,53.38,27
-Punjab,1968,34.12,28
-Rajasthan,1968,22.57,29
-Sikkim,1968,17.74,30
-Tamil Nadu,1968,45.4,31
-Tripura,1968,30.98,32
-Uttar Pradesh,1968,23.99,33
-Uttaranchal,1968,33.26,34
-West Bengal,1968,38.86,35
-Jammu and Kashmir,1968,21.71,15
-Andaman and Nicobar,1967,51.15,1
-Telangana,1967,0,36
-Andhra Pradesh,1967,24.57,2
-Arunachal Pradesh,1967,11.29,3
-Assam,1967,33.94,4
-Bihar,1967,23.17,5
-Chandigarh,1967,70.43,6
-Chhattisgarh,1967,24.08,7
-Dadra and Nagar Haveli,1967,18.13,8
-Daman and Diu,1967,0,9
-Delhi,1967,65.08,10
-Goa,1967,51.96,11
-Gujarat,1967,36.95,12
-Haryana,1967,25.71,13
-Himachal Pradesh,1967,0,14
-Jharkhand,1967,23.87,16
-Karnataka,1967,36.83,17
-Kerala,1967,69.75,18
-Lakshadweep,1967,51.76,19
-Madhya Pradesh,1967,27.27,20
-Maharashtra,1967,45.77,21
-Manipur,1967,38.47,22
-Meghalaya,1967,29.49,23
-Mizoram,1967,53.8,24
-Nagaland,1967,33.78,25
-Orissa,1967,26.18,26
-Puducherry,1967,53.38,27
-Punjab,1967,34.12,28
-Rajasthan,1967,22.57,29
-Sikkim,1967,17.74,30
-Tamil Nadu,1967,45.4,31
-Tripura,1967,30.98,32
-Uttar Pradesh,1967,23.99,33
-Uttaranchal,1967,33.26,34
-West Bengal,1967,38.86,35
-Jammu and Kashmir,1967,21.71,15
-Andaman and Nicobar,1966,51.15,1
-Telangana,1966,0,36
-Andhra Pradesh,1966,24.57,2
-Arunachal Pradesh,1966,11.29,3
-Assam,1966,33.94,4
-Bihar,1966,23.17,5
-Chandigarh,1966,70.43,6
-Chhattisgarh,1966,24.08,7
-Dadra and Nagar Haveli,1966,18.13,8
-Daman and Diu,1966,0,9
-Delhi,1966,65.08,10
-Goa,1966,51.96,11
-Gujarat,1966,36.95,12
-Haryana,1966,25.71,13
-Himachal Pradesh,1966,0,14
-Jharkhand,1966,23.87,16
-Karnataka,1966,36.83,17
-Kerala,1966,69.75,18
-Lakshadweep,1966,51.76,19
-Madhya Pradesh,1966,27.27,20
-Maharashtra,1966,45.77,21
-Manipur,1966,38.47,22
-Meghalaya,1966,29.49,23
-Mizoram,1966,53.8,24
-Nagaland,1966,33.78,25
-Orissa,1966,26.18,26
-Puducherry,1966,53.38,27
-Punjab,1966,34.12,28
-Rajasthan,1966,22.57,29
-Sikkim,1966,17.74,30
-Tamil Nadu,1966,45.4,31
-Tripura,1966,30.98,32
-Uttar Pradesh,1966,23.99,33
-Uttaranchal,1966,33.26,34
-West Bengal,1966,38.86,35
-Jammu and Kashmir,1966,21.71,15
-Andaman and Nicobar,1965,51.15,1
-Telangana,1965,0,36
-Andhra Pradesh,1965,24.57,2
-Arunachal Pradesh,1965,11.29,3
-Assam,1965,33.94,4
-Bihar,1965,23.17,5
-Chandigarh,1965,70.43,6
-Chhattisgarh,1965,24.08,7
-Dadra and Nagar Haveli,1965,18.13,8
-Daman and Diu,1965,0,9
-Delhi,1965,65.08,10
-Goa,1965,51.96,11
-Gujarat,1965,36.95,12
-Haryana,1965,25.71,13
-Himachal Pradesh,1965,0,14
-Jharkhand,1965,23.87,16
-Karnataka,1965,36.83,17
-Kerala,1965,69.75,18
-Lakshadweep,1965,51.76,19
-Madhya Pradesh,1965,27.27,20
-Maharashtra,1965,45.77,21
-Manipur,1965,38.47,22
-Meghalaya,1965,29.49,23
-Mizoram,1965,53.8,24
-Nagaland,1965,33.78,25
-Orissa,1965,26.18,26
-Puducherry,1965,53.38,27
-Punjab,1965,34.12,28
-Rajasthan,1965,22.57,29
-Sikkim,1965,17.74,30
-Tamil Nadu,1965,45.4,31
-Tripura,1965,30.98,32
-Uttar Pradesh,1965,23.99,33
-Uttaranchal,1965,33.26,34
-West Bengal,1965,38.86,35
-Jammu and Kashmir,1965,21.71,15
-Andaman and Nicobar,1964,51.15,1
-Telangana,1964,0,36
-Andhra Pradesh,1964,24.57,2
-Arunachal Pradesh,1964,11.29,3
-Assam,1964,33.94,4
-Bihar,1964,23.17,5
-Chandigarh,1964,70.43,6
-Chhattisgarh,1964,24.08,7
-Dadra and Nagar Haveli,1964,18.13,8
-Daman and Diu,1964,0,9
-Delhi,1964,65.08,10
-Goa,1964,51.96,11
-Gujarat,1964,36.95,12
-Haryana,1964,25.71,13
-Himachal Pradesh,1964,0,14
-Jharkhand,1964,23.87,16
-Karnataka,1964,36.83,17
-Kerala,1964,69.75,18
-Lakshadweep,1964,51.76,19
-Madhya Pradesh,1964,27.27,20
-Maharashtra,1964,45.77,21
-Manipur,1964,38.47,22
-Meghalaya,1964,29.49,23
-Mizoram,1964,53.8,24
-Nagaland,1964,33.78,25
-Orissa,1964,26.18,26
-Puducherry,1964,53.38,27
-Punjab,1964,34.12,28
-Rajasthan,1964,22.57,29
-Sikkim,1964,17.74,30
-Tamil Nadu,1964,45.4,31
-Tripura,1964,30.98,32
-Uttar Pradesh,1964,23.99,33
-Uttaranchal,1964,33.26,34
-West Bengal,1964,38.86,35
-Jammu and Kashmir,1964,21.71,15
-Andaman and Nicobar,1963,51.15,1
-Telangana,1963,0,36
-Andhra Pradesh,1963,24.57,2
-Arunachal Pradesh,1963,11.29,3
-Assam,1963,33.94,4
-Bihar,1963,23.17,5
-Chandigarh,1963,70.43,6
-Chhattisgarh,1963,24.08,7
-Dadra and Nagar Haveli,1963,18.13,8
-Daman and Diu,1963,0,9
-Delhi,1963,65.08,10
-Goa,1963,51.96,11
-Gujarat,1963,36.95,12
-Haryana,1963,25.71,13
-Himachal Pradesh,1963,0,14
-Jharkhand,1963,23.87,16
-Karnataka,1963,36.83,17
-Kerala,1963,69.75,18
-Lakshadweep,1963,51.76,19
-Madhya Pradesh,1963,27.27,20
-Maharashtra,1963,45.77,21
-Manipur,1963,38.47,22
-Meghalaya,1963,29.49,23
-Mizoram,1963,53.8,24
-Nagaland,1963,33.78,25
-Orissa,1963,26.18,26
-Puducherry,1963,53.38,27
-Punjab,1963,34.12,28
-Rajasthan,1963,22.57,29
-Sikkim,1963,17.74,30
-Tamil Nadu,1963,45.4,31
-Tripura,1963,30.98,32
-Uttar Pradesh,1963,23.99,33
-Uttaranchal,1963,33.26,34
-West Bengal,1963,38.86,35
-Jammu and Kashmir,1963,21.71,15
-Andaman and Nicobar,1962,51.15,1
-Telangana,1962,0,36
-Andhra Pradesh,1962,24.57,2
-Arunachal Pradesh,1962,11.29,3
-Assam,1962,33.94,4
-Bihar,1962,23.17,5
-Chandigarh,1962,70.43,6
-Chhattisgarh,1962,24.08,7
-Dadra and Nagar Haveli,1962,18.13,8
-Daman and Diu,1962,0,9
-Delhi,1962,65.08,10
-Goa,1962,51.96,11
-Gujarat,1962,36.95,12
-Haryana,1962,25.71,13
-Himachal Pradesh,1962,0,14
-Jharkhand,1962,23.87,16
-Karnataka,1962,36.83,17
-Kerala,1962,69.75,18
-Lakshadweep,1962,51.76,19
-Madhya Pradesh,1962,27.27,20
-Maharashtra,1962,45.77,21
-Manipur,1962,38.47,22
-Meghalaya,1962,29.49,23
-Mizoram,1962,53.8,24
-Nagaland,1962,33.78,25
-Orissa,1962,26.18,26
-Puducherry,1962,53.38,27
-Punjab,1962,34.12,28
-Rajasthan,1962,22.57,29
-Sikkim,1962,17.74,30
-Tamil Nadu,1962,45.4,31
-Tripura,1962,30.98,32
-Uttar Pradesh,1962,23.99,33
-Uttaranchal,1962,33.26,34
-West Bengal,1962,38.86,35
-Jammu and Kashmir,1962,21.71,15
-Andaman and Nicobar,1961,40.07,1
-Telangana,1961,0,36
-Andhra Pradesh,1961,21.19,2
-Arunachal Pradesh,1961,7.13,3
-Assam,1961,32.95,4
-Bihar,1961,21.95,5
-Chandigarh,1961,0,6
-Chhattisgarh,1961,18.14,7
-Dadra and Nagar Haveli,1961,0,8
-Daman and Diu,1961,0,9
-Delhi,1961,61.95,10
-Goa,1961,35.41,11
-Gujarat,1961,31.47,12
-Haryana,1961,0,13
-Himachal Pradesh,1961,0,14
-Jharkhand,1961,21.14,16
-Karnataka,1961,29.8,17
-Kerala,1961,55.08,18
-Lakshadweep,1961,27.15,19
-Madhya Pradesh,1961,21.41,20
-Maharashtra,1961,35.08,21
-Manipur,1961,36.04,22
-Meghalaya,1961,26.92,23
-Mizoram,1961,44.01,24
-Nagaland,1961,21.95,25
-Orissa,1961,21.66,26
-Puducherry,1961,43.65,27
-Punjab,1961,0,28
-Rajasthan,1961,18.12,29
-Sikkim,1961,0,30
-Tamil Nadu,1961,36.39,31
-Tripura,1961,20.24,32
-Uttar Pradesh,1961,20.87,33
-Uttaranchal,1961,18.05,34
-West Bengal,1961,34.46,35
-Jammu and Kashmir,1961,12.95,15
-Andaman and Nicobar,1960,30.3,1
-Telangana,1960,0,36
-Andhra Pradesh,1960,0,2
-Arunachal Pradesh,1960,0,3
-Assam,1960,18.53,4
-Bihar,1960,13.49,5
-Chandigarh,1960,0,6
-Chhattisgarh,1960,9.41,7
-Dadra and Nagar Haveli,1960,0,8
-Daman and Diu,1960,0,9
-Delhi,1960,0,10
-Goa,1960,23.48,11
-Gujarat,1960,21.82,12
-Haryana,1960,0,13
-Himachal Pradesh,1960,0,14
-Jharkhand,1960,12.93,16
-Karnataka,1960,0,17
-Kerala,1960,47.18,18
-Lakshadweep,1960,15.23,19
-Madhya Pradesh,1960,13.16,20
-Maharashtra,1960,27.91,21
-Manipur,1960,12.57,22
-Meghalaya,1960,0,23
-Mizoram,1960,31.14,24
-Nagaland,1960,10.52,25
-Orissa,1960,15.8,26
-Puducherry,1960,0,27
-Punjab,1960,0,28
-Rajasthan,1960,8.5,29
-Sikkim,1960,0,30
-Tamil Nadu,1960,0,31
-Tripura,1960,0,32
-Uttar Pradesh,1960,12.02,33
-Uttaranchal,1960,18.93,34
-West Bengal,1960,24.61,35
-Jammu and Kashmir,1960,0,15
-Andaman and Nicobar,1959,30.3,1
-Telangana,1959,0,36
-Andhra Pradesh,1959,0,2
-Arunachal Pradesh,1959,0,3
-Assam,1959,18.53,4
-Bihar,1959,13.49,5
-Chandigarh,1959,0,6
-Chhattisgarh,1959,9.41,7
-Dadra and Nagar Haveli,1959,0,8
-Daman and Diu,1959,0,9
-Delhi,1959,0,10
-Goa,1959,23.48,11
-Gujarat,1959,21.82,12
-Haryana,1959,0,13
-Himachal Pradesh,1959,0,14
-Jharkhand,1959,12.93,16
-Karnataka,1959,0,17
-Kerala,1959,47.18,18
-Lakshadweep,1959,15.23,19
-Madhya Pradesh,1959,13.16,20
-Maharashtra,1959,27.91,21
-Manipur,1959,12.57,22
-Meghalaya,1959,0,23
-Mizoram,1959,31.14,24
-Nagaland,1959,10.52,25
-Orissa,1959,15.8,26
-Puducherry,1959,0,27
-Punjab,1959,0,28
-Rajasthan,1959,8.5,29
-Sikkim,1959,0,30
-Tamil Nadu,1959,0,31
-Tripura,1959,0,32
-Uttar Pradesh,1959,12.02,33
-Uttaranchal,1959,18.93,34
-West Bengal,1959,24.61,35
-Jammu and Kashmir,1959,0,15
-Andaman and Nicobar,1958,30.3,1
-Telangana,1958,0,36
-Andhra Pradesh,1958,0,2
-Arunachal Pradesh,1958,0,3
-Assam,1958,18.53,4
-Bihar,1958,13.49,5
-Chandigarh,1958,0,6
-Chhattisgarh,1958,9.41,7
-Dadra and Nagar Haveli,1958,0,8
-Daman and Diu,1958,0,9
-Delhi,1958,0,10
-Goa,1958,23.48,11
-Gujarat,1958,21.82,12
-Haryana,1958,0,13
-Himachal Pradesh,1958,0,14
-Jharkhand,1958,12.93,16
-Karnataka,1958,0,17
-Kerala,1958,47.18,18
-Lakshadweep,1958,15.23,19
-Madhya Pradesh,1958,13.16,20
-Maharashtra,1958,27.91,21
-Manipur,1958,12.57,22
-Meghalaya,1958,0,23
-Mizoram,1958,31.14,24
-Nagaland,1958,10.52,25
-Orissa,1958,15.8,26
-Puducherry,1958,0,27
-Punjab,1958,0,28
-Rajasthan,1958,8.5,29
-Sikkim,1958,0,30
-Tamil Nadu,1958,0,31
-Tripura,1958,0,32
-Uttar Pradesh,1958,12.02,33
-Uttaranchal,1958,18.93,34
-West Bengal,1958,24.61,35
-Jammu and Kashmir,1958,0,15
-Andaman and Nicobar,1957,30.3,1
-Telangana,1957,0,36
-Andhra Pradesh,1957,0,2
-Arunachal Pradesh,1957,0,3
-Assam,1957,18.53,4
-Bihar,1957,13.49,5
-Chandigarh,1957,0,6
-Chhattisgarh,1957,9.41,7
-Dadra and Nagar Haveli,1957,0,8
-Daman and Diu,1957,0,9
-Delhi,1957,0,10
-Goa,1957,23.48,11
-Gujarat,1957,21.82,12
-Haryana,1957,0,13
-Himachal Pradesh,1957,0,14
-Jharkhand,1957,12.93,16
-Karnataka,1957,0,17
-Kerala,1957,47.18,18
-Lakshadweep,1957,15.23,19
-Madhya Pradesh,1957,13.16,20
-Maharashtra,1957,27.91,21
-Manipur,1957,12.57,22
-Meghalaya,1957,0,23
-Mizoram,1957,31.14,24
-Nagaland,1957,10.52,25
-Orissa,1957,15.8,26
-Puducherry,1957,0,27
-Punjab,1957,0,28
-Rajasthan,1957,8.5,29
-Sikkim,1957,0,30
-Tamil Nadu,1957,0,31
-Tripura,1957,0,32
-Uttar Pradesh,1957,12.02,33
-Uttaranchal,1957,18.93,34
-West Bengal,1957,24.61,35
-Jammu and Kashmir,1957,0,15
-Andaman and Nicobar,1956,30.3,1
-Telangana,1956,0,36
-Andhra Pradesh,1956,0,2
-Arunachal Pradesh,1956,0,3
-Assam,1956,18.53,4
-Bihar,1956,13.49,5
-Chandigarh,1956,0,6
-Chhattisgarh,1956,9.41,7
-Dadra and Nagar Haveli,1956,0,8
-Daman and Diu,1956,0,9
-Delhi,1956,0,10
-Goa,1956,23.48,11
-Gujarat,1956,21.82,12
-Haryana,1956,0,13
-Himachal Pradesh,1956,0,14
-Jharkhand,1956,12.93,16
-Karnataka,1956,0,17
-Kerala,1956,47.18,18
-Lakshadweep,1956,15.23,19
-Madhya Pradesh,1956,13.16,20
-Maharashtra,1956,27.91,21
-Manipur,1956,12.57,22
-Meghalaya,1956,0,23
-Mizoram,1956,31.14,24
-Nagaland,1956,10.52,25
-Orissa,1956,15.8,26
-Puducherry,1956,0,27
-Punjab,1956,0,28
-Rajasthan,1956,8.5,29
-Sikkim,1956,0,30
-Tamil Nadu,1956,0,31
-Tripura,1956,0,32
-Uttar Pradesh,1956,12.02,33
-Uttaranchal,1956,18.93,34
-West Bengal,1956,24.61,35
-Jammu and Kashmir,1956,0,15
-Andaman and Nicobar,1955,30.3,1
-Telangana,1955,0,36
-Andhra Pradesh,1955,0,2
-Arunachal Pradesh,1955,0,3
-Assam,1955,18.53,4
-Bihar,1955,13.49,5
-Chandigarh,1955,0,6
-Chhattisgarh,1955,9.41,7
-Dadra and Nagar Haveli,1955,0,8
-Daman and Diu,1955,0,9
-Delhi,1955,0,10
-Goa,1955,23.48,11
-Gujarat,1955,21.82,12
-Haryana,1955,0,13
-Himachal Pradesh,1955,0,14
-Jharkhand,1955,12.93,16
-Karnataka,1955,0,17
-Kerala,1955,47.18,18
-Lakshadweep,1955,15.23,19
-Madhya Pradesh,1955,13.16,20
-Maharashtra,1955,27.91,21
-Manipur,1955,12.57,22
-Meghalaya,1955,0,23
-Mizoram,1955,31.14,24
-Nagaland,1955,10.52,25
-Orissa,1955,15.8,26
-Puducherry,1955,0,27
-Punjab,1955,0,28
-Rajasthan,1955,8.5,29
-Sikkim,1955,0,30
-Tamil Nadu,1955,0,31
-Tripura,1955,0,32
-Uttar Pradesh,1955,12.02,33
-Uttaranchal,1955,18.93,34
-West Bengal,1955,24.61,35
-Jammu and Kashmir,1955,0,15
-Andaman and Nicobar,1954,30.3,1
-Telangana,1954,0,36
-Andhra Pradesh,1954,0,2
-Arunachal Pradesh,1954,0,3
-Assam,1954,18.53,4
-Bihar,1954,13.49,5
-Chandigarh,1954,0,6
-Chhattisgarh,1954,9.41,7
-Dadra and Nagar Haveli,1954,0,8
-Daman and Diu,1954,0,9
-Delhi,1954,0,10
-Goa,1954,23.48,11
-Gujarat,1954,21.82,12
-Haryana,1954,0,13
-Himachal Pradesh,1954,0,14
-Jharkhand,1954,12.93,16
-Karnataka,1954,0,17
-Kerala,1954,47.18,18
-Lakshadweep,1954,15.23,19
-Madhya Pradesh,1954,13.16,20
-Maharashtra,1954,27.91,21
-Manipur,1954,12.57,22
-Meghalaya,1954,0,23
-Mizoram,1954,31.14,24
-Nagaland,1954,10.52,25
-Orissa,1954,15.8,26
-Puducherry,1954,0,27
-Punjab,1954,0,28
-Rajasthan,1954,8.5,29
-Sikkim,1954,0,30
-Tamil Nadu,1954,0,31
-Tripura,1954,0,32
-Uttar Pradesh,1954,12.02,33
-Uttaranchal,1954,18.93,34
-West Bengal,1954,24.61,35
-Jammu and Kashmir,1954,0,15
-Andaman and Nicobar,1953,30.3,1
-Telangana,1953,0,36
-Andhra Pradesh,1953,0,2
-Arunachal Pradesh,1953,0,3
-Assam,1953,18.53,4
-Bihar,1953,13.49,5
-Chandigarh,1953,0,6
-Chhattisgarh,1953,9.41,7
-Dadra and Nagar Haveli,1953,0,8
-Daman and Diu,1953,0,9
-Delhi,1953,0,10
-Goa,1953,23.48,11
-Gujarat,1953,21.82,12
-Haryana,1953,0,13
-Himachal Pradesh,1953,0,14
-Jharkhand,1953,12.93,16
-Karnataka,1953,0,17
-Kerala,1953,47.18,18
-Lakshadweep,1953,15.23,19
-Madhya Pradesh,1953,13.16,20
-Maharashtra,1953,27.91,21
-Manipur,1953,12.57,22
-Meghalaya,1953,0,23
-Mizoram,1953,31.14,24
-Nagaland,1953,10.52,25
-Orissa,1953,15.8,26
-Puducherry,1953,0,27
-Punjab,1953,0,28
-Rajasthan,1953,8.5,29
-Sikkim,1953,0,30
-Tamil Nadu,1953,0,31
-Tripura,1953,0,32
-Uttar Pradesh,1953,12.02,33
-Uttaranchal,1953,18.93,34
-West Bengal,1953,24.61,35
-Jammu and Kashmir,1953,0,15
-Andaman and Nicobar,1952,30.3,1
-Telangana,1952,0,36
-Andhra Pradesh,1952,0,2
-Arunachal Pradesh,1952,0,3
-Assam,1952,18.53,4
-Bihar,1952,13.49,5
-Chandigarh,1952,0,6
-Chhattisgarh,1952,9.41,7
-Dadra and Nagar Haveli,1952,0,8
-Daman and Diu,1952,0,9
-Delhi,1952,0,10
-Goa,1952,23.48,11
-Gujarat,1952,21.82,12
-Haryana,1952,0,13
-Himachal Pradesh,1952,0,14
-Jharkhand,1952,12.93,16
-Karnataka,1952,0,17
-Kerala,1952,47.18,18
-Lakshadweep,1952,15.23,19
-Madhya Pradesh,1952,13.16,20
-Maharashtra,1952,27.91,21
-Manipur,1952,12.57,22
-Meghalaya,1952,0,23
-Mizoram,1952,31.14,24
-Nagaland,1952,10.52,25
-Orissa,1952,15.8,26
-Puducherry,1952,0,27
-Punjab,1952,0,28
-Rajasthan,1952,8.5,29
-Sikkim,1952,0,30
-Tamil Nadu,1952,0,31
-Tripura,1952,0,32
-Uttar Pradesh,1952,12.02,33
-Uttaranchal,1952,18.93,34
-West Bengal,1952,24.61,35
-Jammu and Kashmir,1952,0,15
-Andaman and Nicobar,1951,30.3,1
-Telangana,1951,0,36
-Andhra Pradesh,1951,0,2
-Arunachal Pradesh,1951,0,3
-Assam,1951,18.53,4
-Bihar,1951,13.49,5
-Chandigarh,1951,0,6
-Chhattisgarh,1951,9.41,7
-Dadra and Nagar Haveli,1951,0,8
-Daman and Diu,1951,0,9
-Delhi,1951,0,10
-Goa,1951,23.48,11
-Gujarat,1951,21.82,12
-Haryana,1951,0,13
-Himachal Pradesh,1951,0,14
-Jharkhand,1951,12.93,16
-Karnataka,1951,0,17
-Kerala,1951,47.18,18
-Lakshadweep,1951,15.23,19
-Madhya Pradesh,1951,13.16,20
-Maharashtra,1951,27.91,21
-Manipur,1951,12.57,22
-Meghalaya,1951,0,23
-Mizoram,1951,31.14,24
-Nagaland,1951,10.52,25
-Orissa,1951,15.8,26
-Puducherry,1951,0,27
-Punjab,1951,0,28
-Rajasthan,1951,8.5,29
-Sikkim,1951,0,30
-Tamil Nadu,1951,0,31
-Tripura,1951,0,32
-Uttar Pradesh,1951,12.02,33
-Uttaranchal,1951,18.93,34
-West Bengal,1951,24.61,35
-Jammu and Kashmir,1951,0,15
+name,year,rate,code,
+Andaman and Nicobar,2011,86.63,1,
+Telangana,2011,0,36,
+Andhra Pradesh,2011,67.7,2,
+Arunachal Pradesh,2011,65.39,3,
+Assam,2011,72.19,4,
+Bihar,2011,61.8,5,
+Chandigarh,2011,86.05,6,
+Chhattisgarh,2011,70.28,7,
+Dadra and Nagar Haveli,2011,76.28,8,
+Daman and Diu,2011,87.1,9,
+Delhi,2011,86.21,10,
+Goa,2011,88.7,11,
+Gujarat,2011,78.03,12,
+Haryana,2011,75.55,13,
+Himachal Pradesh,2011,82.2,14,
+Jharkhand,2011,66.41,16,
+Karnataka,2011,75.37,17,
+Kerala,2011,94,18,
+Lakshadweep,2011,91.85,19,
+Madhya Pradesh,2011,69.32,20,
+Maharashtra,2011,82.34,21,
+Manipur,2011,89.22,22,
+Meghalaya,2011,74.43,23,
+Mizoram,2011,91.33,24,
+Nagaland,2011,89.56,25,
+Orissa,2011,72.89,26,
+Puducherry,2011,85.85,27,
+Punjab,2011,75.84,28,
+Rajasthan,2011,66.11,29,
+Sikkim,2011,81.42,30,
+Tamil Nadu,2011,80.09,31,
+Tripura,2011,87.22,32,
+Uttar Pradesh,2011,67.68,33,
+Uttaranchal,2011,78.82,34,
+West Bengal,2011,76.26,35,
+Jammu and Kashmir,2011,67.16,15,
+Andaman and Nicobar,2010,81.3,1,
+Telangana,2010,0,36,
+Andhra Pradesh,2010,60.47,2,
+Arunachal Pradesh,2010,54.34,3,
+Assam,2010,63.25,4,
+Bihar,2010,47,5,
+Chandigarh,2010,81.94,6,
+Chhattisgarh,2010,64.66,7,
+Dadra and Nagar Haveli,2010,57.63,8,
+Daman and Diu,2010,78.18,9,
+Delhi,2010,81.67,10,
+Goa,2010,82.01,11,
+Gujarat,2010,69.1,12,
+Haryana,2010,67.9,13,
+Himachal Pradesh,2010,76.5,14,
+Jharkhand,2010,53.6,16,
+Karnataka,2010,60.47,17,
+Kerala,2010,90.9,18,
+Lakshadweep,2010,86.66,19,
+Madhya Pradesh,2010,63.7,20,
+Maharashtra,2010,76.9,21,
+Manipur,2010,69.93,22,
+Meghalaya,2010,62.56,23,
+Mizoram,2010,88.8,24,
+Nagaland,2010,66.59,25,
+Orissa,2010,63.1,26,
+Puducherry,2010,81.24,27,
+Punjab,2010,69.7,28,
+Rajasthan,2010,60.4,29,
+Sikkim,2010,68.81,30,
+Tamil Nadu,2010,73.5,31,
+Tripura,2010,73.19,32,
+Uttar Pradesh,2010,56.3,33,
+Uttaranchal,2010,71.6,34,
+West Bengal,2010,68.6,35,
+Jammu and Kashmir,2010,55.5,15,
+Andaman and Nicobar,2009,81.3,1,
+Telangana,2009,0,36,
+Andhra Pradesh,2009,60.47,2,
+Arunachal Pradesh,2009,54.34,3,
+Assam,2009,63.25,4,
+Bihar,2009,47,5,
+Chandigarh,2009,81.94,6,
+Chhattisgarh,2009,64.66,7,
+Dadra and Nagar Haveli,2009,57.63,8,
+Daman and Diu,2009,78.18,9,
+Delhi,2009,81.67,10,
+Goa,2009,82.01,11,
+Gujarat,2009,69.1,12,
+Haryana,2009,67.9,13,
+Himachal Pradesh,2009,76.5,14,
+Jharkhand,2009,53.6,16,
+Karnataka,2009,60.47,17,
+Kerala,2009,90.9,18,
+Lakshadweep,2009,86.66,19,
+Madhya Pradesh,2009,63.7,20,
+Maharashtra,2009,76.9,21,
+Manipur,2009,69.93,22,
+Meghalaya,2009,62.56,23,
+Mizoram,2009,88.8,24,
+Nagaland,2009,66.59,25,
+Orissa,2009,63.1,26,
+Puducherry,2009,81.24,27,
+Punjab,2009,69.7,28,
+Rajasthan,2009,60.4,29,
+Sikkim,2009,68.81,30,
+Tamil Nadu,2009,73.5,31,
+Tripura,2009,73.19,32,
+Uttar Pradesh,2009,56.3,33,
+Uttaranchal,2009,71.6,34,
+West Bengal,2009,68.6,35,
+Jammu and Kashmir,2009,55.5,15,
+Andaman and Nicobar,2008,81.3,1,
+Telangana,2008,0,36,
+Andhra Pradesh,2008,60.47,2,
+Arunachal Pradesh,2008,54.34,3,
+Assam,2008,63.25,4,
+Bihar,2008,47,5,
+Chandigarh,2008,81.94,6,
+Chhattisgarh,2008,64.66,7,
+Dadra and Nagar Haveli,2008,57.63,8,
+Daman and Diu,2008,78.18,9,
+Delhi,2008,81.67,10,
+Goa,2008,82.01,11,
+Gujarat,2008,69.1,12,
+Haryana,2008,67.9,13,
+Himachal Pradesh,2008,76.5,14,
+Jharkhand,2008,53.6,16,
+Karnataka,2008,60.47,17,
+Kerala,2008,90.9,18,
+Lakshadweep,2008,86.66,19,
+Madhya Pradesh,2008,63.7,20,
+Maharashtra,2008,76.9,21,
+Manipur,2008,69.93,22,
+Meghalaya,2008,62.56,23,
+Mizoram,2008,88.8,24,
+Nagaland,2008,66.59,25,
+Orissa,2008,63.1,26,
+Puducherry,2008,81.24,27,
+Punjab,2008,69.7,28,
+Rajasthan,2008,60.4,29,
+Sikkim,2008,68.81,30,
+Tamil Nadu,2008,73.5,31,
+Tripura,2008,73.19,32,
+Uttar Pradesh,2008,56.3,33,
+Uttaranchal,2008,71.6,34,
+West Bengal,2008,68.6,35,
+Jammu and Kashmir,2008,55.5,15,
+Andaman and Nicobar,2007,81.3,1,
+Telangana,2007,0,36,
+Andhra Pradesh,2007,60.47,2,
+Arunachal Pradesh,2007,54.34,3,
+Assam,2007,63.25,4,
+Bihar,2007,47,5,
+Chandigarh,2007,81.94,6,
+Chhattisgarh,2007,64.66,7,
+Dadra and Nagar Haveli,2007,57.63,8,
+Daman and Diu,2007,78.18,9,
+Delhi,2007,81.67,10,
+Goa,2007,82.01,11,
+Gujarat,2007,69.1,12,
+Haryana,2007,67.9,13,
+Himachal Pradesh,2007,76.5,14,
+Jharkhand,2007,53.6,16,
+Karnataka,2007,60.47,17,
+Kerala,2007,90.9,18,
+Lakshadweep,2007,86.66,19,
+Madhya Pradesh,2007,63.7,20,
+Maharashtra,2007,76.9,21,
+Manipur,2007,69.93,22,
+Meghalaya,2007,62.56,23,
+Mizoram,2007,88.8,24,
+Nagaland,2007,66.59,25,
+Orissa,2007,63.1,26,
+Puducherry,2007,81.24,27,
+Punjab,2007,69.7,28,
+Rajasthan,2007,60.4,29,
+Sikkim,2007,68.81,30,
+Tamil Nadu,2007,73.5,31,
+Tripura,2007,73.19,32,
+Uttar Pradesh,2007,56.3,33,
+Uttaranchal,2007,71.6,34,
+West Bengal,2007,68.6,35,
+Jammu and Kashmir,2007,55.5,15,
+Andaman and Nicobar,2006,81.3,1,
+Telangana,2006,0,36,
+Andhra Pradesh,2006,60.47,2,
+Arunachal Pradesh,2006,54.34,3,
+Assam,2006,63.25,4,
+Bihar,2006,47,5,
+Chandigarh,2006,81.94,6,
+Chhattisgarh,2006,64.66,7,
+Dadra and Nagar Haveli,2006,57.63,8,
+Daman and Diu,2006,78.18,9,
+Delhi,2006,81.67,10,
+Goa,2006,82.01,11,
+Gujarat,2006,69.1,12,
+Haryana,2006,67.9,13,
+Himachal Pradesh,2006,76.5,14,
+Jharkhand,2006,53.6,16,
+Karnataka,2006,60.47,17,
+Kerala,2006,90.9,18,
+Lakshadweep,2006,86.66,19,
+Madhya Pradesh,2006,63.7,20,
+Maharashtra,2006,76.9,21,
+Manipur,2006,69.93,22,
+Meghalaya,2006,62.56,23,
+Mizoram,2006,88.8,24,
+Nagaland,2006,66.59,25,
+Orissa,2006,63.1,26,
+Puducherry,2006,81.24,27,
+Punjab,2006,69.7,28,
+Rajasthan,2006,60.4,29,
+Sikkim,2006,68.81,30,
+Tamil Nadu,2006,73.5,31,
+Tripura,2006,73.19,32,
+Uttar Pradesh,2006,56.3,33,
+Uttaranchal,2006,71.6,34,
+West Bengal,2006,68.6,35,
+Jammu and Kashmir,2006,55.5,15,
+Andaman and Nicobar,2005,81.3,1,
+Telangana,2005,0,36,
+Andhra Pradesh,2005,60.47,2,
+Arunachal Pradesh,2005,54.34,3,
+Assam,2005,63.25,4,
+Bihar,2005,47,5,
+Chandigarh,2005,81.94,6,
+Chhattisgarh,2005,64.66,7,
+Dadra and Nagar Haveli,2005,57.63,8,
+Daman and Diu,2005,78.18,9,
+Delhi,2005,81.67,10,
+Goa,2005,82.01,11,
+Gujarat,2005,69.1,12,
+Haryana,2005,67.9,13,
+Himachal Pradesh,2005,76.5,14,
+Jharkhand,2005,53.6,16,
+Karnataka,2005,60.47,17,
+Kerala,2005,90.9,18,
+Lakshadweep,2005,86.66,19,
+Madhya Pradesh,2005,63.7,20,
+Maharashtra,2005,76.9,21,
+Manipur,2005,69.93,22,
+Meghalaya,2005,62.56,23,
+Mizoram,2005,88.8,24,
+Nagaland,2005,66.59,25,
+Orissa,2005,63.1,26,
+Puducherry,2005,81.24,27,
+Punjab,2005,69.7,28,
+Rajasthan,2005,60.4,29,
+Sikkim,2005,68.81,30,
+Tamil Nadu,2005,73.5,31,
+Tripura,2005,73.19,32,
+Uttar Pradesh,2005,56.3,33,
+Uttaranchal,2005,71.6,34,
+West Bengal,2005,68.6,35,
+Jammu and Kashmir,2005,55.5,15,
+Andaman and Nicobar,2004,81.3,1,
+Telangana,2004,0,36,
+Andhra Pradesh,2004,60.47,2,
+Arunachal Pradesh,2004,54.34,3,
+Assam,2004,63.25,4,
+Bihar,2004,47,5,
+Chandigarh,2004,81.94,6,
+Chhattisgarh,2004,64.66,7,
+Dadra and Nagar Haveli,2004,57.63,8,
+Daman and Diu,2004,78.18,9,
+Delhi,2004,81.67,10,
+Goa,2004,82.01,11,
+Gujarat,2004,69.1,12,
+Haryana,2004,67.9,13,
+Himachal Pradesh,2004,76.5,14,
+Jharkhand,2004,53.6,16,
+Karnataka,2004,60.47,17,
+Kerala,2004,90.9,18,
+Lakshadweep,2004,86.66,19,
+Madhya Pradesh,2004,63.7,20,
+Maharashtra,2004,76.9,21,
+Manipur,2004,69.93,22,
+Meghalaya,2004,62.56,23,
+Mizoram,2004,88.8,24,
+Nagaland,2004,66.59,25,
+Orissa,2004,63.1,26,
+Puducherry,2004,81.24,27,
+Punjab,2004,69.7,28,
+Rajasthan,2004,60.4,29,
+Sikkim,2004,68.81,30,
+Tamil Nadu,2004,73.5,31,
+Tripura,2004,73.19,32,
+Uttar Pradesh,2004,56.3,33,
+Uttaranchal,2004,71.6,34,
+West Bengal,2004,68.6,35,
+Jammu and Kashmir,2004,55.5,15,
+Andaman and Nicobar,2003,81.3,1,
+Telangana,2003,0,36,
+Andhra Pradesh,2003,60.47,2,
+Arunachal Pradesh,2003,54.34,3,
+Assam,2003,63.25,4,
+Bihar,2003,47,5,
+Chandigarh,2003,81.94,6,
+Chhattisgarh,2003,64.66,7,
+Dadra and Nagar Haveli,2003,57.63,8,
+Daman and Diu,2003,78.18,9,
+Delhi,2003,81.67,10,
+Goa,2003,82.01,11,
+Gujarat,2003,69.1,12,
+Haryana,2003,67.9,13,
+Himachal Pradesh,2003,76.5,14,
+Jharkhand,2003,53.6,16,
+Karnataka,2003,60.47,17,
+Kerala,2003,90.9,18,
+Lakshadweep,2003,86.66,19,
+Madhya Pradesh,2003,63.7,20,
+Maharashtra,2003,76.9,21,
+Manipur,2003,69.93,22,
+Meghalaya,2003,62.56,23,
+Mizoram,2003,88.8,24,
+Nagaland,2003,66.59,25,
+Orissa,2003,63.1,26,
+Puducherry,2003,81.24,27,
+Punjab,2003,69.7,28,
+Rajasthan,2003,60.4,29,
+Sikkim,2003,68.81,30,
+Tamil Nadu,2003,73.5,31,
+Tripura,2003,73.19,32,
+Uttar Pradesh,2003,56.3,33,
+Uttaranchal,2003,71.6,34,
+West Bengal,2003,68.6,35,
+Jammu and Kashmir,2003,55.5,15,
+Andaman and Nicobar,2002,81.3,1,
+Telangana,2002,0,36,
+Andhra Pradesh,2002,60.47,2,
+Arunachal Pradesh,2002,54.34,3,
+Assam,2002,63.25,4,
+Bihar,2002,47,5,
+Chandigarh,2002,81.94,6,
+Chhattisgarh,2002,64.66,7,
+Dadra and Nagar Haveli,2002,57.63,8,
+Daman and Diu,2002,78.18,9,
+Delhi,2002,81.67,10,
+Goa,2002,82.01,11,
+Gujarat,2002,69.1,12,
+Haryana,2002,67.9,13,
+Himachal Pradesh,2002,76.5,14,
+Jharkhand,2002,53.6,16,
+Karnataka,2002,60.47,17,
+Kerala,2002,90.9,18,
+Lakshadweep,2002,86.66,19,
+Madhya Pradesh,2002,63.7,20,
+Maharashtra,2002,76.9,21,
+Manipur,2002,69.93,22,
+Meghalaya,2002,62.56,23,
+Mizoram,2002,88.8,24,
+Nagaland,2002,66.59,25,
+Orissa,2002,63.1,26,
+Puducherry,2002,81.24,27,
+Punjab,2002,69.7,28,
+Rajasthan,2002,60.4,29,
+Sikkim,2002,68.81,30,
+Tamil Nadu,2002,73.5,31,
+Tripura,2002,73.19,32,
+Uttar Pradesh,2002,56.3,33,
+Uttaranchal,2002,71.6,34,
+West Bengal,2002,68.6,35,
+Jammu and Kashmir,2002,55.5,15,
+Andaman and Nicobar,2001,81.3,1,
+Telangana,2001,0,36,
+Andhra Pradesh,2001,60.47,2,
+Arunachal Pradesh,2001,54.34,3,
+Assam,2001,63.25,4,
+Bihar,2001,47,5,
+Chandigarh,2001,81.94,6,
+Chhattisgarh,2001,64.66,7,
+Dadra and Nagar Haveli,2001,57.63,8,
+Daman and Diu,2001,78.18,9,
+Delhi,2001,81.67,10,
+Goa,2001,82.01,11,
+Gujarat,2001,69.1,12,
+Haryana,2001,67.9,13,
+Himachal Pradesh,2001,76.5,14,
+Jharkhand,2001,53.6,16,
+Karnataka,2001,60.47,17,
+Kerala,2001,90.9,18,
+Lakshadweep,2001,86.66,19,
+Madhya Pradesh,2001,63.7,20,
+Maharashtra,2001,76.9,21,
+Manipur,2001,69.93,22,
+Meghalaya,2001,62.56,23,
+Mizoram,2001,88.8,24,
+Nagaland,2001,66.59,25,
+Orissa,2001,63.1,26,
+Puducherry,2001,81.24,27,
+Punjab,2001,69.7,28,
+Rajasthan,2001,60.4,29,
+Sikkim,2001,68.81,30,
+Tamil Nadu,2001,73.5,31,
+Tripura,2001,73.19,32,
+Uttar Pradesh,2001,56.3,33,
+Uttaranchal,2001,71.6,34,
+West Bengal,2001,68.6,35,
+Jammu and Kashmir,2001,55.5,15,
+Andaman and Nicobar,2000,73.02,1,
+Telangana,2000,0,36,
+Andhra Pradesh,2000,44.1,2,
+Arunachal Pradesh,2000,41.59,3,
+Assam,2000,52.9,4,
+Bihar,2000,37.5,5,
+Chandigarh,2000,77.81,6,
+Chhattisgarh,2000,42.9,7,
+Dadra and Nagar Haveli,2000,40.71,8,
+Daman and Diu,2000,71.2,9,
+Delhi,2000,75.29,10,
+Goa,2000,75.51,11,
+Gujarat,2000,61.3,12,
+Haryana,2000,55.9,13,
+Himachal Pradesh,2000,63.9,14,
+Jharkhand,2000,41.4,16,
+Karnataka,2000,56,17,
+Kerala,2000,89.8,18,
+Lakshadweep,2000,81.78,19,
+Madhya Pradesh,2000,44.7,20,
+Maharashtra,2000,64.9,21,
+Manipur,2000,59.89,22,
+Meghalaya,2000,49.1,23,
+Mizoram,2000,82.26,24,
+Nagaland,2000,61.65,25,
+Orissa,2000,49.1,26,
+Puducherry,2000,74.74,27,
+Punjab,2000,58.51,28,
+Rajasthan,2000,38.55,29,
+Sikkim,2000,56.94,30,
+Tamil Nadu,2000,62.66,31,
+Tripura,2000,60.44,32,
+Uttar Pradesh,2000,40.71,33,
+Uttaranchal,2000,57.75,34,
+West Bengal,2000,57.7,35,
+Jammu and Kashmir,2000,63.86,15,
+Andaman and Nicobar,1999,73.02,1,
+Telangana,1999,0,36,
+Andhra Pradesh,1999,44.1,2,
+Arunachal Pradesh,1999,41.59,3,
+Assam,1999,52.9,4,
+Bihar,1999,37.5,5,
+Chandigarh,1999,77.81,6,
+Chhattisgarh,1999,42.9,7,
+Dadra and Nagar Haveli,1999,40.71,8,
+Daman and Diu,1999,71.2,9,
+Delhi,1999,75.29,10,
+Goa,1999,75.51,11,
+Gujarat,1999,61.3,12,
+Haryana,1999,55.9,13,
+Himachal Pradesh,1999,63.9,14,
+Jharkhand,1999,41.4,16,
+Karnataka,1999,56,17,
+Kerala,1999,89.8,18,
+Lakshadweep,1999,81.78,19,
+Madhya Pradesh,1999,44.7,20,
+Maharashtra,1999,64.9,21,
+Manipur,1999,59.89,22,
+Meghalaya,1999,49.1,23,
+Mizoram,1999,82.26,24,
+Nagaland,1999,61.65,25,
+Orissa,1999,49.1,26,
+Puducherry,1999,74.74,27,
+Punjab,1999,58.51,28,
+Rajasthan,1999,38.55,29,
+Sikkim,1999,56.94,30,
+Tamil Nadu,1999,62.66,31,
+Tripura,1999,60.44,32,
+Uttar Pradesh,1999,40.71,33,
+Uttaranchal,1999,57.75,34,
+West Bengal,1999,57.7,35,
+Jammu and Kashmir,1999,63.86,15,
+Andaman and Nicobar,1998,73.02,1,
+Telangana,1998,0,36,
+Andhra Pradesh,1998,44.1,2,
+Arunachal Pradesh,1998,41.59,3,
+Assam,1998,52.9,4,
+Bihar,1998,37.5,5,
+Chandigarh,1998,77.81,6,
+Chhattisgarh,1998,42.9,7,
+Dadra and Nagar Haveli,1998,40.71,8,
+Daman and Diu,1998,71.2,9,
+Delhi,1998,75.29,10,
+Goa,1998,75.51,11,
+Gujarat,1998,61.3,12,
+Haryana,1998,55.9,13,
+Himachal Pradesh,1998,63.9,14,
+Jharkhand,1998,41.4,16,
+Karnataka,1998,56,17,
+Kerala,1998,89.8,18,
+Lakshadweep,1998,81.78,19,
+Madhya Pradesh,1998,44.7,20,
+Maharashtra,1998,64.9,21,
+Manipur,1998,59.89,22,
+Meghalaya,1998,49.1,23,
+Mizoram,1998,82.26,24,
+Nagaland,1998,61.65,25,
+Orissa,1998,49.1,26,
+Puducherry,1998,74.74,27,
+Punjab,1998,58.51,28,
+Rajasthan,1998,38.55,29,
+Sikkim,1998,56.94,30,
+Tamil Nadu,1998,62.66,31,
+Tripura,1998,60.44,32,
+Uttar Pradesh,1998,40.71,33,
+Uttaranchal,1998,57.75,34,
+West Bengal,1998,57.7,35,
+Jammu and Kashmir,1998,63.86,15,
+Andaman and Nicobar,1997,73.02,1,
+Telangana,1997,0,36,
+Andhra Pradesh,1997,44.1,2,
+Arunachal Pradesh,1997,41.59,3,
+Assam,1997,52.9,4,
+Bihar,1997,37.5,5,
+Chandigarh,1997,77.81,6,
+Chhattisgarh,1997,42.9,7,
+Dadra and Nagar Haveli,1997,40.71,8,
+Daman and Diu,1997,71.2,9,
+Delhi,1997,75.29,10,
+Goa,1997,75.51,11,
+Gujarat,1997,61.3,12,
+Haryana,1997,55.9,13,
+Himachal Pradesh,1997,63.9,14,
+Jharkhand,1997,41.4,16,
+Karnataka,1997,56,17,
+Kerala,1997,89.8,18,
+Lakshadweep,1997,81.78,19,
+Madhya Pradesh,1997,44.7,20,
+Maharashtra,1997,64.9,21,
+Manipur,1997,59.89,22,
+Meghalaya,1997,49.1,23,
+Mizoram,1997,82.26,24,
+Nagaland,1997,61.65,25,
+Orissa,1997,49.1,26,
+Puducherry,1997,74.74,27,
+Punjab,1997,58.51,28,
+Rajasthan,1997,38.55,29,
+Sikkim,1997,56.94,30,
+Tamil Nadu,1997,62.66,31,
+Tripura,1997,60.44,32,
+Uttar Pradesh,1997,40.71,33,
+Uttaranchal,1997,57.75,34,
+West Bengal,1997,57.7,35,
+Jammu and Kashmir,1997,63.86,15,
+Andaman and Nicobar,1996,73.02,1,
+Telangana,1996,0,36,
+Andhra Pradesh,1996,44.1,2,
+Arunachal Pradesh,1996,41.59,3,
+Assam,1996,52.9,4,
+Bihar,1996,37.5,5,
+Chandigarh,1996,77.81,6,
+Chhattisgarh,1996,42.9,7,
+Dadra and Nagar Haveli,1996,40.71,8,
+Daman and Diu,1996,71.2,9,
+Delhi,1996,75.29,10,
+Goa,1996,75.51,11,
+Gujarat,1996,61.3,12,
+Haryana,1996,55.9,13,
+Himachal Pradesh,1996,63.9,14,
+Jharkhand,1996,41.4,16,
+Karnataka,1996,56,17,
+Kerala,1996,89.8,18,
+Lakshadweep,1996,81.78,19,
+Madhya Pradesh,1996,44.7,20,
+Maharashtra,1996,64.9,21,
+Manipur,1996,59.89,22,
+Meghalaya,1996,49.1,23,
+Mizoram,1996,82.26,24,
+Nagaland,1996,61.65,25,
+Orissa,1996,49.1,26,
+Puducherry,1996,74.74,27,
+Punjab,1996,58.51,28,
+Rajasthan,1996,38.55,29,
+Sikkim,1996,56.94,30,
+Tamil Nadu,1996,62.66,31,
+Tripura,1996,60.44,32,
+Uttar Pradesh,1996,40.71,33,
+Uttaranchal,1996,57.75,34,
+West Bengal,1996,57.7,35,
+Jammu and Kashmir,1996,63.86,15,
+Andaman and Nicobar,1995,73.02,1,
+Telangana,1995,0,36,
+Andhra Pradesh,1995,44.1,2,
+Arunachal Pradesh,1995,41.59,3,
+Assam,1995,52.9,4,
+Bihar,1995,37.5,5,
+Chandigarh,1995,77.81,6,
+Chhattisgarh,1995,42.9,7,
+Dadra and Nagar Haveli,1995,40.71,8,
+Daman and Diu,1995,71.2,9,
+Delhi,1995,75.29,10,
+Goa,1995,75.51,11,
+Gujarat,1995,61.3,12,
+Haryana,1995,55.9,13,
+Himachal Pradesh,1995,63.9,14,
+Jharkhand,1995,41.4,16,
+Karnataka,1995,56,17,
+Kerala,1995,89.8,18,
+Lakshadweep,1995,81.78,19,
+Madhya Pradesh,1995,44.7,20,
+Maharashtra,1995,64.9,21,
+Manipur,1995,59.89,22,
+Meghalaya,1995,49.1,23,
+Mizoram,1995,82.26,24,
+Nagaland,1995,61.65,25,
+Orissa,1995,49.1,26,
+Puducherry,1995,74.74,27,
+Punjab,1995,58.51,28,
+Rajasthan,1995,38.55,29,
+Sikkim,1995,56.94,30,
+Tamil Nadu,1995,62.66,31,
+Tripura,1995,60.44,32,
+Uttar Pradesh,1995,40.71,33,
+Uttaranchal,1995,57.75,34,
+West Bengal,1995,57.7,35,
+Jammu and Kashmir,1995,63.86,15,
+Andaman and Nicobar,1994,73.02,1,
+Telangana,1994,0,36,
+Andhra Pradesh,1994,44.1,2,
+Arunachal Pradesh,1994,41.59,3,
+Assam,1994,52.9,4,
+Bihar,1994,37.5,5,
+Chandigarh,1994,77.81,6,
+Chhattisgarh,1994,42.9,7,
+Dadra and Nagar Haveli,1994,40.71,8,
+Daman and Diu,1994,71.2,9,
+Delhi,1994,75.29,10,
+Goa,1994,75.51,11,
+Gujarat,1994,61.3,12,
+Haryana,1994,55.9,13,
+Himachal Pradesh,1994,63.9,14,
+Jharkhand,1994,41.4,16,
+Karnataka,1994,56,17,
+Kerala,1994,89.8,18,
+Lakshadweep,1994,81.78,19,
+Madhya Pradesh,1994,44.7,20,
+Maharashtra,1994,64.9,21,
+Manipur,1994,59.89,22,
+Meghalaya,1994,49.1,23,
+Mizoram,1994,82.26,24,
+Nagaland,1994,61.65,25,
+Orissa,1994,49.1,26,
+Puducherry,1994,74.74,27,
+Punjab,1994,58.51,28,
+Rajasthan,1994,38.55,29,
+Sikkim,1994,56.94,30,
+Tamil Nadu,1994,62.66,31,
+Tripura,1994,60.44,32,
+Uttar Pradesh,1994,40.71,33,
+Uttaranchal,1994,57.75,34,
+West Bengal,1994,57.7,35,
+Jammu and Kashmir,1994,63.86,15,
+Andaman and Nicobar,1993,73.02,1,
+Telangana,1993,0,36,
+Andhra Pradesh,1993,44.1,2,
+Arunachal Pradesh,1993,41.59,3,
+Assam,1993,52.9,4,
+Bihar,1993,37.5,5,
+Chandigarh,1993,77.81,6,
+Chhattisgarh,1993,42.9,7,
+Dadra and Nagar Haveli,1993,40.71,8,
+Daman and Diu,1993,71.2,9,
+Delhi,1993,75.29,10,
+Goa,1993,75.51,11,
+Gujarat,1993,61.3,12,
+Haryana,1993,55.9,13,
+Himachal Pradesh,1993,63.9,14,
+Jharkhand,1993,41.4,16,
+Karnataka,1993,56,17,
+Kerala,1993,89.8,18,
+Lakshadweep,1993,81.78,19,
+Madhya Pradesh,1993,44.7,20,
+Maharashtra,1993,64.9,21,
+Manipur,1993,59.89,22,
+Meghalaya,1993,49.1,23,
+Mizoram,1993,82.26,24,
+Nagaland,1993,61.65,25,
+Orissa,1993,49.1,26,
+Puducherry,1993,74.74,27,
+Punjab,1993,58.51,28,
+Rajasthan,1993,38.55,29,
+Sikkim,1993,56.94,30,
+Tamil Nadu,1993,62.66,31,
+Tripura,1993,60.44,32,
+Uttar Pradesh,1993,40.71,33,
+Uttaranchal,1993,57.75,34,
+West Bengal,1993,57.7,35,
+Jammu and Kashmir,1993,63.86,15,
+Andaman and Nicobar,1992,73.02,1,
+Telangana,1992,0,36,
+Andhra Pradesh,1992,44.1,2,
+Arunachal Pradesh,1992,41.59,3,
+Assam,1992,52.9,4,
+Bihar,1992,37.5,5,
+Chandigarh,1992,77.81,6,
+Chhattisgarh,1992,42.9,7,
+Dadra and Nagar Haveli,1992,40.71,8,
+Daman and Diu,1992,71.2,9,
+Delhi,1992,75.29,10,
+Goa,1992,75.51,11,
+Gujarat,1992,61.3,12,
+Haryana,1992,55.9,13,
+Himachal Pradesh,1992,63.9,14,
+Jharkhand,1992,41.4,16,
+Karnataka,1992,56,17,
+Kerala,1992,89.8,18,
+Lakshadweep,1992,81.78,19,
+Madhya Pradesh,1992,44.7,20,
+Maharashtra,1992,64.9,21,
+Manipur,1992,59.89,22,
+Meghalaya,1992,49.1,23,
+Mizoram,1992,82.26,24,
+Nagaland,1992,61.65,25,
+Orissa,1992,49.1,26,
+Puducherry,1992,74.74,27,
+Punjab,1992,58.51,28,
+Rajasthan,1992,38.55,29,
+Sikkim,1992,56.94,30,
+Tamil Nadu,1992,62.66,31,
+Tripura,1992,60.44,32,
+Uttar Pradesh,1992,40.71,33,
+Uttaranchal,1992,57.75,34,
+West Bengal,1992,57.7,35,
+Jammu and Kashmir,1992,63.86,15,
+Andaman and Nicobar,1991,73.02,1,
+Telangana,1991,0,36,
+Andhra Pradesh,1991,44.1,2,
+Arunachal Pradesh,1991,41.59,3,
+Assam,1991,52.9,4,
+Bihar,1991,37.5,5,
+Chandigarh,1991,77.81,6,
+Chhattisgarh,1991,42.9,7,
+Dadra and Nagar Haveli,1991,40.71,8,
+Daman and Diu,1991,71.2,9,
+Delhi,1991,75.29,10,
+Goa,1991,75.51,11,
+Gujarat,1991,61.3,12,
+Haryana,1991,55.9,13,
+Himachal Pradesh,1991,63.9,14,
+Jharkhand,1991,41.4,16,
+Karnataka,1991,56,17,
+Kerala,1991,89.8,18,
+Lakshadweep,1991,81.78,19,
+Madhya Pradesh,1991,44.7,20,
+Maharashtra,1991,64.9,21,
+Manipur,1991,59.89,22,
+Meghalaya,1991,49.1,23,
+Mizoram,1991,82.26,24,
+Nagaland,1991,61.65,25,
+Orissa,1991,49.1,26,
+Puducherry,1991,74.74,27,
+Punjab,1991,58.51,28,
+Rajasthan,1991,38.55,29,
+Sikkim,1991,56.94,30,
+Tamil Nadu,1991,62.66,31,
+Tripura,1991,60.44,32,
+Uttar Pradesh,1991,40.71,33,
+Uttaranchal,1991,57.75,34,
+West Bengal,1991,57.7,35,
+Jammu and Kashmir,1991,63.86,15,
+Andaman and Nicobar,1990,63.19,1,
+Telangana,1990,0,36,
+Andhra Pradesh,1990,35.7,2,
+Arunachal Pradesh,1990,25.55,3,
+Assam,1990,0,4,
+Bihar,1990,32.3,5,
+Chandigarh,1990,74.8,6,
+Chhattisgarh,1990,32.63,7,
+Dadra and Nagar Haveli,1990,32.9,8,
+Daman and Diu,1990,0,9,
+Delhi,1990,71.94,10,
+Goa,1990,65.71,11,
+Gujarat,1990,44.92,12,
+Haryana,1990,37.13,13,
+Himachal Pradesh,1990,0,14,
+Jharkhand,1990,35.03,16,
+Karnataka,1990,46.21,17,
+Kerala,1990,78.85,18,
+Lakshadweep,1990,68.42,19,
+Madhya Pradesh,1990,38.63,20,
+Maharashtra,1990,57.24,21,
+Manipur,1990,49.66,22,
+Meghalaya,1990,42.05,23,
+Mizoram,1990,59.88,24,
+Nagaland,1990,50.28,25,
+Orissa,1990,33.62,26,
+Puducherry,1990,65.14,27,
+Punjab,1990,43.37,28,
+Rajasthan,1990,30.11,29,
+Sikkim,1990,34.05,30,
+Tamil Nadu,1990,54.39,31,
+Tripura,1990,50.1,32,
+Uttar Pradesh,1990,32.65,33,
+Uttaranchal,1990,46.06,34,
+West Bengal,1990,48.65,35,
+Jammu and Kashmir,1990,30.64,15,
+Andaman and Nicobar,1989,63.19,1,
+Telangana,1989,0,36,
+Andhra Pradesh,1989,35.7,2,
+Arunachal Pradesh,1989,25.55,3,
+Assam,1989,0,4,
+Bihar,1989,32.3,5,
+Chandigarh,1989,74.8,6,
+Chhattisgarh,1989,32.63,7,
+Dadra and Nagar Haveli,1989,32.9,8,
+Daman and Diu,1989,0,9,
+Delhi,1989,71.94,10,
+Goa,1989,65.71,11,
+Gujarat,1989,44.92,12,
+Haryana,1989,37.13,13,
+Himachal Pradesh,1989,0,14,
+Jharkhand,1989,35.03,16,
+Karnataka,1989,46.21,17,
+Kerala,1989,78.85,18,
+Lakshadweep,1989,68.42,19,
+Madhya Pradesh,1989,38.63,20,
+Maharashtra,1989,57.24,21,
+Manipur,1989,49.66,22,
+Meghalaya,1989,42.05,23,
+Mizoram,1989,59.88,24,
+Nagaland,1989,50.28,25,
+Orissa,1989,33.62,26,
+Puducherry,1989,65.14,27,
+Punjab,1989,43.37,28,
+Rajasthan,1989,30.11,29,
+Sikkim,1989,34.05,30,
+Tamil Nadu,1989,54.39,31,
+Tripura,1989,50.1,32,
+Uttar Pradesh,1989,32.65,33,
+Uttaranchal,1989,46.06,34,
+West Bengal,1989,48.65,35,
+Jammu and Kashmir,1989,30.64,15,
+Andaman and Nicobar,1988,63.19,1,
+Telangana,1988,0,36,
+Andhra Pradesh,1988,35.7,2,
+Arunachal Pradesh,1988,25.55,3,
+Assam,1988,0,4,
+Bihar,1988,32.3,5,
+Chandigarh,1988,74.8,6,
+Chhattisgarh,1988,32.63,7,
+Dadra and Nagar Haveli,1988,32.9,8,
+Daman and Diu,1988,0,9,
+Delhi,1988,71.94,10,
+Goa,1988,65.71,11,
+Gujarat,1988,44.92,12,
+Haryana,1988,37.13,13,
+Himachal Pradesh,1988,0,14,
+Jharkhand,1988,35.03,16,
+Karnataka,1988,46.21,17,
+Kerala,1988,78.85,18,
+Lakshadweep,1988,68.42,19,
+Madhya Pradesh,1988,38.63,20,
+Maharashtra,1988,57.24,21,
+Manipur,1988,49.66,22,
+Meghalaya,1988,42.05,23,
+Mizoram,1988,59.88,24,
+Nagaland,1988,50.28,25,
+Orissa,1988,33.62,26,
+Puducherry,1988,65.14,27,
+Punjab,1988,43.37,28,
+Rajasthan,1988,30.11,29,
+Sikkim,1988,34.05,30,
+Tamil Nadu,1988,54.39,31,
+Tripura,1988,50.1,32,
+Uttar Pradesh,1988,32.65,33,
+Uttaranchal,1988,46.06,34,
+West Bengal,1988,48.65,35,
+Jammu and Kashmir,1988,30.64,15,
+Andaman and Nicobar,1987,63.19,1,
+Telangana,1987,0,36,
+Andhra Pradesh,1987,35.7,2,
+Arunachal Pradesh,1987,25.55,3,
+Assam,1987,0,4,
+Bihar,1987,32.3,5,
+Chandigarh,1987,74.8,6,
+Chhattisgarh,1987,32.63,7,
+Dadra and Nagar Haveli,1987,32.9,8,
+Daman and Diu,1987,0,9,
+Delhi,1987,71.94,10,
+Goa,1987,65.71,11,
+Gujarat,1987,44.92,12,
+Haryana,1987,37.13,13,
+Himachal Pradesh,1987,0,14,
+Jharkhand,1987,35.03,16,
+Karnataka,1987,46.21,17,
+Kerala,1987,78.85,18,
+Lakshadweep,1987,68.42,19,
+Madhya Pradesh,1987,38.63,20,
+Maharashtra,1987,57.24,21,
+Manipur,1987,49.66,22,
+Meghalaya,1987,42.05,23,
+Mizoram,1987,59.88,24,
+Nagaland,1987,50.28,25,
+Orissa,1987,33.62,26,
+Puducherry,1987,65.14,27,
+Punjab,1987,43.37,28,
+Rajasthan,1987,30.11,29,
+Sikkim,1987,34.05,30,
+Tamil Nadu,1987,54.39,31,
+Tripura,1987,50.1,32,
+Uttar Pradesh,1987,32.65,33,
+Uttaranchal,1987,46.06,34,
+West Bengal,1987,48.65,35,
+Jammu and Kashmir,1987,30.64,15,
+Andaman and Nicobar,1986,63.19,1,
+Telangana,1986,0,36,
+Andhra Pradesh,1986,35.7,2,
+Arunachal Pradesh,1986,25.55,3,
+Assam,1986,0,4,
+Bihar,1986,32.3,5,
+Chandigarh,1986,74.8,6,
+Chhattisgarh,1986,32.63,7,
+Dadra and Nagar Haveli,1986,32.9,8,
+Daman and Diu,1986,0,9,
+Delhi,1986,71.94,10,
+Goa,1986,65.71,11,
+Gujarat,1986,44.92,12,
+Haryana,1986,37.13,13,
+Himachal Pradesh,1986,0,14,
+Jharkhand,1986,35.03,16,
+Karnataka,1986,46.21,17,
+Kerala,1986,78.85,18,
+Lakshadweep,1986,68.42,19,
+Madhya Pradesh,1986,38.63,20,
+Maharashtra,1986,57.24,21,
+Manipur,1986,49.66,22,
+Meghalaya,1986,42.05,23,
+Mizoram,1986,59.88,24,
+Nagaland,1986,50.28,25,
+Orissa,1986,33.62,26,
+Puducherry,1986,65.14,27,
+Punjab,1986,43.37,28,
+Rajasthan,1986,30.11,29,
+Sikkim,1986,34.05,30,
+Tamil Nadu,1986,54.39,31,
+Tripura,1986,50.1,32,
+Uttar Pradesh,1986,32.65,33,
+Uttaranchal,1986,46.06,34,
+West Bengal,1986,48.65,35,
+Jammu and Kashmir,1986,30.64,15,
+Andaman and Nicobar,1985,63.19,1,
+Telangana,1985,0,36,
+Andhra Pradesh,1985,35.7,2,
+Arunachal Pradesh,1985,25.55,3,
+Assam,1985,0,4,
+Bihar,1985,32.3,5,
+Chandigarh,1985,74.8,6,
+Chhattisgarh,1985,32.63,7,
+Dadra and Nagar Haveli,1985,32.9,8,
+Daman and Diu,1985,0,9,
+Delhi,1985,71.94,10,
+Goa,1985,65.71,11,
+Gujarat,1985,44.92,12,
+Haryana,1985,37.13,13,
+Himachal Pradesh,1985,0,14,
+Jharkhand,1985,35.03,16,
+Karnataka,1985,46.21,17,
+Kerala,1985,78.85,18,
+Lakshadweep,1985,68.42,19,
+Madhya Pradesh,1985,38.63,20,
+Maharashtra,1985,57.24,21,
+Manipur,1985,49.66,22,
+Meghalaya,1985,42.05,23,
+Mizoram,1985,59.88,24,
+Nagaland,1985,50.28,25,
+Orissa,1985,33.62,26,
+Puducherry,1985,65.14,27,
+Punjab,1985,43.37,28,
+Rajasthan,1985,30.11,29,
+Sikkim,1985,34.05,30,
+Tamil Nadu,1985,54.39,31,
+Tripura,1985,50.1,32,
+Uttar Pradesh,1985,32.65,33,
+Uttaranchal,1985,46.06,34,
+West Bengal,1985,48.65,35,
+Jammu and Kashmir,1985,30.64,15,
+Andaman and Nicobar,1984,63.19,1,
+Telangana,1984,0,36,
+Andhra Pradesh,1984,35.7,2,
+Arunachal Pradesh,1984,25.55,3,
+Assam,1984,0,4,
+Bihar,1984,32.3,5,
+Chandigarh,1984,74.8,6,
+Chhattisgarh,1984,32.63,7,
+Dadra and Nagar Haveli,1984,32.9,8,
+Daman and Diu,1984,0,9,
+Delhi,1984,71.94,10,
+Goa,1984,65.71,11,
+Gujarat,1984,44.92,12,
+Haryana,1984,37.13,13,
+Himachal Pradesh,1984,0,14,
+Jharkhand,1984,35.03,16,
+Karnataka,1984,46.21,17,
+Kerala,1984,78.85,18,
+Lakshadweep,1984,68.42,19,
+Madhya Pradesh,1984,38.63,20,
+Maharashtra,1984,57.24,21,
+Manipur,1984,49.66,22,
+Meghalaya,1984,42.05,23,
+Mizoram,1984,59.88,24,
+Nagaland,1984,50.28,25,
+Orissa,1984,33.62,26,
+Puducherry,1984,65.14,27,
+Punjab,1984,43.37,28,
+Rajasthan,1984,30.11,29,
+Sikkim,1984,34.05,30,
+Tamil Nadu,1984,54.39,31,
+Tripura,1984,50.1,32,
+Uttar Pradesh,1984,32.65,33,
+Uttaranchal,1984,46.06,34,
+West Bengal,1984,48.65,35,
+Jammu and Kashmir,1984,30.64,15,
+Andaman and Nicobar,1983,63.19,1,
+Telangana,1983,0,36,
+Andhra Pradesh,1983,35.7,2,
+Arunachal Pradesh,1983,25.55,3,
+Assam,1983,0,4,
+Bihar,1983,32.3,5,
+Chandigarh,1983,74.8,6,
+Chhattisgarh,1983,32.63,7,
+Dadra and Nagar Haveli,1983,32.9,8,
+Daman and Diu,1983,0,9,
+Delhi,1983,71.94,10,
+Goa,1983,65.71,11,
+Gujarat,1983,44.92,12,
+Haryana,1983,37.13,13,
+Himachal Pradesh,1983,0,14,
+Jharkhand,1983,35.03,16,
+Karnataka,1983,46.21,17,
+Kerala,1983,78.85,18,
+Lakshadweep,1983,68.42,19,
+Madhya Pradesh,1983,38.63,20,
+Maharashtra,1983,57.24,21,
+Manipur,1983,49.66,22,
+Meghalaya,1983,42.05,23,
+Mizoram,1983,59.88,24,
+Nagaland,1983,50.28,25,
+Orissa,1983,33.62,26,
+Puducherry,1983,65.14,27,
+Punjab,1983,43.37,28,
+Rajasthan,1983,30.11,29,
+Sikkim,1983,34.05,30,
+Tamil Nadu,1983,54.39,31,
+Tripura,1983,50.1,32,
+Uttar Pradesh,1983,32.65,33,
+Uttaranchal,1983,46.06,34,
+West Bengal,1983,48.65,35,
+Jammu and Kashmir,1983,30.64,15,
+Andaman and Nicobar,1982,63.19,1,
+Telangana,1982,0,36,
+Andhra Pradesh,1982,35.7,2,
+Arunachal Pradesh,1982,25.55,3,
+Assam,1982,0,4,
+Bihar,1982,32.3,5,
+Chandigarh,1982,74.8,6,
+Chhattisgarh,1982,32.63,7,
+Dadra and Nagar Haveli,1982,32.9,8,
+Daman and Diu,1982,0,9,
+Delhi,1982,71.94,10,
+Goa,1982,65.71,11,
+Gujarat,1982,44.92,12,
+Haryana,1982,37.13,13,
+Himachal Pradesh,1982,0,14,
+Jharkhand,1982,35.03,16,
+Karnataka,1982,46.21,17,
+Kerala,1982,78.85,18,
+Lakshadweep,1982,68.42,19,
+Madhya Pradesh,1982,38.63,20,
+Maharashtra,1982,57.24,21,
+Manipur,1982,49.66,22,
+Meghalaya,1982,42.05,23,
+Mizoram,1982,59.88,24,
+Nagaland,1982,50.28,25,
+Orissa,1982,33.62,26,
+Puducherry,1982,65.14,27,
+Punjab,1982,43.37,28,
+Rajasthan,1982,30.11,29,
+Sikkim,1982,34.05,30,
+Tamil Nadu,1982,54.39,31,
+Tripura,1982,50.1,32,
+Uttar Pradesh,1982,32.65,33,
+Uttaranchal,1982,46.06,34,
+West Bengal,1982,48.65,35,
+Jammu and Kashmir,1982,30.64,15,
+Andaman and Nicobar,1981,63.19,1,
+Telangana,1981,0,36,
+Andhra Pradesh,1981,35.7,2,
+Arunachal Pradesh,1981,25.55,3,
+Assam,1981,0,4,
+Bihar,1981,32.3,5,
+Chandigarh,1981,74.8,6,
+Chhattisgarh,1981,32.63,7,
+Dadra and Nagar Haveli,1981,32.9,8,
+Daman and Diu,1981,0,9,
+Delhi,1981,71.94,10,
+Goa,1981,65.71,11,
+Gujarat,1981,44.92,12,
+Haryana,1981,37.13,13,
+Himachal Pradesh,1981,0,14,
+Jharkhand,1981,35.03,16,
+Karnataka,1981,46.21,17,
+Kerala,1981,78.85,18,
+Lakshadweep,1981,68.42,19,
+Madhya Pradesh,1981,38.63,20,
+Maharashtra,1981,57.24,21,
+Manipur,1981,49.66,22,
+Meghalaya,1981,42.05,23,
+Mizoram,1981,59.88,24,
+Nagaland,1981,50.28,25,
+Orissa,1981,33.62,26,
+Puducherry,1981,65.14,27,
+Punjab,1981,43.37,28,
+Rajasthan,1981,30.11,29,
+Sikkim,1981,34.05,30,
+Tamil Nadu,1981,54.39,31,
+Tripura,1981,50.1,32,
+Uttar Pradesh,1981,32.65,33,
+Uttaranchal,1981,46.06,34,
+West Bengal,1981,48.65,35,
+Jammu and Kashmir,1981,30.64,15,
+Andaman and Nicobar,1980,51.15,1,
+Telangana,1980,0,36,
+Andhra Pradesh,1980,24.57,2,
+Arunachal Pradesh,1980,11.29,3,
+Assam,1980,33.94,4,
+Bihar,1980,23.17,5,
+Chandigarh,1980,70.43,6,
+Chhattisgarh,1980,24.08,7,
+Dadra and Nagar Haveli,1980,18.13,8,
+Daman and Diu,1980,0,9,
+Delhi,1980,65.08,10,
+Goa,1980,51.96,11,
+Gujarat,1980,36.95,12,
+Haryana,1980,25.71,13,
+Himachal Pradesh,1980,0,14,
+Jharkhand,1980,23.87,16,
+Karnataka,1980,36.83,17,
+Kerala,1980,69.75,18,
+Lakshadweep,1980,51.76,19,
+Madhya Pradesh,1980,27.27,20,
+Maharashtra,1980,45.77,21,
+Manipur,1980,38.47,22,
+Meghalaya,1980,29.49,23,
+Mizoram,1980,53.8,24,
+Nagaland,1980,33.78,25,
+Orissa,1980,26.18,26,
+Puducherry,1980,53.38,27,
+Punjab,1980,34.12,28,
+Rajasthan,1980,22.57,29,
+Sikkim,1980,17.74,30,
+Tamil Nadu,1980,45.4,31,
+Tripura,1980,30.98,32,
+Uttar Pradesh,1980,23.99,33,
+Uttaranchal,1980,33.26,34,
+West Bengal,1980,38.86,35,
+Jammu and Kashmir,1980,21.71,15,
+Andaman and Nicobar,1979,51.15,1,
+Telangana,1979,0,36,
+Andhra Pradesh,1979,24.57,2,
+Arunachal Pradesh,1979,11.29,3,
+Assam,1979,33.94,4,
+Bihar,1979,23.17,5,
+Chandigarh,1979,70.43,6,
+Chhattisgarh,1979,24.08,7,
+Dadra and Nagar Haveli,1979,18.13,8,
+Daman and Diu,1979,0,9,
+Delhi,1979,65.08,10,
+Goa,1979,51.96,11,
+Gujarat,1979,36.95,12,
+Haryana,1979,25.71,13,
+Himachal Pradesh,1979,0,14,
+Jharkhand,1979,23.87,16,
+Karnataka,1979,36.83,17,
+Kerala,1979,69.75,18,
+Lakshadweep,1979,51.76,19,
+Madhya Pradesh,1979,27.27,20,
+Maharashtra,1979,45.77,21,
+Manipur,1979,38.47,22,
+Meghalaya,1979,29.49,23,
+Mizoram,1979,53.8,24,
+Nagaland,1979,33.78,25,
+Orissa,1979,26.18,26,
+Puducherry,1979,53.38,27,
+Punjab,1979,34.12,28,
+Rajasthan,1979,22.57,29,
+Sikkim,1979,17.74,30,
+Tamil Nadu,1979,45.4,31,
+Tripura,1979,30.98,32,
+Uttar Pradesh,1979,23.99,33,
+Uttaranchal,1979,33.26,34,
+West Bengal,1979,38.86,35,
+Jammu and Kashmir,1979,21.71,15,
+Andaman and Nicobar,1978,51.15,1,
+Telangana,1978,0,36,
+Andhra Pradesh,1978,24.57,2,
+Arunachal Pradesh,1978,11.29,3,
+Assam,1978,33.94,4,
+Bihar,1978,23.17,5,
+Chandigarh,1978,70.43,6,
+Chhattisgarh,1978,24.08,7,
+Dadra and Nagar Haveli,1978,18.13,8,
+Daman and Diu,1978,0,9,
+Delhi,1978,65.08,10,
+Goa,1978,51.96,11,
+Gujarat,1978,36.95,12,
+Haryana,1978,25.71,13,
+Himachal Pradesh,1978,0,14,
+Jharkhand,1978,23.87,16,
+Karnataka,1978,36.83,17,
+Kerala,1978,69.75,18,
+Lakshadweep,1978,51.76,19,
+Madhya Pradesh,1978,27.27,20,
+Maharashtra,1978,45.77,21,
+Manipur,1978,38.47,22,
+Meghalaya,1978,29.49,23,
+Mizoram,1978,53.8,24,
+Nagaland,1978,33.78,25,
+Orissa,1978,26.18,26,
+Puducherry,1978,53.38,27,
+Punjab,1978,34.12,28,
+Rajasthan,1978,22.57,29,
+Sikkim,1978,17.74,30,
+Tamil Nadu,1978,45.4,31,
+Tripura,1978,30.98,32,
+Uttar Pradesh,1978,23.99,33,
+Uttaranchal,1978,33.26,34,
+West Bengal,1978,38.86,35,
+Jammu and Kashmir,1978,21.71,15,
+Andaman and Nicobar,1977,51.15,1,
+Telangana,1977,0,36,
+Andhra Pradesh,1977,24.57,2,
+Arunachal Pradesh,1977,11.29,3,
+Assam,1977,33.94,4,
+Bihar,1977,23.17,5,
+Chandigarh,1977,70.43,6,
+Chhattisgarh,1977,24.08,7,
+Dadra and Nagar Haveli,1977,18.13,8,
+Daman and Diu,1977,0,9,
+Delhi,1977,65.08,10,
+Goa,1977,51.96,11,
+Gujarat,1977,36.95,12,
+Haryana,1977,25.71,13,
+Himachal Pradesh,1977,0,14,
+Jharkhand,1977,23.87,16,
+Karnataka,1977,36.83,17,
+Kerala,1977,69.75,18,
+Lakshadweep,1977,51.76,19,
+Madhya Pradesh,1977,27.27,20,
+Maharashtra,1977,45.77,21,
+Manipur,1977,38.47,22,
+Meghalaya,1977,29.49,23,
+Mizoram,1977,53.8,24,
+Nagaland,1977,33.78,25,
+Orissa,1977,26.18,26,
+Puducherry,1977,53.38,27,
+Punjab,1977,34.12,28,
+Rajasthan,1977,22.57,29,
+Sikkim,1977,17.74,30,
+Tamil Nadu,1977,45.4,31,
+Tripura,1977,30.98,32,
+Uttar Pradesh,1977,23.99,33,
+Uttaranchal,1977,33.26,34,
+West Bengal,1977,38.86,35,
+Jammu and Kashmir,1977,21.71,15,
+Andaman and Nicobar,1976,51.15,1,
+Telangana,1976,0,36,
+Andhra Pradesh,1976,24.57,2,
+Arunachal Pradesh,1976,11.29,3,
+Assam,1976,33.94,4,
+Bihar,1976,23.17,5,
+Chandigarh,1976,70.43,6,
+Chhattisgarh,1976,24.08,7,
+Dadra and Nagar Haveli,1976,18.13,8,
+Daman and Diu,1976,0,9,
+Delhi,1976,65.08,10,
+Goa,1976,51.96,11,
+Gujarat,1976,36.95,12,
+Haryana,1976,25.71,13,
+Himachal Pradesh,1976,0,14,
+Jharkhand,1976,23.87,16,
+Karnataka,1976,36.83,17,
+Kerala,1976,69.75,18,
+Lakshadweep,1976,51.76,19,
+Madhya Pradesh,1976,27.27,20,
+Maharashtra,1976,45.77,21,
+Manipur,1976,38.47,22,
+Meghalaya,1976,29.49,23,
+Mizoram,1976,53.8,24,
+Nagaland,1976,33.78,25,
+Orissa,1976,26.18,26,
+Puducherry,1976,53.38,27,
+Punjab,1976,34.12,28,
+Rajasthan,1976,22.57,29,
+Sikkim,1976,17.74,30,
+Tamil Nadu,1976,45.4,31,
+Tripura,1976,30.98,32,
+Uttar Pradesh,1976,23.99,33,
+Uttaranchal,1976,33.26,34,
+West Bengal,1976,38.86,35,
+Jammu and Kashmir,1976,21.71,15,
+Andaman and Nicobar,1975,51.15,1,
+Telangana,1975,0,36,
+Andhra Pradesh,1975,24.57,2,
+Arunachal Pradesh,1975,11.29,3,
+Assam,1975,33.94,4,
+Bihar,1975,23.17,5,
+Chandigarh,1975,70.43,6,
+Chhattisgarh,1975,24.08,7,
+Dadra and Nagar Haveli,1975,18.13,8,
+Daman and Diu,1975,0,9,
+Delhi,1975,65.08,10,
+Goa,1975,51.96,11,
+Gujarat,1975,36.95,12,
+Haryana,1975,25.71,13,
+Himachal Pradesh,1975,0,14,
+Jharkhand,1975,23.87,16,
+Karnataka,1975,36.83,17,
+Kerala,1975,69.75,18,
+Lakshadweep,1975,51.76,19,
+Madhya Pradesh,1975,27.27,20,
+Maharashtra,1975,45.77,21,
+Manipur,1975,38.47,22,
+Meghalaya,1975,29.49,23,
+Mizoram,1975,53.8,24,
+Nagaland,1975,33.78,25,
+Orissa,1975,26.18,26,
+Puducherry,1975,53.38,27,
+Punjab,1975,34.12,28,
+Rajasthan,1975,22.57,29,
+Sikkim,1975,17.74,30,
+Tamil Nadu,1975,45.4,31,
+Tripura,1975,30.98,32,
+Uttar Pradesh,1975,23.99,33,
+Uttaranchal,1975,33.26,34,
+West Bengal,1975,38.86,35,
+Jammu and Kashmir,1975,21.71,15,
+Andaman and Nicobar,1974,51.15,1,
+Telangana,1974,0,36,
+Andhra Pradesh,1974,24.57,2,
+Arunachal Pradesh,1974,11.29,3,
+Assam,1974,33.94,4,
+Bihar,1974,23.17,5,
+Chandigarh,1974,70.43,6,
+Chhattisgarh,1974,24.08,7,
+Dadra and Nagar Haveli,1974,18.13,8,
+Daman and Diu,1974,0,9,
+Delhi,1974,65.08,10,
+Goa,1974,51.96,11,
+Gujarat,1974,36.95,12,
+Haryana,1974,25.71,13,
+Himachal Pradesh,1974,0,14,
+Jharkhand,1974,23.87,16,
+Karnataka,1974,36.83,17,
+Kerala,1974,69.75,18,
+Lakshadweep,1974,51.76,19,
+Madhya Pradesh,1974,27.27,20,
+Maharashtra,1974,45.77,21,
+Manipur,1974,38.47,22,
+Meghalaya,1974,29.49,23,
+Mizoram,1974,53.8,24,
+Nagaland,1974,33.78,25,
+Orissa,1974,26.18,26,
+Puducherry,1974,53.38,27,
+Punjab,1974,34.12,28,
+Rajasthan,1974,22.57,29,
+Sikkim,1974,17.74,30,
+Tamil Nadu,1974,45.4,31,
+Tripura,1974,30.98,32,
+Uttar Pradesh,1974,23.99,33,
+Uttaranchal,1974,33.26,34,
+West Bengal,1974,38.86,35,
+Jammu and Kashmir,1974,21.71,15,
+Andaman and Nicobar,1973,51.15,1,
+Telangana,1973,0,36,
+Andhra Pradesh,1973,24.57,2,
+Arunachal Pradesh,1973,11.29,3,
+Assam,1973,33.94,4,
+Bihar,1973,23.17,5,
+Chandigarh,1973,70.43,6,
+Chhattisgarh,1973,24.08,7,
+Dadra and Nagar Haveli,1973,18.13,8,
+Daman and Diu,1973,0,9,
+Delhi,1973,65.08,10,
+Goa,1973,51.96,11,
+Gujarat,1973,36.95,12,
+Haryana,1973,25.71,13,
+Himachal Pradesh,1973,0,14,
+Jharkhand,1973,23.87,16,
+Karnataka,1973,36.83,17,
+Kerala,1973,69.75,18,
+Lakshadweep,1973,51.76,19,
+Madhya Pradesh,1973,27.27,20,
+Maharashtra,1973,45.77,21,
+Manipur,1973,38.47,22,
+Meghalaya,1973,29.49,23,
+Mizoram,1973,53.8,24,
+Nagaland,1973,33.78,25,
+Orissa,1973,26.18,26,
+Puducherry,1973,53.38,27,
+Punjab,1973,34.12,28,
+Rajasthan,1973,22.57,29,
+Sikkim,1973,17.74,30,
+Tamil Nadu,1973,45.4,31,
+Tripura,1973,30.98,32,
+Uttar Pradesh,1973,23.99,33,
+Uttaranchal,1973,33.26,34,
+West Bengal,1973,38.86,35,
+Jammu and Kashmir,1973,21.71,15,
+Andaman and Nicobar,1972,51.15,1,
+Telangana,1972,0,36,
+Andhra Pradesh,1972,24.57,2,
+Arunachal Pradesh,1972,11.29,3,
+Assam,1972,33.94,4,
+Bihar,1972,23.17,5,
+Chandigarh,1972,70.43,6,
+Chhattisgarh,1972,24.08,7,
+Dadra and Nagar Haveli,1972,18.13,8,
+Daman and Diu,1972,0,9,
+Delhi,1972,65.08,10,
+Goa,1972,51.96,11,
+Gujarat,1972,36.95,12,
+Haryana,1972,25.71,13,
+Himachal Pradesh,1972,0,14,
+Jharkhand,1972,23.87,16,
+Karnataka,1972,36.83,17,
+Kerala,1972,69.75,18,
+Lakshadweep,1972,51.76,19,
+Madhya Pradesh,1972,27.27,20,
+Maharashtra,1972,45.77,21,
+Manipur,1972,38.47,22,
+Meghalaya,1972,29.49,23,
+Mizoram,1972,53.8,24,
+Nagaland,1972,33.78,25,
+Orissa,1972,26.18,26,
+Puducherry,1972,53.38,27,
+Punjab,1972,34.12,28,
+Rajasthan,1972,22.57,29,
+Sikkim,1972,17.74,30,
+Tamil Nadu,1972,45.4,31,
+Tripura,1972,30.98,32,
+Uttar Pradesh,1972,23.99,33,
+Uttaranchal,1972,33.26,34,
+West Bengal,1972,38.86,35,
+Jammu and Kashmir,1972,21.71,15,
+Andaman and Nicobar,1971,51.15,1,
+Telangana,1971,0,36,
+Andhra Pradesh,1971,24.57,2,
+Arunachal Pradesh,1971,11.29,3,
+Assam,1971,33.94,4,
+Bihar,1971,23.17,5,
+Chandigarh,1971,70.43,6,
+Chhattisgarh,1971,24.08,7,
+Dadra and Nagar Haveli,1971,18.13,8,
+Daman and Diu,1971,0,9,
+Delhi,1971,65.08,10,
+Goa,1971,51.96,11,
+Gujarat,1971,36.95,12,
+Haryana,1971,25.71,13,
+Himachal Pradesh,1971,0,14,
+Jharkhand,1971,23.87,16,
+Karnataka,1971,36.83,17,
+Kerala,1971,69.75,18,
+Lakshadweep,1971,51.76,19,
+Madhya Pradesh,1971,27.27,20,
+Maharashtra,1971,45.77,21,
+Manipur,1971,38.47,22,
+Meghalaya,1971,29.49,23,
+Mizoram,1971,53.8,24,
+Nagaland,1971,33.78,25,
+Orissa,1971,26.18,26,
+Puducherry,1971,53.38,27,
+Punjab,1971,34.12,28,
+Rajasthan,1971,22.57,29,
+Sikkim,1971,17.74,30,
+Tamil Nadu,1971,45.4,31,
+Tripura,1971,30.98,32,
+Uttar Pradesh,1971,23.99,33,
+Uttaranchal,1971,33.26,34,
+West Bengal,1971,38.86,35,
+Jammu and Kashmir,1971,21.71,15,
+Andaman and Nicobar,1970,40.07,1,
+Telangana,1970,0,36,
+Andhra Pradesh,1970,21.19,2,
+Arunachal Pradesh,1970,7.13,3,
+Assam,1970,32.95,4,
+Bihar,1970,21.95,5,
+Chandigarh,1970,0,6,
+Chhattisgarh,1970,18.14,7,
+Dadra and Nagar Haveli,1970,0,8,
+Daman and Diu,1970,0,9,
+Delhi,1970,61.95,10,
+Goa,1970,35.41,11,
+Gujarat,1970,31.47,12,
+Haryana,1970,0,13,
+Himachal Pradesh,1970,0,14,
+Jharkhand,1970,21.14,16,
+Karnataka,1970,29.8,17,
+Kerala,1970,55.08,18,
+Lakshadweep,1970,27.15,19,
+Madhya Pradesh,1970,21.41,20,
+Maharashtra,1970,35.08,21,
+Manipur,1970,36.04,22,
+Meghalaya,1970,26.92,23,
+Mizoram,1970,44.01,24,
+Nagaland,1970,21.95,25,
+Orissa,1970,21.66,26,
+Puducherry,1970,43.65,27,
+Punjab,1970,0,28,
+Rajasthan,1970,18.12,29,
+Sikkim,1970,0,30,
+Tamil Nadu,1970,36.39,31,
+Tripura,1970,20.24,32,
+Uttar Pradesh,1970,20.87,33,
+Uttaranchal,1970,18.05,34,
+West Bengal,1970,34.46,35,
+Jammu and Kashmir,1970,12.95,15,
+Andaman and Nicobar,1969,40.07,1,
+Telangana,1969,0,36,
+Andhra Pradesh,1969,21.19,2,
+Arunachal Pradesh,1969,7.13,3,
+Assam,1969,32.95,4,
+Bihar,1969,21.95,5,
+Chandigarh,1969,0,6,
+Chhattisgarh,1969,18.14,7,
+Dadra and Nagar Haveli,1969,0,8,
+Daman and Diu,1969,0,9,
+Delhi,1969,61.95,10,
+Goa,1969,35.41,11,
+Gujarat,1969,31.47,12,
+Haryana,1969,0,13,
+Himachal Pradesh,1969,0,14,
+Jharkhand,1969,21.14,16,
+Karnataka,1969,29.8,17,
+Kerala,1969,55.08,18,
+Lakshadweep,1969,27.15,19,
+Madhya Pradesh,1969,21.41,20,
+Maharashtra,1969,35.08,21,
+Manipur,1969,36.04,22,
+Meghalaya,1969,26.92,23,
+Mizoram,1969,44.01,24,
+Nagaland,1969,21.95,25,
+Orissa,1969,21.66,26,
+Puducherry,1969,43.65,27,
+Punjab,1969,0,28,
+Rajasthan,1969,18.12,29,
+Sikkim,1969,0,30,
+Tamil Nadu,1969,36.39,31,
+Tripura,1969,20.24,32,
+Uttar Pradesh,1969,20.87,33,
+Uttaranchal,1969,18.05,34,
+West Bengal,1969,34.46,35,
+Jammu and Kashmir,1969,12.95,15,
+Andaman and Nicobar,1968,40.07,1,
+Telangana,1968,0,36,
+Andhra Pradesh,1968,21.19,2,
+Arunachal Pradesh,1968,7.13,3,
+Assam,1968,32.95,4,
+Bihar,1968,21.95,5,
+Chandigarh,1968,0,6,
+Chhattisgarh,1968,18.14,7,
+Dadra and Nagar Haveli,1968,0,8,
+Daman and Diu,1968,0,9,
+Delhi,1968,61.95,10,
+Goa,1968,35.41,11,
+Gujarat,1968,31.47,12,
+Haryana,1968,0,13,
+Himachal Pradesh,1968,0,14,
+Jharkhand,1968,21.14,16,
+Karnataka,1968,29.8,17,
+Kerala,1968,55.08,18,
+Lakshadweep,1968,27.15,19,
+Madhya Pradesh,1968,21.41,20,
+Maharashtra,1968,35.08,21,
+Manipur,1968,36.04,22,
+Meghalaya,1968,26.92,23,
+Mizoram,1968,44.01,24,
+Nagaland,1968,21.95,25,
+Orissa,1968,21.66,26,
+Puducherry,1968,43.65,27,
+Punjab,1968,0,28,
+Rajasthan,1968,18.12,29,
+Sikkim,1968,0,30,
+Tamil Nadu,1968,36.39,31,
+Tripura,1968,20.24,32,
+Uttar Pradesh,1968,20.87,33,
+Uttaranchal,1968,18.05,34,
+West Bengal,1968,34.46,35,
+Jammu and Kashmir,1968,12.95,15,
+Andaman and Nicobar,1967,40.07,1,
+Telangana,1967,0,36,
+Andhra Pradesh,1967,21.19,2,
+Arunachal Pradesh,1967,7.13,3,
+Assam,1967,32.95,4,
+Bihar,1967,21.95,5,
+Chandigarh,1967,0,6,
+Chhattisgarh,1967,18.14,7,
+Dadra and Nagar Haveli,1967,0,8,
+Daman and Diu,1967,0,9,
+Delhi,1967,61.95,10,
+Goa,1967,35.41,11,
+Gujarat,1967,31.47,12,
+Haryana,1967,0,13,
+Himachal Pradesh,1967,0,14,
+Jharkhand,1967,21.14,16,
+Karnataka,1967,29.8,17,
+Kerala,1967,55.08,18,
+Lakshadweep,1967,27.15,19,
+Madhya Pradesh,1967,21.41,20,
+Maharashtra,1967,35.08,21,
+Manipur,1967,36.04,22,
+Meghalaya,1967,26.92,23,
+Mizoram,1967,44.01,24,
+Nagaland,1967,21.95,25,
+Orissa,1967,21.66,26,
+Puducherry,1967,43.65,27,
+Punjab,1967,0,28,
+Rajasthan,1967,18.12,29,
+Sikkim,1967,0,30,
+Tamil Nadu,1967,36.39,31,
+Tripura,1967,20.24,32,
+Uttar Pradesh,1967,20.87,33,
+Uttaranchal,1967,18.05,34,
+West Bengal,1967,34.46,35,
+Jammu and Kashmir,1967,12.95,15,
+Andaman and Nicobar,1966,40.07,1,
+Telangana,1966,0,36,
+Andhra Pradesh,1966,21.19,2,
+Arunachal Pradesh,1966,7.13,3,
+Assam,1966,32.95,4,
+Bihar,1966,21.95,5,
+Chandigarh,1966,0,6,
+Chhattisgarh,1966,18.14,7,
+Dadra and Nagar Haveli,1966,0,8,
+Daman and Diu,1966,0,9,
+Delhi,1966,61.95,10,
+Goa,1966,35.41,11,
+Gujarat,1966,31.47,12,
+Haryana,1966,0,13,
+Himachal Pradesh,1966,0,14,
+Jharkhand,1966,21.14,16,
+Karnataka,1966,29.8,17,
+Kerala,1966,55.08,18,
+Lakshadweep,1966,27.15,19,
+Madhya Pradesh,1966,21.41,20,
+Maharashtra,1966,35.08,21,
+Manipur,1966,36.04,22,
+Meghalaya,1966,26.92,23,
+Mizoram,1966,44.01,24,
+Nagaland,1966,21.95,25,
+Orissa,1966,21.66,26,
+Puducherry,1966,43.65,27,
+Punjab,1966,0,28,
+Rajasthan,1966,18.12,29,
+Sikkim,1966,0,30,
+Tamil Nadu,1966,36.39,31,
+Tripura,1966,20.24,32,
+Uttar Pradesh,1966,20.87,33,
+Uttaranchal,1966,18.05,34,
+West Bengal,1966,34.46,35,
+Jammu and Kashmir,1966,12.95,15,
+Andaman and Nicobar,1965,40.07,1,
+Telangana,1965,0,36,
+Andhra Pradesh,1965,21.19,2,
+Arunachal Pradesh,1965,7.13,3,
+Assam,1965,32.95,4,
+Bihar,1965,21.95,5,
+Chandigarh,1965,0,6,
+Chhattisgarh,1965,18.14,7,
+Dadra and Nagar Haveli,1965,0,8,
+Daman and Diu,1965,0,9,
+Delhi,1965,61.95,10,
+Goa,1965,35.41,11,
+Gujarat,1965,31.47,12,
+Haryana,1965,0,13,
+Himachal Pradesh,1965,0,14,
+Jharkhand,1965,21.14,16,
+Karnataka,1965,29.8,17,
+Kerala,1965,55.08,18,
+Lakshadweep,1965,27.15,19,
+Madhya Pradesh,1965,21.41,20,
+Maharashtra,1965,35.08,21,
+Manipur,1965,36.04,22,
+Meghalaya,1965,26.92,23,
+Mizoram,1965,44.01,24,
+Nagaland,1965,21.95,25,
+Orissa,1965,21.66,26,
+Puducherry,1965,43.65,27,
+Punjab,1965,0,28,
+Rajasthan,1965,18.12,29,
+Sikkim,1965,0,30,
+Tamil Nadu,1965,36.39,31,
+Tripura,1965,20.24,32,
+Uttar Pradesh,1965,20.87,33,
+Uttaranchal,1965,18.05,34,
+West Bengal,1965,34.46,35,
+Jammu and Kashmir,1965,12.95,15,
+Andaman and Nicobar,1964,40.07,1,
+Telangana,1964,0,36,
+Andhra Pradesh,1964,21.19,2,
+Arunachal Pradesh,1964,7.13,3,
+Assam,1964,32.95,4,
+Bihar,1964,21.95,5,
+Chandigarh,1964,0,6,
+Chhattisgarh,1964,18.14,7,
+Dadra and Nagar Haveli,1964,0,8,
+Daman and Diu,1964,0,9,
+Delhi,1964,61.95,10,
+Goa,1964,35.41,11,
+Gujarat,1964,31.47,12,
+Haryana,1964,0,13,
+Himachal Pradesh,1964,0,14,
+Jharkhand,1964,21.14,16,
+Karnataka,1964,29.8,17,
+Kerala,1964,55.08,18,
+Lakshadweep,1964,27.15,19,
+Madhya Pradesh,1964,21.41,20,
+Maharashtra,1964,35.08,21,
+Manipur,1964,36.04,22,
+Meghalaya,1964,26.92,23,
+Mizoram,1964,44.01,24,
+Nagaland,1964,21.95,25,
+Orissa,1964,21.66,26,
+Puducherry,1964,43.65,27,
+Punjab,1964,0,28,
+Rajasthan,1964,18.12,29,
+Sikkim,1964,0,30,
+Tamil Nadu,1964,36.39,31,
+Tripura,1964,20.24,32,
+Uttar Pradesh,1964,20.87,33,
+Uttaranchal,1964,18.05,34,
+West Bengal,1964,34.46,35,
+Jammu and Kashmir,1964,12.95,15,
+Andaman and Nicobar,1963,40.07,1,
+Telangana,1963,0,36,
+Andhra Pradesh,1963,21.19,2,
+Arunachal Pradesh,1963,7.13,3,
+Assam,1963,32.95,4,
+Bihar,1963,21.95,5,
+Chandigarh,1963,0,6,
+Chhattisgarh,1963,18.14,7,
+Dadra and Nagar Haveli,1963,0,8,
+Daman and Diu,1963,0,9,
+Delhi,1963,61.95,10,
+Goa,1963,35.41,11,
+Gujarat,1963,31.47,12,
+Haryana,1963,0,13,
+Himachal Pradesh,1963,0,14,
+Jharkhand,1963,21.14,16,
+Karnataka,1963,29.8,17,
+Kerala,1963,55.08,18,
+Lakshadweep,1963,27.15,19,
+Madhya Pradesh,1963,21.41,20,
+Maharashtra,1963,35.08,21,
+Manipur,1963,36.04,22,
+Meghalaya,1963,26.92,23,
+Mizoram,1963,44.01,24,
+Nagaland,1963,21.95,25,
+Orissa,1963,21.66,26,
+Puducherry,1963,43.65,27,
+Punjab,1963,0,28,
+Rajasthan,1963,18.12,29,
+Sikkim,1963,0,30,
+Tamil Nadu,1963,36.39,31,
+Tripura,1963,20.24,32,
+Uttar Pradesh,1963,20.87,33,
+Uttaranchal,1963,18.05,34,
+West Bengal,1963,34.46,35,
+Jammu and Kashmir,1963,12.95,15,
+Andaman and Nicobar,1962,40.07,1,
+Telangana,1962,0,36,
+Andhra Pradesh,1962,21.19,2,
+Arunachal Pradesh,1962,7.13,3,
+Assam,1962,32.95,4,
+Bihar,1962,21.95,5,
+Chandigarh,1962,0,6,
+Chhattisgarh,1962,18.14,7,
+Dadra and Nagar Haveli,1962,0,8,
+Daman and Diu,1962,0,9,
+Delhi,1962,61.95,10,
+Goa,1962,35.41,11,
+Gujarat,1962,31.47,12,
+Haryana,1962,0,13,
+Himachal Pradesh,1962,0,14,
+Jharkhand,1962,21.14,16,
+Karnataka,1962,29.8,17,
+Kerala,1962,55.08,18,
+Lakshadweep,1962,27.15,19,
+Madhya Pradesh,1962,21.41,20,
+Maharashtra,1962,35.08,21,
+Manipur,1962,36.04,22,
+Meghalaya,1962,26.92,23,
+Mizoram,1962,44.01,24,
+Nagaland,1962,21.95,25,
+Orissa,1962,21.66,26,
+Puducherry,1962,43.65,27,
+Punjab,1962,0,28,
+Rajasthan,1962,18.12,29,
+Sikkim,1962,0,30,
+Tamil Nadu,1962,36.39,31,
+Tripura,1962,20.24,32,
+Uttar Pradesh,1962,20.87,33,
+Uttaranchal,1962,18.05,34,
+West Bengal,1962,34.46,35,
+Jammu and Kashmir,1962,12.95,15,
+Andaman and Nicobar,1961,40.07,1,
+Telangana,1961,0,36,
+Andhra Pradesh,1961,21.19,2,
+Arunachal Pradesh,1961,7.13,3,
+Assam,1961,32.95,4,
+Bihar,1961,21.95,5,
+Chandigarh,1961,0,6,
+Chhattisgarh,1961,18.14,7,
+Dadra and Nagar Haveli,1961,0,8,
+Daman and Diu,1961,0,9,
+Delhi,1961,61.95,10,
+Goa,1961,35.41,11,
+Gujarat,1961,31.47,12,
+Haryana,1961,0,13,
+Himachal Pradesh,1961,0,14,
+Jharkhand,1961,21.14,16,
+Karnataka,1961,29.8,17,
+Kerala,1961,55.08,18,
+Lakshadweep,1961,27.15,19,
+Madhya Pradesh,1961,21.41,20,
+Maharashtra,1961,35.08,21,
+Manipur,1961,36.04,22,
+Meghalaya,1961,26.92,23,
+Mizoram,1961,44.01,24,
+Nagaland,1961,21.95,25,
+Orissa,1961,21.66,26,
+Puducherry,1961,43.65,27,
+Punjab,1961,0,28,
+Rajasthan,1961,18.12,29,
+Sikkim,1961,0,30,
+Tamil Nadu,1961,36.39,31,
+Tripura,1961,20.24,32,
+Uttar Pradesh,1961,20.87,33,
+Uttaranchal,1961,18.05,34,
+West Bengal,1961,34.46,35,
+Jammu and Kashmir,1961,12.95,15,
+Andaman and Nicobar,1960,30.3,1,
+Telangana,1960,0,36,
+Andhra Pradesh,1960,0,2,
+Arunachal Pradesh,1960,0,3,
+Assam,1960,18.53,4,
+Bihar,1960,13.49,5,
+Chandigarh,1960,0,6,
+Chhattisgarh,1960,9.41,7,
+Dadra and Nagar Haveli,1960,0,8,
+Daman and Diu,1960,0,9,
+Delhi,1960,0,10,
+Goa,1960,23.48,11,
+Gujarat,1960,21.82,12,
+Haryana,1960,0,13,
+Himachal Pradesh,1960,0,14,
+Jharkhand,1960,12.93,16,
+Karnataka,1960,0,17,
+Kerala,1960,47.18,18,
+Lakshadweep,1960,15.23,19,
+Madhya Pradesh,1960,13.16,20,
+Maharashtra,1960,27.91,21,
+Manipur,1960,12.57,22,
+Meghalaya,1960,0,23,
+Mizoram,1960,31.14,24,
+Nagaland,1960,10.52,25,
+Orissa,1960,15.8,26,
+Puducherry,1960,0,27,
+Punjab,1960,0,28,
+Rajasthan,1960,8.5,29,
+Sikkim,1960,0,30,
+Tamil Nadu,1960,0,31,
+Tripura,1960,0,32,
+Uttar Pradesh,1960,12.02,33,
+Uttaranchal,1960,18.93,34,
+West Bengal,1960,24.61,35,
+Jammu and Kashmir,1960,0,15,
+Andaman and Nicobar,1959,30.3,1,
+Telangana,1959,0,36,
+Andhra Pradesh,1959,0,2,
+Arunachal Pradesh,1959,0,3,
+Assam,1959,18.53,4,
+Bihar,1959,13.49,5,
+Chandigarh,1959,0,6,
+Chhattisgarh,1959,9.41,7,
+Dadra and Nagar Haveli,1959,0,8,
+Daman and Diu,1959,0,9,
+Delhi,1959,0,10,
+Goa,1959,23.48,11,
+Gujarat,1959,21.82,12,
+Haryana,1959,0,13,
+Himachal Pradesh,1959,0,14,
+Jharkhand,1959,12.93,16,
+Karnataka,1959,0,17,
+Kerala,1959,47.18,18,
+Lakshadweep,1959,15.23,19,
+Madhya Pradesh,1959,13.16,20,
+Maharashtra,1959,27.91,21,
+Manipur,1959,12.57,22,
+Meghalaya,1959,0,23,
+Mizoram,1959,31.14,24,
+Nagaland,1959,10.52,25,
+Orissa,1959,15.8,26,
+Puducherry,1959,0,27,
+Punjab,1959,0,28,
+Rajasthan,1959,8.5,29,
+Sikkim,1959,0,30,
+Tamil Nadu,1959,0,31,
+Tripura,1959,0,32,
+Uttar Pradesh,1959,12.02,33,
+Uttaranchal,1959,18.93,34,
+West Bengal,1959,24.61,35,
+Jammu and Kashmir,1959,0,15,
+Andaman and Nicobar,1958,30.3,1,
+Telangana,1958,0,36,
+Andhra Pradesh,1958,0,2,
+Arunachal Pradesh,1958,0,3,
+Assam,1958,18.53,4,
+Bihar,1958,13.49,5,
+Chandigarh,1958,0,6,
+Chhattisgarh,1958,9.41,7,
+Dadra and Nagar Haveli,1958,0,8,
+Daman and Diu,1958,0,9,
+Delhi,1958,0,10,
+Goa,1958,23.48,11,
+Gujarat,1958,21.82,12,
+Haryana,1958,0,13,
+Himachal Pradesh,1958,0,14,
+Jharkhand,1958,12.93,16,
+Karnataka,1958,0,17,
+Kerala,1958,47.18,18,
+Lakshadweep,1958,15.23,19,
+Madhya Pradesh,1958,13.16,20,
+Maharashtra,1958,27.91,21,
+Manipur,1958,12.57,22,
+Meghalaya,1958,0,23,
+Mizoram,1958,31.14,24,
+Nagaland,1958,10.52,25,
+Orissa,1958,15.8,26,
+Puducherry,1958,0,27,
+Punjab,1958,0,28,
+Rajasthan,1958,8.5,29,
+Sikkim,1958,0,30,
+Tamil Nadu,1958,0,31,
+Tripura,1958,0,32,
+Uttar Pradesh,1958,12.02,33,
+Uttaranchal,1958,18.93,34,
+West Bengal,1958,24.61,35,
+Jammu and Kashmir,1958,0,15,
+Andaman and Nicobar,1957,30.3,1,
+Telangana,1957,0,36,
+Andhra Pradesh,1957,0,2,
+Arunachal Pradesh,1957,0,3,
+Assam,1957,18.53,4,
+Bihar,1957,13.49,5,
+Chandigarh,1957,0,6,
+Chhattisgarh,1957,9.41,7,
+Dadra and Nagar Haveli,1957,0,8,
+Daman and Diu,1957,0,9,
+Delhi,1957,0,10,
+Goa,1957,23.48,11,
+Gujarat,1957,21.82,12,
+Haryana,1957,0,13,
+Himachal Pradesh,1957,0,14,
+Jharkhand,1957,12.93,16,
+Karnataka,1957,0,17,
+Kerala,1957,47.18,18,
+Lakshadweep,1957,15.23,19,
+Madhya Pradesh,1957,13.16,20,
+Maharashtra,1957,27.91,21,
+Manipur,1957,12.57,22,
+Meghalaya,1957,0,23,
+Mizoram,1957,31.14,24,
+Nagaland,1957,10.52,25,
+Orissa,1957,15.8,26,
+Puducherry,1957,0,27,
+Punjab,1957,0,28,
+Rajasthan,1957,8.5,29,
+Sikkim,1957,0,30,
+Tamil Nadu,1957,0,31,
+Tripura,1957,0,32,
+Uttar Pradesh,1957,12.02,33,
+Uttaranchal,1957,18.93,34,
+West Bengal,1957,24.61,35,
+Jammu and Kashmir,1957,0,15,
+Andaman and Nicobar,1956,30.3,1,
+Telangana,1956,0,36,
+Andhra Pradesh,1956,0,2,
+Arunachal Pradesh,1956,0,3,
+Assam,1956,18.53,4,
+Bihar,1956,13.49,5,
+Chandigarh,1956,0,6,
+Chhattisgarh,1956,9.41,7,
+Dadra and Nagar Haveli,1956,0,8,
+Daman and Diu,1956,0,9,
+Delhi,1956,0,10,
+Goa,1956,23.48,11,
+Gujarat,1956,21.82,12,
+Haryana,1956,0,13,
+Himachal Pradesh,1956,0,14,
+Jharkhand,1956,12.93,16,
+Karnataka,1956,0,17,
+Kerala,1956,47.18,18,
+Lakshadweep,1956,15.23,19,
+Madhya Pradesh,1956,13.16,20,
+Maharashtra,1956,27.91,21,
+Manipur,1956,12.57,22,
+Meghalaya,1956,0,23,
+Mizoram,1956,31.14,24,
+Nagaland,1956,10.52,25,
+Orissa,1956,15.8,26,
+Puducherry,1956,0,27,
+Punjab,1956,0,28,
+Rajasthan,1956,8.5,29,
+Sikkim,1956,0,30,
+Tamil Nadu,1956,0,31,
+Tripura,1956,0,32,
+Uttar Pradesh,1956,12.02,33,
+Uttaranchal,1956,18.93,34,
+West Bengal,1956,24.61,35,
+Jammu and Kashmir,1956,0,15,
+Andaman and Nicobar,1955,30.3,1,
+Telangana,1955,0,36,
+Andhra Pradesh,1955,0,2,
+Arunachal Pradesh,1955,0,3,
+Assam,1955,18.53,4,
+Bihar,1955,13.49,5,
+Chandigarh,1955,0,6,
+Chhattisgarh,1955,9.41,7,
+Dadra and Nagar Haveli,1955,0,8,
+Daman and Diu,1955,0,9,
+Delhi,1955,0,10,
+Goa,1955,23.48,11,
+Gujarat,1955,21.82,12,
+Haryana,1955,0,13,
+Himachal Pradesh,1955,0,14,
+Jharkhand,1955,12.93,16,
+Karnataka,1955,0,17,
+Kerala,1955,47.18,18,
+Lakshadweep,1955,15.23,19,
+Madhya Pradesh,1955,13.16,20,
+Maharashtra,1955,27.91,21,
+Manipur,1955,12.57,22,
+Meghalaya,1955,0,23,
+Mizoram,1955,31.14,24,
+Nagaland,1955,10.52,25,
+Orissa,1955,15.8,26,
+Puducherry,1955,0,27,
+Punjab,1955,0,28,
+Rajasthan,1955,8.5,29,
+Sikkim,1955,0,30,
+Tamil Nadu,1955,0,31,
+Tripura,1955,0,32,
+Uttar Pradesh,1955,12.02,33,
+Uttaranchal,1955,18.93,34,
+West Bengal,1955,24.61,35,
+Jammu and Kashmir,1955,0,15,
+Andaman and Nicobar,1954,30.3,1,
+Telangana,1954,0,36,
+Andhra Pradesh,1954,0,2,
+Arunachal Pradesh,1954,0,3,
+Assam,1954,18.53,4,
+Bihar,1954,13.49,5,
+Chandigarh,1954,0,6,
+Chhattisgarh,1954,9.41,7,
+Dadra and Nagar Haveli,1954,0,8,
+Daman and Diu,1954,0,9,
+Delhi,1954,0,10,
+Goa,1954,23.48,11,
+Gujarat,1954,21.82,12,
+Haryana,1954,0,13,
+Himachal Pradesh,1954,0,14,
+Jharkhand,1954,12.93,16,
+Karnataka,1954,0,17,
+Kerala,1954,47.18,18,
+Lakshadweep,1954,15.23,19,
+Madhya Pradesh,1954,13.16,20,
+Maharashtra,1954,27.91,21,
+Manipur,1954,12.57,22,
+Meghalaya,1954,0,23,
+Mizoram,1954,31.14,24,
+Nagaland,1954,10.52,25,
+Orissa,1954,15.8,26,
+Puducherry,1954,0,27,
+Punjab,1954,0,28,
+Rajasthan,1954,8.5,29,
+Sikkim,1954,0,30,
+Tamil Nadu,1954,0,31,
+Tripura,1954,0,32,
+Uttar Pradesh,1954,12.02,33,
+Uttaranchal,1954,18.93,34,
+West Bengal,1954,24.61,35,
+Jammu and Kashmir,1954,0,15,
+Andaman and Nicobar,1953,30.3,1,
+Telangana,1953,0,36,
+Andhra Pradesh,1953,0,2,
+Arunachal Pradesh,1953,0,3,
+Assam,1953,18.53,4,
+Bihar,1953,13.49,5,
+Chandigarh,1953,0,6,
+Chhattisgarh,1953,9.41,7,
+Dadra and Nagar Haveli,1953,0,8,
+Daman and Diu,1953,0,9,
+Delhi,1953,0,10,
+Goa,1953,23.48,11,
+Gujarat,1953,21.82,12,
+Haryana,1953,0,13,
+Himachal Pradesh,1953,0,14,
+Jharkhand,1953,12.93,16,
+Karnataka,1953,0,17,
+Kerala,1953,47.18,18,
+Lakshadweep,1953,15.23,19,
+Madhya Pradesh,1953,13.16,20,
+Maharashtra,1953,27.91,21,
+Manipur,1953,12.57,22,
+Meghalaya,1953,0,23,
+Mizoram,1953,31.14,24,
+Nagaland,1953,10.52,25,
+Orissa,1953,15.8,26,
+Puducherry,1953,0,27,
+Punjab,1953,0,28,
+Rajasthan,1953,8.5,29,
+Sikkim,1953,0,30,
+Tamil Nadu,1953,0,31,
+Tripura,1953,0,32,
+Uttar Pradesh,1953,12.02,33,
+Uttaranchal,1953,18.93,34,
+West Bengal,1953,24.61,35,
+Jammu and Kashmir,1953,0,15,
+Andaman and Nicobar,1952,30.3,1,
+Telangana,1952,0,36,
+Andhra Pradesh,1952,0,2,
+Arunachal Pradesh,1952,0,3,
+Assam,1952,18.53,4,
+Bihar,1952,13.49,5,
+Chandigarh,1952,0,6,
+Chhattisgarh,1952,9.41,7,
+Dadra and Nagar Haveli,1952,0,8,
+Daman and Diu,1952,0,9,
+Delhi,1952,0,10,
+Goa,1952,23.48,11,
+Gujarat,1952,21.82,12,
+Haryana,1952,0,13,
+Himachal Pradesh,1952,0,14,
+Jharkhand,1952,12.93,16,
+Karnataka,1952,0,17,
+Kerala,1952,47.18,18,
+Lakshadweep,1952,15.23,19,
+Madhya Pradesh,1952,13.16,20,
+Maharashtra,1952,27.91,21,
+Manipur,1952,12.57,22,
+Meghalaya,1952,0,23,
+Mizoram,1952,31.14,24,
+Nagaland,1952,10.52,25,
+Orissa,1952,15.8,26,
+Puducherry,1952,0,27,
+Punjab,1952,0,28,
+Rajasthan,1952,8.5,29,
+Sikkim,1952,0,30,
+Tamil Nadu,1952,0,31,
+Tripura,1952,0,32,
+Uttar Pradesh,1952,12.02,33,
+Uttaranchal,1952,18.93,34,
+West Bengal,1952,24.61,35,
+Jammu and Kashmir,1952,0,15,
+Andaman and Nicobar,1951,30.3,1,
+Telangana,1951,0,36,
+Andhra Pradesh,1951,0,2,
+Arunachal Pradesh,1951,0,3,
+Assam,1951,18.53,4,
+Bihar,1951,13.49,5,
+Chandigarh,1951,0,6,
+Chhattisgarh,1951,9.41,7,
+Dadra and Nagar Haveli,1951,0,8,
+Daman and Diu,1951,0,9,
+Delhi,1951,0,10,
+Goa,1951,23.48,11,
+Gujarat,1951,21.82,12,
+Haryana,1951,0,13,
+Himachal Pradesh,1951,0,14,
+Jharkhand,1951,12.93,16,
+Karnataka,1951,0,17,
+Kerala,1951,47.18,18,
+Lakshadweep,1951,15.23,19,
+Madhya Pradesh,1951,13.16,20,
+Maharashtra,1951,27.91,21,
+Manipur,1951,12.57,22,
+Meghalaya,1951,0,23,
+Mizoram,1951,31.14,24,
+Nagaland,1951,10.52,25,
+Orissa,1951,15.8,26,
+Puducherry,1951,0,27,
+Punjab,1951,0,28,
+Rajasthan,1951,8.5,29,
+Sikkim,1951,0,30,
+Tamil Nadu,1951,0,31,
+Tripura,1951,0,32,
+Uttar Pradesh,1951,12.02,33,
+Uttaranchal,1951,18.93,34,
+West Bengal,1951,24.61,35,
+Jammu and Kashmir,1951,0,15,
